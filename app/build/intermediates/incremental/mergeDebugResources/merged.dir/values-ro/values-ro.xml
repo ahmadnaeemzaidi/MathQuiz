@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Fereastra se va închide în %1$s secundă."</item>
+        <item priority="translator" quantity="few">"Fereastra se va închide în %1$s secunde."</item>
+        <item priority="translator" quantity="other">"Fereastra se va închide în %1$s secunde."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"Reclama va putea fi închisă în %ds"</item>
+        <item priority="LT" quantity="few">"Reclama va putea fi închisă în %ds"</item>
+        <item priority="translator" quantity="other">"Reclama va putea fi închisă în %ds"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="translator" quantity="one">"Rețineți alegerea timp de %1$s zi"</item>
+        <item priority="translator" quantity="few">"Rețineți alegerea timp de %1$s zile"</item>
+        <item priority="translator" quantity="other">"Rețineți alegerea timp de %1$s zile"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="translator" quantity="one">"Câștigați o recompensă peste %d s"</item>
+        <item priority="translator" quantity="few">"Câștigați o recompensă peste %d s"</item>
+        <item priority="translator" quantity="other">"Câștigați o recompensă peste %d s"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Vizionați timp de %d secundă pentru a câștiga o recompensă."</item>
+        <item priority="LT" quantity="few">"Vizionați timp de %d secunde pentru a câștiga o recompensă."</item>
+        <item priority="translator" quantity="other">"Vizionați timp de %d de secunde pentru a câștiga o recompensă."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="LT" quantity="few">"%1$d s"</item>
+        <item priority="translator" quantity="other">"%1$d s"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificare nouă</item>
+    <item quantity="few">%d notificări noi</item>
+    <item quantity="other">%d de notificări noi</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gata"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Afișați tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DEZACTIVAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meniu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Termen de căutare"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
+    <string name="character_counter_content_description">Caractere introduse: %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
+    <string name="error_icon_content_description">Eroare</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Anunț"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Versiunea %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s a fost instalat"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Instalare finalizată. Atingeți pentru a deschide."</string>
+    <string name="hiad_app_permission" priority="LT">"Permisiuni"</string>
+    <string name="hiad_calender_add" priority="LT">"OK"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"Evenimentul există deja."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Adăugați acest eveniment în calendar?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Evenimentul nu poate fi adăugat."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Eveniment adăugat."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Ștergeți acest eveniment din calendar?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Evenimentul nu poate fi șters."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Eveniment șters."</string>
+    <string name="hiad_calender_delete" priority="LT">"Ștergeți"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Se utilizează pentru a genera memento-uri de calendar sau pentru a crea evenimente pentru activitățile promoționale la care intenționați să participați."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Notă"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Această aplicație necesită permisiunea pentru Calendar pentru a crea evenimente în Calendar. Puteți acorda această permisiune în Setări."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Această aplicație necesită permisiunea pentru Calendar pentru a șterge evenimente din Calendar. Puteți acorda această permisiune în Setări."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Se folosește pentru a crea mementouri în Calendar, pentru a putea seta și primi mementouri pentru evenimente."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Permisiune necesară"</string>
+    <string name="hiad_calender_set" priority="LT">"Setări"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Se utilizează pentru serviciile interactive AR."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Anunț ascuns"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Nu mă interesează"</string>
+    <string name="hiad_choices_hide" priority="translator">"Ascundeți anunțul"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"De ce am văzut acest anunț?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Reîncercați"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Instalați această aplicație?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Utilizarea unei rețele mobile va determina consumarea a %1$s din traficul de date. Continuați?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Redarea va utiliza date mobile. Continuați?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Utilizează o conexiune mobilă. Dacă vizionați, veți utiliza %1$s din datele mobile."</string>
+    <string name="hiad_continue_download" priority="LT">"Descărcare"</string>
+    <string name="hiad_continue_download_new" priority="LT">"DESCĂRCARE"</string>
+    <string name="hiad_continue_to_play" priority="LT">"CONTINUARE"</string>
+    <string name="hiad_copy_link" priority="LT">"Copiere link"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Aplicație"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Omitere"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Omitere în %d"</string>
+    <string name="hiad_detail" priority="LT">"Detalii"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Descărcare"</string>
+    <string name="hiad_dialog_accept" priority="LT">"PERMITEȚI"</string>
+    <string name="hiad_dialog_allow" priority="LT">"PERMIT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ANULARE"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"DESCĂRCARE"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"AM ÎNȚELES"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Permiteți %1$s să instaleze %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Sursă: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"PERMITERE"</string>
+    <string name="hiad_dialog_open" priority="LT">"DESCHIDEȚI"</string>
+    <string name="hiad_dialog_reject" priority="LT">"REFUZ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Descărcați prin conexiunea de date mobile?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Notă"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Descărcați utilizând conexiunea de date mobile?"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALARE"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"DESCĂRCARE (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Se descarcă"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"A apărut o eroare în timpul descărcării %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fișier corupt. Descărcați-l din nou."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Fișierul nu există. Încercați din nou."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALARE"</string>
+    <string name="hiad_download_installing" priority="LT">"Se instalează"</string>
+    <string name="hiad_download_no_space" priority="LT">"Spațiu de stocare insuficient. Eliberați spațiu și încercați din nou."</string>
+    <string name="hiad_download_open" priority="LT">"DESCHIDERE"</string>
+    <string name="hiad_download_resume" priority="LT">"CONTINUARE"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"A apărut o eroare în timpul descărcării %1$s. Descărcarea va reporni."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Nu sunteți conectat la Wi-Fi. Dacă descărcați acum, veți utiliza %1$s din abonamentul de date mobile. Descărcați oricum?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Nu sunteți conectat la WLAN. Dacă descărcați acum, veți utiliza %1$s din abonamentul de date mobile. Descărcați oricum?"</string>
+    <string name="hiad_go_to_settings" priority="translator">"Setări"</string>
+    <string name="hiad_install_completed" priority="LT">"Terminat"</string>
+    <string name="hiad_installed_description" priority="translator">"Instalare reușită. Atingeți pentru a deschide."</string>
+    <string name="hiad_jump_desc" priority="translator">"Vizualizați detaliile sau mergeți la aplicație"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Această pagină dorește să deschidă %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Link copiat."</string>
+    <string name="hiad_loading_tips" priority="LT">Se încarcă…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Această descărcare va utiliza %1$s de date mobile."</string>
+    <string name="hiad_net_error" priority="LT">Eroare de conexiune la rețea. Încercați din nou.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Fără conexiune la internet. Conectați-vă și încercați din nou."</string>
+    <string name="hiad_network_error" priority="LT">"Eroare de conectare la rețea."</string>
+    <string name="hiad_network_no_available" priority="LT">"Nu există conexiune la Internet. Verificați setările de rețea."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Nu îmi mai aminti"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Nu există conexiune Wi-Fi. Dacă descărcați acum, veți utiliza datele dvs. mobile. Descărcați?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Nu există conexiune WLAN. Dacă descărcați acum, veți utiliza datele dvs. mobile. Descărcați?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Deschidere în browser"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Pagina nu poate fi încărcată. Încercați din nou."</string>
+    <string name="hiad_permission_camera" priority="LT">"Această funcție necesită permisiunea de a accesa Camera foto. Acordați permisiunea în Setări."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s solicită următoarele permisiuni:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Pre-comandă"</string>
+    <string name="hiad_prepare_download" priority="LT">"Așteptați pentru Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Descărcați prin rețeaua mobilă?"</string>
+    <string name="hiad_prepare_download_zh" priority="translator">"Așteptați pentru WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Confidențialitate"</string>
+    <string name="hiad_refresh" priority="LT">"Reîmprospătare"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Aplicația depășește %1$d MB"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Anulare"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Dezvoltator: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Versiunea %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Omitere"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuați să urmăriți"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Vizionați această reclamă până la capăt pentru a câștiga o recompensă."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Anunțuri bazate pe locație"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Atingeți pentru a deschide site-ul web/aplicația"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"Aplicația se descarcă."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Treceți cu degetul în sus"</string>
+    <string name="hiad_twist_screen" priority="translator">"Scuturați telefonul"</string>
+    <string name="hiad_whether_download" priority="LT">"Descărcați această aplicație?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Preîncărcat prin Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Preîncărcat"</string>
+    <string name="icon_content_description">Pictogramă de dialog</string>
+    <string name="item_view_role_description">Filă</string>
+    <string name="material_clock_toggle_content_description">Selectați ora</string>
+    <string name="material_hour_selection">Selectați ora</string>
+    <string name="material_hour_suffix">Ora %1$s</string>
+    <string name="material_minute_selection">Selectați minutele</string>
+    <string name="material_minute_suffix">%1$s minute</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Pentru a introduce ora, comutați la modul ceas.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Selectați ora</string>
+    <string name="material_timepicker_text_input_mode_description">Pentru a introduce ora, comutați la modul de introducere a textului.</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Peste %1$d notificări noi</string>
+    <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
+    <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
+    <string name="mtrl_picker_announce_current_selection">Selecția actuală: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selectați data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selectată</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coloana cu zile: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format nevalid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplu: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Folosiți: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval nevalid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigați la anul %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fără acoperire: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de începere – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data de încheiere</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selectați intervalul</string>
+    <string name="mtrl_picker_range_header_unselected">Data de începere – data de încheiere</string>
+    <string name="mtrl_picker_save">Salvați</string>
+    <string name="mtrl_picker_text_input_date_hint">Dată</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de încheiere</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de începere</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul introducere în calendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere a textului</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="no_browser_tips" priority="LT">"Instalați mai întâi o aplicație tip browser."</string>
+    <string name="opendevice_ad_info" priority="LT">"Informații despre anunț"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Declarația privind Ads și confidențialitatea"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Toți agenții de publicitate"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"ANULARE"</string>
+    <string name="opendevice_bt_reset" priority="LT">"RESETARE"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Un nou ID de anunț va fi atribuit în mod aleatoriu."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Resetare ID anunț"</string>
+    <string name="opendevice_here" priority="LT">"aici"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Reclame și confidențialitate"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Ads"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Puteți renunța la primirea reclamelor personalizate care vă utilizează ID-ul publicitar. Dacă renunțați, veți primi în continuare reclame, dar acestea pot fi mai puțin relevante pentru dumneavoastră. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="translator">"Aflați mai multe despre utilizarea datelor și despre drepturile dvs."</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Dezactivați colectarea de statistici cu privire la Ad-ID"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Vom colecta informații despre acțiunile dumneavoastră pe ecran în aceste setări și despre aplicațiile care utilizează Ad-ID-ul dvs. pentru a îmbunătăți serviciile noastre. Pentru mai multe informații despre cum utilizăm aceste date, atingeți %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Vom colecta informații despre acțiunile dvs. pe ecran în aceste setări și despre aplicațiile care utilizează Ad-ID-ul dvs. pentru a îmbunătăți serviciile noastre."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Mai multe informații"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"ID-ul dumneavoastră publicitar (cunoscut și sub denumirea de OAID) este un identificator de dispozitiv temporar, utilizat pentru a vă oferi reclame personalizate."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Resetare ID anunț"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Puteți renunța să primiți anunțuri personalizate care folosesc Ad-ID-ul dumneavoastră. Dacă renunțați, veți primi în continuare anunțuri, însă acestea s-ar putea să fie mai puțin relevante pentru dumneavoastră."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Puteți renunța la primirea de reclame personalizate care utilizează ID-ul dvs. publicitar. Dacă renunțați, veți primi în continuare reclame, dar acestea vor fi mai puțin relevante pentru dvs."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"ID-ul dvs. publicitar"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"Ad-ID-ul dumneavoastră (cunoscut și ca OAID) este un identificator temporar de dispozitiv folosit pentru a vă oferi anunțuri personalizate. Pentru mai multe informații, atingeți %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Dezactivare reclame personalizate"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Aflați mai multe"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Recomandări inteligente"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Nu există conexiune la internet"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Serviciile de publicitate personalizate vă recomandă conținut care v-ar putea interesa. Confidențialitatea dumneavoastră va fi protejată în orice moment. Pentru mai multe informații, consultați %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Serviciile de publicitate personalizată recomandă conținut care vă poate interesa. Confidențialitatea dvs. va fi protejată în permanență. Pentru mai multe informații, consultați următoarele:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"Platforma HUAWEI Ads furnizează servicii publicitare pentru Huawei Mobile Services și aplicații terțe. Dacă sunt activate reclamele personalizate, s-ar putea ca datele dvs. cu caracter personal să fie utilizate pentru a furniza reclame mai relevante și mai utile. Pentru a afla mai multe despre modul de utilizare a datelor dvs. și despre drepturile pe care le aveți, consultați %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"Platforma HUAWEI Ads oferă servicii de publicitate pentru Huawei Mobile Services și aplicații terțe. Dacă sunt activate reclamele personalizate, datele dvs. personale ar putea fi utilizate pentru a vă oferi reclame mai relevante și mai utile. Pentru a afla mai multe despre modul în care sunt utilizate datele dvs. și despre drepturile dvs., vă rugăm să consultați următoarele:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Această funcție utilizează tehnologia federated learning pentru a recomanda produse și servicii care v-ar putea plăcea."</string>
+    <string name="opendevice_setting_network" priority="LT">"Setări rețea"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Identificator de dispozitiv"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Despre OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Declarație despre analiza statistică Ad-ID"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Informații despre anunț"</string>
+    <string name="password_toggle_content_description">Afișați parola</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Căutați"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

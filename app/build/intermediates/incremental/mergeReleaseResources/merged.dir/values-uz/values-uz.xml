@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Oyna %1$s soniyadan keyin yopiladi."</item>
+        <item priority="translator" quantity="other">"Oyna %1$s soniyadan keyin yopiladi."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"Reklamani %d soniyadan keyin yopish mumkin"</item>
+        <item priority="LT" quantity="other">"Reklamani %d soniyadan keyin yopish mumkin"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Tanlov %1$s kunga eslab qolinsin"</item>
+        <item priority="Reviewed" quantity="other">"Tanlov %1$s kunga eslab qolinsin"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="translator" quantity="one">"%d soniyadan keyin mukofot ishlab oling"</item>
+        <item priority="translator" quantity="other">"%d soniyadan keyin mukofot ishlab oling"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Mukofot ishlab olish uchun %d soniya tomosha qiling."</item>
+        <item priority="LT" quantity="other">"Mukofot ishlab olish uchun %d soniya tomosha qiling."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d soniya"</item>
+        <item priority="LT" quantity="other">"%1$d soniya"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ta yangi bildirishnoma</item>
+    <item quantity="other">%d ta yangi bildirishnoma</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Boshiga o‘tish"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yopish"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Yana"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"OK"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Hammasi"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Ilovani tanlang"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"YOQILMAGAN"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"YONIQ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Probel"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menyu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Qidirish…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"So‘rovni o‘chirish"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Qidiruv so‘rovi"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Qidiruv"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"So‘rov yaratish"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ovozli qidiruv"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Ulashish"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> orqali ulashish"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Yig‘ish"</string>
+    <string name="bottomsheet_action_expand_halfway">Yarmiga kengaytirish</string>
+    <string name="character_counter_content_description">%1$d/%2$d ta belgi kiritildi</string>
+    <string name="character_counter_overflowed_content_description">Harflar soni (%1$d) cheklovdan (%2$d) oshib ketdi</string>
+    <string name="clear_text_end_icon_content_description">Matnni tozalash</string>
+    <string name="error_icon_content_description">Xato</string>
+    <string name="exposed_dropdown_menu_content_description">Pastga ochiluvchi menyuni ochish</string>
+    <string name="hiad_ad_label" priority="translator">"REKLAMA"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklama"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Versiya %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s o‘rnatildi"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Oʻrnatildi. Ochish uchun bosing."</string>
+    <string name="hiad_app_permission" priority="LT">"Ruxsatlar"</string>
+    <string name="hiad_calender_add" priority="LT">"OK"</string>
+    <string name="hiad_calender_already_appoint" priority="translator">"Bunday tadbir mavjud."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Bu tadbir taqvimingizga kiritilsinmi?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Tadbir yaratilmadi."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Tadbir yaratildi."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Bu tadbir taqvimingizdan o‘chirib tashlansinmi?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Tadbir oʻchirilmadi."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Tadbir oʻchirib tashlandi."</string>
+    <string name="hiad_calender_delete" priority="LT">"O‘chirish"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Bu ruxsat taqvim eslatmalari yoki siz qatnashishni rejalashtirgan promoaksiyalar uchun tadbirlarni yaratishga ishlatiladi."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Eslatma"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Bu ilova Taqvimda tadbirlar yaratish uchun Taqvim ruxsatini talab qiladi. Bu ruxsatni Sozlamalarda berishingiz mumkin."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Bu ilova Taqvimdagi tadbirlarni o‘chirish uchun Taqvim ruxsatini talab qiladi. Bu ruxsatni Sozlamalarda berishingiz mumkin."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Bu ruxsat tadbirlar haqida eslatmalar yaratish va olishingiz uchun Taqvimda eslatmalar yaratishda ishlatiladi."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Ruxsat talab qilinadi"</string>
+    <string name="hiad_calender_set" priority="LT">"Sozlamalar"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Bu ruxsat AR interaktiv xizmatlari uchun ishlatiladi."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Reklama berkitildi"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Qiziq emas"</string>
+    <string name="hiad_choices_hide" priority="LT">"Reklamani berkitish"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Bu reklamani nega koʻryapman?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Qayta urinish"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Bu ilova oʻrnatilsinmi?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Mobil internet ishlatilsa, %1$s trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Ijro uchun mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Mobil internet ishlatilmoqda. Tomosha qilinsa, %1$s internet-trafik sarflanadi."</string>
+    <string name="hiad_continue_download" priority="LT">"Yuklab olish"</string>
+    <string name="hiad_continue_download_new" priority="LT">"YUKLAB OLISH"</string>
+    <string name="hiad_continue_to_play" priority="LT">"DAVOM ETISH"</string>
+    <string name="hiad_copy_link" priority="LT">"Havoladan nusxa olish"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Ilova"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Tashlab ketish"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Tashlab ketish: %d"</string>
+    <string name="hiad_detail" priority="LT">"Tafsilotlar"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Yuklab olish"</string>
+    <string name="hiad_dialog_accept" priority="LT">"RUXSAT"</string>
+    <string name="hiad_dialog_allow" priority="LT">"RUXSAT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"BEKOR QILISH"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"YUKLAB OLISH"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"TUSHUNDIM"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s uchun %2$s ilovasini oʻrnatishga ruxsat berasizmi?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Manba: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"RUXSAT"</string>
+    <string name="hiad_dialog_open" priority="LT">"OCHISH"</string>
+    <string name="hiad_dialog_reject" priority="LT">"RAD ETISH"</string>
+    <string name="hiad_dialog_title" priority="LT">"Mobil internet yordamida yuklab olinsinmi?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Eslatma"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Mobil internet orqali yuklab olasizmi?"</string>
+    <string name="hiad_download_download" priority="LT">"O‘RNATISH"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"YUKLAB OLISH (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Yuklab olish"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"%1$s yuklab olinayotganda xatolik yuz berdi."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fayl shikastlangan. Uni qayta yuklab oling."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Fayl mavjud emas. Qaytadan urining."</string>
+    <string name="hiad_download_install" priority="LT">"O‘RNATISH"</string>
+    <string name="hiad_download_installing" priority="LT">"O‘rnatilmoqda"</string>
+    <string name="hiad_download_no_space" priority="LT">"Xotirada joy yetarli emas. Biroz joy bo‘shatib, keyin qaytadan urining."</string>
+    <string name="hiad_download_open" priority="LT">"OCHISH"</string>
+    <string name="hiad_download_resume" priority="LT">"DAVOM ETISH"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"%1$s yuklab olinayotganda xatolik yuz berdi. Qaytadan yuklab olinadi."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Wi-Fi tarmoqqa ulanmagansiz. Yuklab olish uchun %1$s mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"WLAN tarmoqqa ulanmagansiz. Yuklab olish uchun %1$s mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_go_to_settings" priority="translator">"Sozlamalar"</string>
+    <string name="hiad_install_completed" priority="LT">"Tayyor"</string>
+    <string name="hiad_installed_description" priority="LT">"Oʻrnatildi. Ochish uchun bosing."</string>
+    <string name="hiad_jump_desc" priority="translator">"Tafsilotlar yoki ilovani ochish"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Bu ilova quyidagini ochmoqchi: %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Havoladan nusxa olindi."</string>
+    <string name="hiad_loading_tips" priority="LT">Yuklanmoqda…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Yuklab olish uchun %1$s internet-trafik sarflanadi."</string>
+    <string name="hiad_net_error" priority="LT">Tarmoq aloqasida xatolik yuz berdi. Qayta urining.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Internetga ulanmagansiz. Ulaning va qayta urining."</string>
+    <string name="hiad_network_error" priority="LT">"Tarmoqqa ulanishda xato."</string>
+    <string name="hiad_network_no_available" priority="LT">"Internet aloqasi yo‘q. Tarmoq sozlamalarini tekshiring."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Boshqa eslatilmasin"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Wi-Fi tarmoqqa ulanmagansiz. Hozir yuklab olinsa, internet-trafik sarflanadi. Yuklab olinsinmi?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"WLAN tarmoqqa ulanmagansiz. Hozir yuklab olinsa, internet-trafik sarflanadi. Yuklab olinsinmi?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Brauzerda ochish"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Sahifa yuklanmadi. Qaytadan urining."</string>
+    <string name="hiad_permission_camera" priority="LT">"Bu funksiya Kamera ruxsatini talab qiladi. Sozlamalarda ushbu ruxsatni bering."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s quyidagi ruxsatlarni talab qiladi:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Oldindan buyurtma"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wi-Fi aloqasini kutish"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Mobil internet orqali yuklab olinsinmi?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"WLAN aloqasini kutish"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Maxfiylik"</string>
+    <string name="hiad_refresh" priority="LT">"Yangilash"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Ilova hajmi %1$d MB dan katta"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Bekor qilish"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Ishlab chiquvchi: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Versiya %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Tashlab ketish"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Davom etish"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Mukofot olish uchun reklamani oxirigacha tomosha qiling."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Joylashuvga asoslangan reklamalar"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Veb-sayt/ilovani ochish uchun tegining"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"Ilova yuklab olinmoqda."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Tepaga suring"</string>
+    <string name="hiad_twist_screen" priority="translator">"Telefonni silkiting"</string>
+    <string name="hiad_whether_download" priority="LT">"Bu ilova yuklab olinsinmi?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi orqali avvaldan yuklangan"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Yuklangan"</string>
+    <string name="icon_content_description">Muloqot ikonkasi</string>
+    <string name="item_view_role_description">Tab : Varaq</string>
+    <string name="material_clock_toggle_content_description">Tushdan oldin yoki keyinligini tanlang</string>
+    <string name="material_hour_selection">Soatni tanlang</string>
+    <string name="material_hour_suffix">%1$s soat</string>
+    <string name="material_minute_selection">Daqiqalarni tanlash</string>
+    <string name="material_minute_suffix">%1$s daqiqa</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Vaqtni kiritish uchun soat rejimiga o‘ting.</string>
+    <string name="material_timepicker_hour">Soat</string>
+    <string name="material_timepicker_minute">Daqiqa</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Vaqtni tanlang</string>
+    <string name="material_timepicker_text_input_mode_description">Vaqtni kiritish uchun matn kiritish rejimiga o‘ting.</string>
+    <string name="mtrl_badge_numberless_content_description">Yangi bildirishnoma</string>
+    <string name="mtrl_chip_close_icon_content_description">Olib tashlash: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Yana %1$d dan ortiq bildirishnoma</string>
+    <string name="mtrl_picker_a11y_next_month">Keyingi oyga oʻzgartirish</string>
+    <string name="mtrl_picker_a11y_prev_month">Avvalgi oyga oʻzgartirish</string>
+    <string name="mtrl_picker_announce_current_selection">Joriy tanlov: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Sanani tanlang</string>
+    <string name="mtrl_picker_date_header_unselected">Tanlangan sana</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kunlar ustuni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Yaroqsiz format.</string>
+    <string name="mtrl_picker_invalid_format_example">Masalan: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Ishlatish: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Yaroqsiz oraliq.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Yilga nazar solish: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Chegaradan tashqari: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Boshlanish sanasi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tugash sanasi</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Oraliqni tanlang</string>
+    <string name="mtrl_picker_range_header_unselected">Boshlanishi – Tugashi</string>
+    <string name="mtrl_picker_save">Saqlash</string>
+    <string name="mtrl_picker_text_input_date_hint">Sana</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tugash sanasi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Boshlanish sanasi</string>
+    <string name="mtrl_picker_text_input_day_abbr">k</string>
+    <string name="mtrl_picker_text_input_month_abbr">o</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Taqvim kiritish rejimiga oʻtish</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Kunni tanlash uchun bosing</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Matn kiritish rejimiga oʻtish</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Yilni tanlash uchun bosing</string>
+    <string name="no_browser_tips" priority="LT">"Avval brauzer ilovasini oʻrnating."</string>
+    <string name="opendevice_ad_info" priority="LT">"Reklama axboroti"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Reklama va maxfiylik haqida bayonnoma"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Barcha reklama beruvchilar"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"BEKOR QILISH"</string>
+    <string name="opendevice_bt_reset" priority="LT">"Tiklash"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Tasodifiy tarzda yaratilgan yangi reklama identifikatori tayinlanadi."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Reklama identifikatorini tiklash"</string>
+    <string name="opendevice_here" priority="LT">"bu yerga"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Reklamalar va maxfiylik"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Reklamalar"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Reklama-ID identifikatoringizdan foydalanadigan moslangan reklamalarni olishni rad etishingiz mumkin. Rad etgandan keyin ham reklamalarni olishda davom etasiz, lekin ular sizga kamroq aloqador boʻladi. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Maʼlumotlardan foydalanish va huquqlaringiz tafsilotlari"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Reklama identifikatori statistikasini olishni faolsizlantirish"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Xizmatlarimizni rivojlantirish maqsadida, ushbu sozlamalar ekranida bajargan amallaringiz hamda Reklama identifikatoringizdan foydalanadigan ilovalar haqidagi axborotlarni olamiz. Bu maʼlumotlardan qanday foydalanishimizni bilish uchun %1$s bosing."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Xizmatlarimizni rivojlantirish maqsadida, ushbu sozlamalar ekranida bajargan amallaringiz hamda Reklama identifikatoringizdan foydalanadigan ilovalar haqidagi axborotlarni olamiz."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Batafsil"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"Reklama-ID identifikatoringiz (OAID deb ham ataladi) – bu sizga moslangan reklamalarni taqdim etish uchun ishlatiladigan vaqtinchalik qurilma identifikatoridir."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Reklama identifikatorini tiklash"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Reklama identifikatoringizdan foydalanadigan moslangan reklamalarni olishni rad etishingiz mumkin. Rad etgandan keyin ham reklamalarni olishda davom etasiz, lekin ular sizga kamroq aloqador boʻladi."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Reklama-ID identifikatoringizdan foydalanadigan moslangan reklamalarni olishni rad etishingiz mumkin. Rad etgandan keyin ham reklamalarni olishda davom etasiz, lekin ular sizga kamroq aloqador boʻladi."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"Reklama identifikatoringiz"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"Reklama identifikatoringiz (OAID deb ham ataladi) – bu sizga moslangan reklamalarni taqdim etish uchun ishlatiladigan vaqtinchalik qurilma identifikatoridir. Tafsilotlar uchun bosing %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Moslangan reklamalarni faolsizlantirish"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Batafsil"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Smart tavsiyalar"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Internetga ulanmagansiz"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Moslangan reklama xizmatlari sizni qiziqtirishi mumkin boʻlgan kontentni tavsiya qiladi. Maxfiyligingiz har doim himoya qilinadi. Tafsilotlar uchun %1$s bilan tanishing."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Moslangan reklama xizmatlari sizni qiziqtirishi mumkin boʻlgan kontentni tavsiya qiladi. Maxfiyligingiz har doim himoya qilinadi. Tafsilotlar uchun quyidagilar bilan tanishing:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"HUAWEI Ads platformasi Huawei Mobile Services va tashqi ilovalarga reklama xizmatlarini taqdim etadi. Agar moslangan reklamalar funksiyasi yoniq boʻlsa, aloqador va yanada foydali reklamalarni sizga taqdim etish uchun shaxsiy maʼlumotlaringizdan foydalaniladi. Maʼlumotlaringizdan qanday foydalanilishi va huquqlaringiz tafsilotlari uchun %1$s bilan tanishing."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"HUAWEI Ads platformasi Huawei Mobile Services va tashqi ilovalarga reklama xizmatlarini taqdim etadi. Agar moslangan reklamalar funksiyasi yoniq boʻlsa, aloqador va yanada foydali reklamalarni sizga taqdim etish uchun shaxsiy maʼlumotlaringizdan foydalaniladi. Maʼlumotlaringizdan qanday foydalanilishi va huquqlaringiz haqida batafsil maʼlumot olish uchun quyidagilar bilan tanishing:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Bu funksiya sizga yoqishi mumkin boʻlgan mahsulot va xizmatlarni tavsiya qilish uchun birgalikda oʻrganish texnologiyasidan foydalanadi."</string>
+    <string name="opendevice_setting_network" priority="LT">"Tarmoq sozlamalari"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Qurilma identifikatori"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"OAID haqida"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Reklama identifikatori statistik tahlili haqida bayonnoma"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Reklama axboroti"</string>
+    <string name="password_toggle_content_description">Parol ochiq tursin</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Qidiruv"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

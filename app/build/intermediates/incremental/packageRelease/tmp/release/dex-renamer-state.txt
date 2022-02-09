@@ -1,0 +1,4 @@
+#Fri Jan 28 01:11:42 PKT 2022
+base.0=D\:\\huawei\\MathGame\\source\\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\\MathUp\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"A ventá pecharase dentro de %1$s segundo."</item>
+        <item priority="translator" quantity="other">"A ventá pecharase dentro de %1$s segundos."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"O anuncio poderase pechar en %d s"</item>
+        <item priority="LT" quantity="other">"O anuncio poderase pechar en %d s"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Recordar a opción escollida durante %1$s día"</item>
+        <item priority="Reviewed" quantity="other">"Recordar a opción escollida durante %1$s días"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="LT" quantity="one">"Reciba unha recompensa en %d s"</item>
+        <item priority="LT" quantity="other">"Reciba unha recompensa en %d s"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Vexa o contido %d segundo para recibir unha recompensa."</item>
+        <item priority="LT" quantity="other">"Vexa o contido %d segundos para recibir unha recompensa."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="LT" quantity="other">"%1$d s"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificación nova</item>
+    <item quantity="other">%d notificacións novas</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Vai ao inicio"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Vai cara arriba"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Máis opcións"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Feito"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona unha aplicación"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVAR"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVAR"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"eliminar"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"intro"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maiús +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espazo"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Busca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Borra a consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Busca a consulta"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Realiza buscas"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envía a consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Busca por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparte contido con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparte contido coa aplicación <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Contrae"</string>
+    <string name="bottomsheet_action_expand_halfway">Despregar ata a metade</string>
+    <string name="character_counter_content_description">Introducíronse %1$d caracteres de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Introducíronse %1$d caracteres, pero o límite é de %2$d</string>
+    <string name="clear_text_end_icon_content_description">Borra texto</string>
+    <string name="error_icon_content_description">Produciuse un erro</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra o menú despregable</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Anuncio"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Versión %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"Instalouse %1$s"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Instalación completada. Toque para abrir."</string>
+    <string name="hiad_app_permission" priority="LT">"Permisos"</string>
+    <string name="hiad_calender_add" priority="LT">"OK"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"O evento xa existe."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Engadir este evento ao calendario?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Non se puido engadir o evento."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Evento engadido."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Eliminar este evento do calendario?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Non se puido eliminar o evento."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Evento eliminado."</string>
+    <string name="hiad_calender_delete" priority="LT">"Eliminar"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Este permiso úsase para xerar avisos do calendario e crear eventos para actividades de promoción nas que vaia participar."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Nota"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Esta aplicación require o permiso Calendario para crear eventos de Calendario. Pode conceder este permiso en Configuración."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Esta aplicación require o permiso Calendario para eliminar eventos de Calendario. Pode conceder este permiso en Configuración."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Este permiso úsase para establecer e recibir avisos de eventos en Calendario."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Permiso requirido"</string>
+    <string name="hiad_calender_set" priority="LT">"Configuración"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Este permiso úsase para os servizos interactivos de realidade aumentada."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Anuncio ocultado"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Non me interesa"</string>
+    <string name="hiad_choices_hide" priority="translator">"Ocultar anuncio"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Por que se mostrou este anuncio?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Tentar de novo"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Instalar esta aplicación?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Usar unha rede móbil consumirá %1$s de datos. Continuar?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"A reprodución usará os datos móbiles. Continuar?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Usando a conexión móbil. Ver isto usará %1$s de datos móbiles."</string>
+    <string name="hiad_continue_download" priority="LT">"Descargar"</string>
+    <string name="hiad_continue_download_new" priority="LT">"DESCARGAR"</string>
+    <string name="hiad_continue_to_play" priority="LT">"CONTINUAR"</string>
+    <string name="hiad_copy_link" priority="LT">"Copiar ligazón"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"App"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Omitir"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Omitir en %d"</string>
+    <string name="hiad_detail" priority="LT">"Detalles"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Descargar"</string>
+    <string name="hiad_dialog_accept" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_allow" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"CANCELAR"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"DESCARGAR"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ENTENDIDO"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Permitir que %1$s instale %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Orixe: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_open" priority="LT">"ABRIR"</string>
+    <string name="hiad_dialog_reject" priority="LT">"DENEGAR"</string>
+    <string name="hiad_dialog_title" priority="LT">"Descargar usando os datos móbiles?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Nota"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Descargar usando datos móbiles?"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALAR"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"DESCARGAR (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Descargando"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Ocorreu un erro ao descargar %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Ficheiro danado. Descargue de novo."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"O ficheiro non existe. Ténteo de novo."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALAR"</string>
+    <string name="hiad_download_installing" priority="LT">"Instalando"</string>
+    <string name="hiad_download_no_space" priority="LT">"Almacenamento insuficiente. Libere algo de espazo e ténteo de novo."</string>
+    <string name="hiad_download_open" priority="LT">"ABRIR"</string>
+    <string name="hiad_download_resume" priority="LT">"CONTINUAR"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Ocorreu un erro ao descargar %1$s. A descarga reiniciarase."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Non está conectado á Wi-Fi neste momento. Descargar agora consumirá %1$s de datos móbiles. Descargar de todas formas?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Neste momento non está conectado á WLAN. Se descarga agora consumirá %1$s de datos móbiles. Descargar de todas formas?"</string>
+    <string name="hiad_go_to_settings" priority="translator">"Configuración"</string>
+    <string name="hiad_install_completed" priority="LT">"Feito"</string>
+    <string name="hiad_installed_description" priority="LT">"Instalación correcta. Toque para abrir."</string>
+    <string name="hiad_jump_desc" priority="translator">"Vexa detalles ou vaia á aplicación"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Esta páxina quere abrir %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Ligazón copiada."</string>
+    <string name="hiad_loading_tips" priority="LT">Cargando…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Esta descarga usará %1$s de datos móbiles."</string>
+    <string name="hiad_net_error" priority="LT">Erro de conexión á rede. Ténteo de novo.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Sen conexión a Internet. Vólvase conectar e ténteo de novo."</string>
+    <string name="hiad_network_error" priority="LT">"Erro de conexión de rede."</string>
+    <string name="hiad_network_no_available" priority="LT">"Sen conexión a Internet. Comprobe a súa configuración de rede."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Non lembrar de novo"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Non hai conexión Wi-Fi. Se se efectúa agora a descarga, usaranse os seus datos móbiles. Descargar?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Sen conexión WLAN. Se se efectúa agora a descarga, usaranse os seus datos móbiles. Descargar?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Abrir no navegador"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Non se puido cargar a páxina. Ténteo de novo."</string>
+    <string name="hiad_permission_camera" priority="LT">"Esta funcionalidade require o permiso Cámara. Concédao en Configuración."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s require os seguintes permisos:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Reservar"</string>
+    <string name="hiad_prepare_download" priority="LT">"Agardar por Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Descargar usando a rede móbil?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Agardar por WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Privacidade"</string>
+    <string name="hiad_refresh" priority="LT">"Actualizar"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Aplicación de máis de %1$d MB"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Cancelar"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Programador: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Versión %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Omitir"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar vendo"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Vexa este anuncio ata o final para obter unha recompensa."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Anuncios en función da localización"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Toque para abrir web/aplicación"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"Estase a descargar a aplicación."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Pasar o dedo cara arriba"</string>
+    <string name="hiad_twist_screen" priority="translator">"Axitar o teléfono"</string>
+    <string name="hiad_whether_download" priority="LT">"Descargar esta aplicación?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Precargado vía Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Precargado"</string>
+    <string name="icon_content_description">Icona de cadro de diálogo</string>
+    <string name="item_view_role_description">Pestana</string>
+    <string name="material_clock_toggle_content_description">Seleccionar a.m. ou p.m.</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">%1$s en punto</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Cambiar ao modo de reloxo para introducir a hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Seleccionar hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia ao modo de introdución de texto para introducir a hora.</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nova</string>
+    <string name="mtrl_chip_close_icon_content_description">Quita %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Máis de %1$d notificacións novas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar ao mes seguinte</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar ao mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona unha data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">O formato non é válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa este formato: %1$s</string>
+    <string name="mtrl_picker_invalid_range">O intervalo de datas non é válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir ao ano %1$s</string>
+    <string name="mtrl_picker_out_of_range">Só se admiten datas do intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de inicio - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - data de finalización</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un intervalo de datas</string>
+    <string name="mtrl_picker_range_header_unselected">Data de inicio - data de finalización</string>
+    <string name="mtrl_picker_save">Gardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de inicio</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar ao modo de entrada de calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocar para cambiar a selección de día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar ao modo de introdución de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocar para cambiar a selección de ano</string>
+    <string name="no_browser_tips" priority="LT">"Instale primeiro un navegador."</string>
+    <string name="opendevice_ad_info" priority="LT">"Información de anuncios"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Declaración acerca de Ads e privacidade"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Todos os anunciantes"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"CANCELAR"</string>
+    <string name="opendevice_bt_reset" priority="LT">"RESTABLECER"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Asignarase un ID de publicidade aleatorio."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Restablecer o ID de publicidade"</string>
+    <string name="opendevice_here" priority="LT">"aquí"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Anuncios e privacidade"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Ads"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Pode decidir deixar de recibir anuncios personalizados que usan o seu ID de publicidade. Se decide deixar de recibilos, seguirá vendo anuncios, pero é posible que sexan menos relevantes para vostede. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Máis información sobre o uso dos datos e os seus dereitos"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Desactivar a recompilación de estatísticas do ID de publicidade"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Recompilaremos información das súas accións en pantalla segundo estes parámetros e sobre as aplicacións que usen o seu ID de anuncios para poder mellorar os nosos servizos. Para máis información sobre como usamos estes datos, toque %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Se activa esta opción, recompilaremos información acerca das súas accións na pantalla e sobre as aplicacións que usen o seu ID de publicidade co fin de mellorar os nosos servizos."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Máis información"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"O seu ID de publicidade (tamén coñecido como OAID) é un identificador temporal do dispositivo que se usa para fornecerlle publicidade personalizada."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Restablecer o ID de publicidade"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Pode decidir deixar de recibir anuncios personalizados que usan o seu ID de publicidade. Se o fai, seguirá vendo anuncios, pero é posible que sexan menos relevantes para vostede."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Pode optar por non recibir anuncios personalizados que usen o seu ID de publicidade. Se decide deixar de recibilos, seguirá mostrándose o mesmo número de anuncios, pero serán menos interesantes para vostede."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"O seu ID publicitario"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"O seu ID de publicidade (tamén coñecido como OAID) é un identificador do dispositivo temporal que se usa para fornecerlle publicidade personalizada. Para obter máis información, toque %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Desactivar os anuncios personalizados"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Máis información"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Recomendacións intelixentes"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Sen conexión a Internet"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Os servizos de publicidade personalizada recomendan contido que pode ser do seu interese. A súa privacidade protexerase en todo momento. Para obter máis información, consulte a %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Os servizos de publicidade personalizada recomendan contido que pode ser do seu interese. A súa privacidade protexerase en todo momento. Para obter máis información, consulte o seguinte:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"A plataforma HUAWEI Ads fornece servizos de publicidade para Huawei Mobile Services e aplicacións de terceiros. Se está activada a publicidade personalizada, os seus datos persoais pódense usar para fornecerlle publicidade máis axeitada e útil. Para obter máis información acerca de como se usan os datos e sobre os seus dereitos, consulte a %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"A plataforma HUAWEI Ads fornece servizos de publicidade para Huawei Mobile Services e aplicacións de terceiros. Se está activada a publicidade personalizada, os seus datos persoais usaranse para fornecerlle publicidade máis interesante e útil. Para obter máis información acerca de como se usan os datos e sobre os seus dereitos, consulte o seguinte:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Esta funcionalidade usa tecnoloxía de aprendizaxe federada para recomendarlle produtos e servizos que lle poderían gustar."</string>
+    <string name="opendevice_setting_network" priority="LT">"Configuración de rede"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Identificador do dispositivo"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Acerca de OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Declaración acerca da análise estatística do ID de anuncios"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Información de anuncios"</string>
+    <string name="password_toggle_content_description">Mostra o contrasinal</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Buscar"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+</resources>

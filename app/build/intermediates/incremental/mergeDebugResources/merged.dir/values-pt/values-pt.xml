@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"A janela será fechada em %1$s segundo."</item>
+        <item priority="translator" quantity="other">"A janela será fechada em %1$s segundos."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"O anúncio pode ser fechado em %d s"</item>
+        <item priority="LT" quantity="other">"O anúncio pode ser fechado em %d s"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Lembrar escolha para %1$s dia"</item>
+        <item priority="Reviewed" quantity="other">"Lembrar escolha para %1$s dias"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="translator" quantity="one">"Ganhe uma recompensa em %d s"</item>
+        <item priority="translator" quantity="other">"Ganhe uma recompensa em %d s"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Assista por %d segundo para ganhar uma recompensa."</item>
+        <item priority="LT" quantity="other">"Assista por %d segundos para ganhar uma recompensa."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="LT" quantity="other">"%1$d s"</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Anúncio"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Versão %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s foi instalado"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Instalação concluída. Toque para abrir."</string>
+    <string name="hiad_app_permission" priority="LT">"Permissões"</string>
+    <string name="hiad_calender_add" priority="LT">"OK"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"O evento já existe."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Adicionar este evento ao seu calendário?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Não é possível adicionar o evento."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Evento adicionado."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Excluir este evento do seu calendário?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Não é possível excluir o evento."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Evento excluído."</string>
+    <string name="hiad_calender_delete" priority="LT">"Excluir"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Isso é usado para gerar lembretes de calendário ou criar eventos para atividades promocionais das quais você está planejando participar."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Nota"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Este aplicativo requer a permissão de Calendário para criar eventos do Calendário. Você pode conceder essa permissão em Configurações."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Este aplicativo requer a permissão de Calendário para excluir eventos do Calendário. Você pode conceder essa permissão em Configurações."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Isso é usado para criar lembretes de Calendário para que você possa definir e receber lembretes de eventos."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Permissão necessária"</string>
+    <string name="hiad_calender_set" priority="LT">"Configurações"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Isso é usado para serviços interativos de AR."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Anúncio oculto"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Não tenho interesse"</string>
+    <string name="hiad_choices_hide" priority="translator">"Ocultar anúncio"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Por que eu vi esse anúncio?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Tentar novamente"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Instalar este aplicativo?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Usar uma rede móvel consumirá %1$s de dados. Continuar?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"A reprodução vai usar dados móveis. Deseja continuar?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Usando conexão móvel. Assistir usará %1$s de dados móveis."</string>
+    <string name="hiad_continue_download" priority="LT">"Baixar"</string>
+    <string name="hiad_continue_download_new" priority="LT">"BAIXAR"</string>
+    <string name="hiad_continue_to_play" priority="LT">"CONTINUAR"</string>
+    <string name="hiad_copy_link" priority="LT">"Copiar link"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Aplicativo"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Pular"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Pular em %d"</string>
+    <string name="hiad_detail" priority="LT">"Detalhes"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Baixar"</string>
+    <string name="hiad_dialog_accept" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_allow" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"CANCELAR"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"BAIXAR"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ENTENDI"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Permitir que %1$s instale %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Origem: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_open" priority="LT">"ABRIR"</string>
+    <string name="hiad_dialog_reject" priority="LT">"REJEITAR"</string>
+    <string name="hiad_dialog_title" priority="LT">"Baixar usando dados móveis?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Nota"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Baixar usando dados móveis?"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALAR"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"BAIXAR (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Baixando"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Ocorreu um erro durante o download de %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Arquivo corrompido. Baixe novamente."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"O arquivo não existe. Tente novamente."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALAR"</string>
+    <string name="hiad_download_installing" priority="LT">"Instalando"</string>
+    <string name="hiad_download_no_space" priority="LT">"Armazenamento insuficiente. Libere espaço e tente novamente."</string>
+    <string name="hiad_download_open" priority="LT">"ABRIR"</string>
+    <string name="hiad_download_resume" priority="LT">"CONTINUAR"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Ocorreu um erro durante o download de %1$s. O download será reiniciado."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Você não está conectado ao Wi-Fi no momento. Se baixar agora usará %1$s de dados móveis. Baixar assim mesmo?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Você não está conectado ao WLAN no momento. Se baixar agora usará %1$s de dados móveis. Baixar assim mesmo?"</string>
+    <string name="hiad_go_to_settings" priority="translator">"Configurações"</string>
+    <string name="hiad_install_completed" priority="LT">"Concluído"</string>
+    <string name="hiad_installed_description" priority="translator">"Instalação bem-sucedida. Toque para abrir."</string>
+    <string name="hiad_jump_desc" priority="translator">"Exibir os detalhes ou ir para o aplicativo"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Esta página deseja abrir %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Link copiado."</string>
+    <string name="hiad_loading_tips" priority="LT">Carregando…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Este download usará %1$s de dados móveis."</string>
+    <string name="hiad_net_error" priority="LT">Erro na conexão de rede. Tente novamente.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Sem conexão com a Internet. Conecte-se e tente novamente."</string>
+    <string name="hiad_network_error" priority="LT">"Erro na conexão com a rede."</string>
+    <string name="hiad_network_no_available" priority="LT">"Não há conexão com a Internet. Verifique suas configurações de rede."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Não lembrar novamente"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Não há conexão Wi-Fi. Baixar agora usará seus dados móveis. Baixar?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Não há conexão WLAN. Baixar agora usará seus dados móveis. Baixar?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Abrir no navegador"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Não é possível carregar página. Tente novamente."</string>
+    <string name="hiad_permission_camera" priority="LT">"Este recurso requer a permissão de Câmera. Conceda-a em Configurações."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s requer as seguintes permissões:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Pedido antecipado"</string>
+    <string name="hiad_prepare_download" priority="LT">"Aguardar Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Baixar pela rede móvel?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Aguardar WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Privacidade"</string>
+    <string name="hiad_refresh" priority="LT">"Atualizar"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Aplicativo maior do que %1$d MB"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Cancelar"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Desenvolvedor: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Versão %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Pular"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar assistindo"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Termine de assistir a este anúncio para ganhar uma recompensa."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Anúncios baseados em localização"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Toque para abrir o site ou aplicativo"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"O aplicativo está sendo baixado."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Deslizar para cima"</string>
+    <string name="hiad_twist_screen" priority="translator">"Agitar o telefone"</string>
+    <string name="hiad_whether_download" priority="LT">"Baixar este aplicativo?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Pré-carregado por Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Pré-carregado"</string>
+    <string name="no_browser_tips" priority="LT">"Instale um aplicativo navegador primeiro."</string>
+    <string name="opendevice_ad_info" priority="LT">"Informações de anúncios"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Declaração sobre Anúncios e privacidade"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Todos os anunciantes"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"CANCELAR"</string>
+    <string name="opendevice_bt_reset" priority="LT">"REDEFINIR"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Um novo ID de anúncio será atribuído aleatoriamente."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Redefinir o ID de anúncio"</string>
+    <string name="opendevice_here" priority="LT">"aqui"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Anúncios e privacidade"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Anúncios"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Você pode optar por não receber anúncios personalizados que usam seu ID do anúncio. Se você optar por não participar, ainda receberá anúncios, mas eles poderão ser menos relevantes para você. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Saiba mais sobre o uso de dados e seus direitos"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Desativar a coleta de estatísticas do ID do anúncio"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Coletaremos informações sobre suas ações na tela nessas configurações e sobre aplicativos que usam seu ID de anúncio para melhorar nossos serviços. Para mais informações sobre como usamos esses dados, toque %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Coletaremos informações sobre suas ações na tela nessas configurações e sobre aplicativos que usam seu Ad-ID para melhorar nossos serviços."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Mais informações"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"Seu ID do anúncio (também conhecido como OAID) é um identificador temporário do dispositivo usado para fornecer anúncios personalizados."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Redefinir o ID de anúncio"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Você pode desativar o recebimento de anúncios personalizados que usam seu ID de anúncio. Se você desativar, ainda receberá anúncios, mas eles poderão ser menos relevantes para você."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Você pode recusar receber anúncios personalizados que usam seu Ad-ID. Se você recusar, ainda receberá anúncios, mas eles poderão ser menos relevantes para você."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"Seu ID do anúncio"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"Seu ID de anúncio (também conhecido como OAID) é um identificador do dispositivo temporário usado para fornecer anúncios personalizados. Para obter mais informações, toque %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Desativar anúncios personalizados"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Saiba mais"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Recomendações inteligentes"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Sem conexão com a Internet"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Os serviços de publicidade personalizados recomendam conteúdo do seu interesse. Sua privacidade será protegida o tempo todo. Para obter mais detalhes, consulte a %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Os serviços de publicidade personalizada recomendam conteúdo no qual você pode estar interessado. Sua privacidade estará protegida em todos os momentos. Para obter mais informações, consulte o seguinte:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"A plataforma Anúncios HUAWEI oferece serviços de anúncios para os Huawei Mobile Services e aplicativos de terceiros. Se os anúncios personalizados estiverem ativados, seus dados pessoais poderão ser usados para fornecer anúncios mais relevantes e úteis. Para saber mais sobre como os dados são usados para personalizar anúncios e sobre os seus direitos, consulte a %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"A plataforma Anúncios HUAWEI fornece serviços de publicidade para Huawei Mobile Services e aplicativos de terceiros. Se os anúncios personalizados estiverem ativados, seus dados pessoais poderão ser usados para fornecer a você anúncios mais relevantes e úteis. Para saber mais sobre como seus dados são usados e sobre seus direitos, consulte o seguinte:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Este recurso usa a tecnologia de aprendizagem federada para recomendar produtos e serviços que você possa gostar."</string>
+    <string name="opendevice_setting_network" priority="LT">"Configurações de rede"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Identificador do dispositivo"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Sobre o OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Declaração sobre Análise estatística de ID de anúncio"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Informações de anúncios"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

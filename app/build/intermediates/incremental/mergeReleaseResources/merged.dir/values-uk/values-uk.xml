@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Вікно закриється через %1$s секунду."</item>
+        <item priority="translator" quantity="few">"Вікно закриється через %1$s секунди."</item>
+        <item priority="translator" quantity="many">"Вікно закриється через %1$s секунд."</item>
+        <item priority="translator" quantity="other">"Вікно закриється через %1$s секунди."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"Рекламу можна закрити за %d с"</item>
+        <item priority="LT" quantity="few">"Рекламу можна закрити за %d с"</item>
+        <item priority="translator" quantity="many">"Рекламу можна закрити за %d с"</item>
+        <item priority="translator" quantity="other">"Рекламу можна закрити за %d с"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Запам’ятати вибір на %1$s день"</item>
+        <item priority="Reviewed" quantity="few">"Запам’ятати вибір на %1$s дні"</item>
+        <item priority="translator" quantity="many">"Запам’ятати вибір на %1$s дн."</item>
+        <item priority="Reviewed" quantity="other">"Запам’ятати вибір на %1$s днів"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="translator" quantity="one">"Отримайте винагороду через %d секунду"</item>
+        <item priority="translator" quantity="few">"Отримайте винагороду через %d секунди"</item>
+        <item priority="translator" quantity="many">"Отримайте винагороду через %d секунд"</item>
+        <item priority="translator" quantity="other">"Отримайте винагороду через %d секунди"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Переглядайте рекламу протягом %d секунди, щоб заробити винагороду."</item>
+        <item priority="LT" quantity="few">"Переглядайте рекламу протягом %d секунд, щоб заробити винагороду."</item>
+        <item priority="translator" quantity="many">"Переглядайте рекламу протягом %d секунд, щоб заробити винагороду."</item>
+        <item priority="translator" quantity="other">"Переглядайте рекламу протягом %d секунди, щоб заробити винагороду."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d секунда"</item>
+        <item priority="LT" quantity="few">"%1$d секунди"</item>
+        <item priority="translator" quantity="many">"%1$d секунд"</item>
+        <item priority="translator" quantity="other">"%1$d секунди"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d нове сповіщення</item>
+    <item quantity="few">%d нові сповіщення</item>
+    <item quantity="many">%d нових сповіщень</item>
+    <item quantity="other">%d нового сповіщення</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на головну"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Більше опцій"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показати всі"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ЗНИЖКА"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"пробіл"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введіть пошуковий запит…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Наіслати запит"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поділитися:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поділитися через додаток <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="bottomsheet_action_expand_halfway">Розгорнути нижню половину</string>
+    <string name="character_counter_content_description">Введено символів: %1$d з %2$d</string>
+    <string name="character_counter_overflowed_content_description">Перевищено ліміт символів: %1$d з %2$d</string>
+    <string name="clear_text_end_icon_content_description">Видалити текст</string>
+    <string name="error_icon_content_description">Помилка</string>
+    <string name="exposed_dropdown_menu_content_description">Показати спадне меню</string>
+    <string name="hiad_ad_label" priority="translator">"Реклама"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Реклама"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Версія: %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"Додаток %1$s установлено"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Установлення завершено. Торкніться, щоб відкрити."</string>
+    <string name="hiad_app_permission" priority="LT">"Дозволи"</string>
+    <string name="hiad_calender_add" priority="LT">"OK"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"Подія вже є."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Додати цю подію в календар?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Не вдалося додати подію."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Подію додано."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Видалити цю подію з календаря?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Не вдалося видалити подію."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Подію видалено."</string>
+    <string name="hiad_calender_delete" priority="LT">"Видалити"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Цей дозвіл використовується для створення нагадувань календаря або створення подій для рекламних заходів, у яких ви плануєте взяти участь."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Примітка"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Цьому додатку потрібен дозвіл на використання функції \"Календар\", щоб створювати події календаря. Його можна надати в меню \"Налаштування\"."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Цьому додатку потрібен дозвіл на використання функції \"Календар\", щоб видаляти події календаря. Його можна надати в меню \"Налаштування\"."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Цей дозвіл використовується для створення нагадувань \"Календаря\", щоб ви могли налаштовувати й отримувати нагадування про події."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Потрібен дозвіл"</string>
+    <string name="hiad_calender_set" priority="LT">"Налаштування"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Використовується для роботи інтерактивних служб доповненої реальності."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Рекламу приховано"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Не цікавить"</string>
+    <string name="hiad_choices_hide" priority="LT">"Приховати рекламу"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Чому тут є ця реклама?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Повторити"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Установити цей додаток?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Використання мобільної мережі споживатиме %1$s даних. Продовжити?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Цей вміст відтвориться через мобільні дані. Продовжити?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Використовується мобільне підключення. Для перегляду буде використано %1$s мобільних даних."</string>
+    <string name="hiad_continue_download" priority="LT">"Завантажити"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ЗАВАНТАЖИТИ"</string>
+    <string name="hiad_continue_to_play" priority="LT">"ПРОДОВЖИТИ"</string>
+    <string name="hiad_copy_link" priority="LT">"Копіювати посилання"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s МБ"</string>
+    <string name="hiad_default_app_name" priority="LT">"додаток"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Пропустити"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Пропустити через %d"</string>
+    <string name="hiad_detail" priority="LT">"Деталі"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Завантажити"</string>
+    <string name="hiad_dialog_accept" priority="LT">"ДОЗВОЛИТИ"</string>
+    <string name="hiad_dialog_allow" priority="LT">"ДОЗВОЛИТИ"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"СКАСУВАТИ"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ЗАВАНТАЖИТИ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ЗРОЗУМІЛО"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Дозволити додатку %1$s установити додаток %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Джерело: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"ДОЗВОЛИТИ"</string>
+    <string name="hiad_dialog_open" priority="LT">"ВІДКРИТИ"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ЗАБОРОНИТИ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Завантажити з використанням мобільних даних?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Примітка"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Завантажити через мобільні дані?"</string>
+    <string name="hiad_download_download" priority="LT">"УСТАНОВИТИ"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ЗАВАНТАЖИТИ (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Завантаження"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Сталася помилка під час завантаження %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Файл пошкоджено. Спробуйте завантажити знову."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Такого файлу не існує. Спробуйте ще раз."</string>
+    <string name="hiad_download_install" priority="LT">"УСТАНОВИТИ"</string>
+    <string name="hiad_download_installing" priority="LT">"Установлення"</string>
+    <string name="hiad_download_no_space" priority="LT">"Недостатньо вільного місця. Звільніть місце в пам’яті та спробуйте ще раз."</string>
+    <string name="hiad_download_open" priority="LT">"ВІДКРИТИ"</string>
+    <string name="hiad_download_resume" priority="LT">"ПРОДОВЖИТИ"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Сталася помилка під час завантаження %1$s. Завантаження почнеться заново."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Немає підключення до мережі Wi-Fi. Щоб завантажити цей вміст, потрібно використати %1$s мобільних даних. Усе одно завантажити?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Немає підключення до мережі WLAN. Щоб завантажити цей вміст, потрібно використати %1$s мобільних даних. Усе одно завантажити?"</string>
+    <string name="hiad_go_to_settings" priority="translator">"Налаштування"</string>
+    <string name="hiad_install_completed" priority="LT">"Готово"</string>
+    <string name="hiad_installed_description" priority="translator">"Установлення завершено. Торкніться, щоб відкрити."</string>
+    <string name="hiad_jump_desc" priority="translator">"Переглянути деталі або відкрити додаток"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Ця сторінка хоче відкрити додаток \"%1$s\"."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Посилання скопійовано."</string>
+    <string name="hiad_loading_tips" priority="LT">Завантаження…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Якщо завантажити зараз, буде використано %1$s мобільних даних."</string>
+    <string name="hiad_net_error" priority="LT">Помилка підключення до мережі. Повторіть спробу.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Немає підключення до Інтернету. Установіть підключення та спробуйте знову."</string>
+    <string name="hiad_network_error" priority="LT">"Помилка підключення до мережі."</string>
+    <string name="hiad_network_no_available" priority="LT">"Немає підключення до Інтернету. Перевірте налаштування мережі."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Більше не нагадувати"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Немає підключення до мережі Wi-Fi. Якщо завантажити зараз, буде використано мобільні дані. Завантажити?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Немає підключення до мережі WLAN. Якщо завантажити зараз, буде використано мобільні дані. Завантажити?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Відкрити в браузері"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Не вдалося завантажити сторінку. Спробуйте ще раз."</string>
+    <string name="hiad_permission_camera" priority="LT">"Цій функції потрібен дозвіл на доступ до \"Камери\". Надати його можна в меню \"Налаштування\"."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"Додатку \"%1$s\" потрібні такі дозволи:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Замовити попередньо"</string>
+    <string name="hiad_prepare_download" priority="LT">"Зачекати на підключення Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Завантажити через мобільну мережу?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Зачекати на підключення WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Конфіденційність"</string>
+    <string name="hiad_refresh" priority="LT">"Оновити"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Розмір додатка перевищує %1$d МБ"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Скасувати"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Розробник: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Версія: %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Пропустити"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Продовжити перегляд"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Подивіться цю рекламу до кінця й отримаєте нагороду."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Реклама на основі розташування"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Відкрити сайт або додаток"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"Додаток завантажується."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Проведіть по екрану вгору"</string>
+    <string name="hiad_twist_screen" priority="translator">"Струсіть телефон"</string>
+    <string name="hiad_whether_download" priority="LT">"Завантажити цей додаток?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Попередньо завантажено через Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Попередньо завантажено"</string>
+    <string name="icon_content_description">Значок вікна</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_clock_toggle_content_description">Виберіть ДП чи ПП</string>
+    <string name="material_hour_selection">Вибрати годину</string>
+    <string name="material_hour_suffix">%1$s год</string>
+    <string name="material_minute_selection">Виберіть хвилини</string>
+    <string name="material_minute_suffix">%1$s хв</string>
+    <string name="material_timepicker_am">дп</string>
+    <string name="material_timepicker_clock_mode_description">Перейти в режим годинника, щоб ввести час.</string>
+    <string name="material_timepicker_hour">Година</string>
+    <string name="material_timepicker_minute">Хвилина</string>
+    <string name="material_timepicker_pm">пп</string>
+    <string name="material_timepicker_select_time">Виберіть час</string>
+    <string name="material_timepicker_text_input_mode_description">Перейти в текстовий режим, щоб ввести час.</string>
+    <string name="mtrl_badge_numberless_content_description">Нове сповіщення</string>
+    <string name="mtrl_chip_close_icon_content_description">Видалити %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Нових сповіщень більше ніж %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
+    <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Виберіть дату</string>
+    <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Стовпець із днями: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недійсний формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Приклад: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Використовувати: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недійсний діапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти до %1$s року</string>
+    <string name="mtrl_picker_out_of_range">За межами діапазону: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата початку – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата завершення</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Виберіть діапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата початку – дата завершення</string>
+    <string name="mtrl_picker_save">Зберегти</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата завершення</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата початку</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">р</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим введення в календарі</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Натисніть, щоб вибрати день</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим введення тексту</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Натисніть, щоб вибрати рік</string>
+    <string name="no_browser_tips" priority="LT">"Спочатку встановіть додаток браузера."</string>
+    <string name="opendevice_ad_info" priority="LT">"Рекламна інформація"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Положення про Рекламу та конфіденційність"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Усі рекламодавці"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"СКАСУВАТИ"</string>
+    <string name="opendevice_bt_reset" priority="LT">"СКИНУТИ"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Буде призначено новий випадковий рекламний ідентифікатор."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Скидання рекламного ідентифікатора"</string>
+    <string name="opendevice_here" priority="LT">"тут"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Реклама й конфіденційність"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Реклама"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Ви можете відмовитися від отримання персоналізованих рекламних повідомлень, для яких використовується ваш рекламний ідентифікатор. У разі відмови ви все одно отримуватимете рекламні оголошення, але вони можуть бути менш актуальними для вас. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Дізнайтеся більше про використання даних і свої права"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Вимкнути збір статистики Ad-ID"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Ми збиратимемо інформацію про ваші дії на екрані в цих налаштуваннях і про додатки, які використовують ваш Ad-ID, для покращення наших послуг. Для отримання докладнішої інформації щодо того, як ми використовуємо ці дані, торкніться %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Щоб покращити наші послуги, у цих налаштуваннях ми збиратимемо інформацію про ваші дії на екрані та про додатки, які використовують ваш рекламний ідентифікатор."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Докладніша інформація"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"Ваш рекламний ідентифікатор (також відомий як OAID) – це тимчасовий ідентифікатор пристрою, який використовується для надання вам персоналізованих рекламних оголошень."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Скинути рекламний ідентифікатор"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Ви можете відмовитися від отримання персоналізованих рекламних оголошень, які використовують ваш рекламний ідентифікатор. У разі відмови ви все одно отримуватимете рекламні оголошення, але вони можуть бути менш актуальними для вас."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Ви можете відмовитися від отримання персоналізованої реклами, що використовує ваш рекламний ідентифікатор. У разі відмови ви все ще отримуватимете рекламу, але вона може бути менш доречною для вас."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"Ваш рекламний ідентифікатор"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"Ваш рекламний ідентифікатор (також відомий як OAID) – це тимчасовий ідентифікатор пристрою, який використовується для надання персоналізованих рекламних оголошень. Щоб дізнатися більше, торкніться %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Вимкнути персоналізовану рекламу"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Докладніше"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Інтелектуальні рекомендації"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Немає підключення до Інтернету"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Служби з надсилання персоналізованої реклами рекомендують вміст, який може вас зацікавити, на умовах постійного забезпечення вашої конфіденційності. Додаткові відомості див. тут: %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Служби з надсилання персоналізованої реклами рекомендують вміст, який може вас зацікавити, на умовах постійного забезпечення вашої конфіденційності. Додаткові відомості див. в документі нижче."</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"Платформа \"Реклама HUAWEI\" надає рекламні сервіси для Huawei Mobile Services і сторонніх додатків. Якщо увімкнено персоналізацію реклами, то ваші особисті дані можуть бути використані, щоб надавати вам актуальнішу й кориснішу рекламу. Докладнішу інформацію про процедуру обробки ваших даних, а також про ваші права наведено в документі %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"Платформа \"Реклама HUAWEI\" надає служби з надсилання реклами для Huawei Mobile Services і сторонніх додатків. Якщо персоналізовану рекламу ввімкнено, ваші особисті дані можуть використовуватися для надання вам доречнішої та кориснішої реклами. Докладні відомості про використання ваших даних і ваші права див. в документі нижче."</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Ця функція використовує технологію федеративного навчання для надання рекомендацій щодо продуктів і послуг, які вам можуть сподобатись."</string>
+    <string name="opendevice_setting_network" priority="LT">"Налаштування мережі"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Ідентифікатор пристрою"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Відомості про OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Положення про статистичний аналіз Ad-ID"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Рекламна інформація"</string>
+    <string name="password_toggle_content_description">Показувати пароль</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Пошук"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

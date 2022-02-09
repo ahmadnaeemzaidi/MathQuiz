@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Vindu lukkes om %1$s sekund."</item>
+        <item priority="translator" quantity="other">"Vindu lukkes om %1$s sekunder."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"Reklamen kan lukkes om %d s"</item>
+        <item priority="LT" quantity="other">"Reklamen kan lukkes om %d s"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Husk valget i %1$s dag"</item>
+        <item priority="Reviewed" quantity="other">"Husk valget i %1$s dager"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="LT" quantity="one">"Opptjen en belønning på %d s"</item>
+        <item priority="LT" quantity="other">"Opptjen en belønning på %d s"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Se i %d sekund for å få en belønning."</item>
+        <item priority="LT" quantity="other">"Se i %d sekunder for å få en belønning."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d sek."</item>
+        <item priority="LT" quantity="other">"%1$d sek."</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nytt varsel</item>
+    <item quantity="other">%d nye varsler</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÅ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"slett"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funksjon+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mellomrom"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meny+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Søk"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="bottomsheet_action_expand_halfway">Vis halve feltet nederst</string>
+    <string name="character_counter_content_description">%1$d av %2$d tegn er skrevet inn</string>
+    <string name="character_counter_overflowed_content_description">Tegngrensen er overskredet – %1$d av %2$d</string>
+    <string name="clear_text_end_icon_content_description">Fjern teksten</string>
+    <string name="error_icon_content_description">Feil</string>
+    <string name="exposed_dropdown_menu_content_description">Vis rullegardinmenyen</string>
+    <string name="hiad_ad_label" priority="translator">"Reklame"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklame"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Versjon %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s er installert"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Installasjonen er fullført. Berør for å åpne."</string>
+    <string name="hiad_app_permission" priority="LT">"Tillatelser"</string>
+    <string name="hiad_calender_add" priority="LT">"OK"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"Aktiviteten eksisterer allerede."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Legg til denne aktiviteten i kalenderen?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Kan ikke legge til aktivitet."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Aktivitet lagt til."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Slette denne aktiviteten fra kalenderen?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Kan ikke slette aktivitet."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Aktivitet slettet."</string>
+    <string name="hiad_calender_delete" priority="LT">"Slett"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Denne brukes til å generere kalenderpåminnelser eller opprette hendelser for salgsfremmende aktiviteter som du har planer om å delta i."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Merk"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Denne appen må ha Kalender-tillatelsen for å opprette Kalenderaktiviteter. Du kan gi denne tillatelsen i Innstillinger."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Denne appen må ha Kalender-tillatelsen for å slette Kalenderaktiviteter. Du kan gi denne tillatelsen i Innstillinger."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Denne brukes for å opprette Kalender-påminnelser slik at du kan angi og motta påminnelser om hendelser."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Tillatelse kreves"</string>
+    <string name="hiad_calender_set" priority="LT">"Innstillinger"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Denne brukes til interaktive AR-tjenester."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Annonse skjult"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Ikke interessert"</string>
+    <string name="hiad_choices_hide" priority="LT">"Skjul annonse"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Hvorfor så jeg denne annonsen?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Prøv igjen"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Installere denne appen?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Bruk av mobildata vil forbruke %1$s data. Fortsette?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Avspilling vil konsumere mobildata. Fortsette?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Bruker mobiltilkobling. Hvis du ser på, brukes %1$s mobildata."</string>
+    <string name="hiad_continue_download" priority="LT">"Last ned"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LAST NED"</string>
+    <string name="hiad_continue_to_play" priority="LT">"FORTSETT"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopier lenke"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"App"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Hopp over"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Hopp over om %d"</string>
+    <string name="hiad_detail" priority="LT">"Detaljer"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Last ned"</string>
+    <string name="hiad_dialog_accept" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_allow" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"AVBRYT"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LAST NED"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"SKJØNNER"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Tillat at %1$s installerer %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Kilde: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_open" priority="LT">"ÅPNE"</string>
+    <string name="hiad_dialog_reject" priority="LT">"IKKE TILLAT"</string>
+    <string name="hiad_dialog_title" priority="LT">"Last ned med mobildata?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Merk"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Laste ned med mobildata?"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALLER"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"LAST NED (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Laste ned"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"En feil oppstod under nedlastingen av %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Filen er skadet. Last ned på nytt."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Filen eksisterer ikke. Prøv igjen."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALLER"</string>
+    <string name="hiad_download_installing" priority="LT">"Installerer"</string>
+    <string name="hiad_download_no_space" priority="LT">"Ikke nok lagringsplass. Frigjør litt plass, og prøv igjen."</string>
+    <string name="hiad_download_open" priority="LT">"ÅPNE"</string>
+    <string name="hiad_download_resume" priority="LT">"FORTSETT"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"En feil oppstod under nedlastingen av %1$s. Nedlastingen vil starte på nytt."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Du er ikke tilkoblet Wi-Fi i øyeblikket. Hvis du laster ned nå forbrukes %1$s mobildata. Laste ned likevel?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Du er ikke tilkoblet WLAN i øyeblikket. Hvis du laster ned nå forbrukes %1$s mobildata. Laste ned likevel?"</string>
+    <string name="hiad_go_to_settings" priority="LT">"Innstillinger"</string>
+    <string name="hiad_install_completed" priority="LT">"Ferdig"</string>
+    <string name="hiad_installed_description" priority="LT">"Installasjon vellykket. Berør for å åpne."</string>
+    <string name="hiad_jump_desc" priority="translator">"Se detaljer eller gå til appen"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Denne siden ønsker å åpne %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Lenke kopiert."</string>
+    <string name="hiad_loading_tips" priority="LT">Laster inn …</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Denne nedlastingen vil bruke %1$s av mobildata."</string>
+    <string name="hiad_net_error" priority="LT">Feil ved nettverkstilkobling. Prøv igjen.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Ingen Internett-tilkobling. Koble til, og prøv igjen."</string>
+    <string name="hiad_network_error" priority="LT">"Feil ved nettverkstilkobling."</string>
+    <string name="hiad_network_no_available" priority="LT">"Ingen Internett-tilkobling. Kontroller dine nettverksinnstillinger."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Ikke minn meg på det"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Ingen Wi-Fi-forbindelse. Hvis du laster ned nå, forbrukes mobildata. Laste ned?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Ingen WLAN-forbindelse. Hvis du laster ned nå, forbrukes mobildata. Laste ned?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Åpne i nettleser"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Kunne ikke laste inn siden. Prøv igjen."</string>
+    <string name="hiad_permission_camera" priority="LT">"Denne funksjonen krever tilgang til Kamera-tillatelsen. Gi den i Innstillinger."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s krever følgende tillatelser:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Forhåndsbestill"</string>
+    <string name="hiad_prepare_download" priority="LT">"Vent på Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Laste ned over mobilnett?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Vent på WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Personvern"</string>
+    <string name="hiad_refresh" priority="LT">"Oppdater"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"App større enn %1$d MB"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Avbryt"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Utvikler: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Versjon %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Hopp over"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsette å se"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Se denne reklamen ferdig for å få en belønning."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Posisjonsbaserte reklamer"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Berør for å åpne nettsiden/appen"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"App lastes ned."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Sveip opp"</string>
+    <string name="hiad_twist_screen" priority="translator">"Rist telefonen"</string>
+    <string name="hiad_whether_download" priority="LT">"Laste ned denne appen?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Forhåndsinnlastet over Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Forhåndsinnlastet"</string>
+    <string name="icon_content_description">Dialogboksikon</string>
+    <string name="item_view_role_description">Fane</string>
+    <string name="material_clock_toggle_content_description">Velg AM eller PM</string>
+    <string name="material_hour_selection">Velg time</string>
+    <string name="material_hour_suffix">%1$s null-null</string>
+    <string name="material_minute_selection">Angi minutter</string>
+    <string name="material_minute_suffix">%1$s minutter</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Bytt til klokkemodus for tidsinndata.</string>
+    <string name="material_timepicker_hour">Time</string>
+    <string name="material_timepicker_minute">Minutt</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Velg tidspunkt</string>
+    <string name="material_timepicker_text_input_mode_description">Bytt til tekstinndatamodus for tidsinndata.</string>
+    <string name="mtrl_badge_numberless_content_description">Nytt varsel</string>
+    <string name="mtrl_chip_close_icon_content_description">Fjern %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Flere enn %1$d nye varsler</string>
+    <string name="mtrl_picker_a11y_next_month">Endre til neste måned</string>
+    <string name="mtrl_picker_a11y_prev_month">Endre til forrige måned</string>
+    <string name="mtrl_picker_announce_current_selection">Gjeldende valg: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Velg dato</string>
+    <string name="mtrl_picker_date_header_unselected">Valgt dato</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolonne for dager: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ugyldig format.</string>
+    <string name="mtrl_picker_invalid_format_example">Eksempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Bruk: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ugyldig område.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naviger til år %1$s</string>
+    <string name="mtrl_picker_out_of_range">Utenfor rekkevidde: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdato – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – sluttdato</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Velg periode</string>
+    <string name="mtrl_picker_range_header_unselected">Startdato–sluttdato</string>
+    <string name="mtrl_picker_save">Lagre</string>
+    <string name="mtrl_picker_text_input_date_hint">Dato</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Sluttdato</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdato</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Bytt til kalenderinndatamodus</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Trykk for å bytte til å velge dag</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Bytt til tekstinndatamodus</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Trykk for å bytte til å velge år</string>
+    <string name="no_browser_tips" priority="LT">"Installer en nettleser-app først."</string>
+    <string name="opendevice_ad_info" priority="LT">"Reklameinformasjon"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Erklæring om Reklamer og personvern"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Alle annonsører"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"AVBRYT"</string>
+    <string name="opendevice_bt_reset" priority="LT">"TILBAKESTILL"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Ny tilfeldig reklame-ID tildeles."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Tilbakestill reklame-ID"</string>
+    <string name="opendevice_here" priority="LT">"her"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Annonser og personvern"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Reklamer"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Du kan velge å motta tilpasset reklame som bruker reklame-ID-en din. Selv om du velger å ikke delta vil du fortsatt motta reklamer, men de kan være mindre relevante for deg. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Lær mer om databruk og rettighetene dine"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Deaktiver innsamling av Ad-ID-statistikk"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Vi vil samle inn informasjon om handlingene dine på skjermen i disse innstillingene og om apper som bruker din annonse-ID for å forbedre tjenestene våre. For mer informasjon om hvordan vi bruker disse opplysningene, berør %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Vi vil samle inn informasjon om skjermhandlingene dine i disse innstillingene og om apper som bruker din reklame-ID for å forbedre tjenestene våre."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Mer informasjon"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"Din reklame-ID (også kjent som OAID) er en midlertidig enhetsidentifikator som brukes til å gi deg tilpasset reklame."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Tilbakestill reklame-ID"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Du kan velge å ikke motta tilpasset reklame som bruker reklame-ID-en din. Selv om du velger å ikke delta vil du fortsatt motta reklame, men de kan være mindre relevante for deg."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Du kan velge å motta tilpasset reklame som bruker reklame-ID-en din. Selv om du velger å ikke delta vil du fortsatt motta reklame, men de kan være mindre relevante for deg."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"Din reklame-ID"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"Din annonse-ID (også kjent som OAID) er en midlertidig enhetsidentifikator som brukes til å gi deg tilpassede annonser. Berør %1$s for å finne ytterligere informasjon."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Deaktiver tilpassede reklamer"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Les mer"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Smarte anbefalinger"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Ingen Internett-forbindelse"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Tilpassede reklametjenester anbefaler innhold du kan være interessert i. Personvernet ditt vil være beskyttet hele tiden. For flere detaljer, se %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Tilpassede reklametjenester anbefaler innhold du kan være interessert i. Personvernet ditt vil være beskyttet hele tiden. Se følgende for mer informasjon:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"HUAWEI Reklamer-plattform leverer reklametjenester for Huawei Mobile Services og tredjeparts-apper. Hvis tilpasset reklame er aktivert, kan personopplysningene dine brukes til å gi deg mer relevant og nyttig reklame. Se følgende for å lære mer om hvordan dataene dine brukes, og om rettighetene dine %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"HUAWEI Reklamer-plattform leverer reklametjenester for Huawei Mobile Services og tredjeparts-apper. Hvis tilpasset reklame er aktivert, kan personopplysningene dine brukes til å gi deg mer relevant og nyttig reklame. Se følgende for å lære mer om hvordan dataene dine brukes, og om rettighetene dine:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Denne funksjonen bruker samarbeidsbasert læringsteknologi til å anbefale produkter og tjenester du kan komme til å like."</string>
+    <string name="opendevice_setting_network" priority="LT">"Nettverksinnstillinger"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Enhetsidentifikator"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Om OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Erklæring om statistisk analyse av annonse-ID"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Reklameinformasjon"</string>
+    <string name="password_toggle_content_description">Vis passordet</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Søk"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

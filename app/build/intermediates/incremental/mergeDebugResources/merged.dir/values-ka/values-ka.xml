@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"ვინდოუსი დაიხურება %1$s წამში."</item>
+        <item priority="translator" quantity="other">"ვინდოუსი დაიხურება %1$s წამში."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"რეკლამა შეიძლება დაიხუროს %d წმ-ში"</item>
+        <item priority="LT" quantity="other">"რეკლამა შეიძლება დაიხუროს %d წმ-ში"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
+        <item priority="Reviewed" quantity="other">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="LT" quantity="one">"მიიღეთ ჯილდო %d წმ-ში"</item>
+        <item priority="LT" quantity="other">"მიიღეთ ჯილდო %d წმ-ში"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"ჯილდოს მისაღებად უყურეთ %d წამი."</item>
+        <item priority="LT" quantity="other">"ჯილდოს მისაღებად უყურეთ %d წამი."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d წმ"</item>
+        <item priority="LT" quantity="other">"%1$d წმ"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ახალი შეტყობინება</item>
+    <item quantity="other">%d ახალი შეტყობინება</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"მთავარზე გადასვლა"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ზემოთ გადასვლა"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"სხვა ვარიანტები"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"მზადაა"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"ყველას ნახვა"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"აირჩიეთ აპი"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"გამორთვა"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ჩართვა"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"შორისი"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ძიება…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"მოთხოვნის გასუფთავება"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"მოთხოვნის ძიება"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ძიება"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"მოთხოვნის გადაგზავნა"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ხმოვანი ძიება"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"გაზიარება:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-ით გაზიარება"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ჩაკეცვა"</string>
+    <string name="bottomsheet_action_expand_halfway">ნახევრამდე გაფართოება</string>
+    <string name="character_counter_content_description">შეყვანილია %2$d-დან %1$d სიმბოლო</string>
+    <string name="character_counter_overflowed_content_description">გადაჭარბებულია სიმბოლოთა ლიმიტი (%2$d-დან %1$d)</string>
+    <string name="clear_text_end_icon_content_description">ტექსტის გასუფთავება</string>
+    <string name="error_icon_content_description">შეცდომა</string>
+    <string name="exposed_dropdown_menu_content_description">ჩამოსაშლელი მენიუს ჩვენება</string>
+    <string name="hiad_ad_label" priority="translator">"რეკლამა"</string>
+    <string name="hiad_ad_label_new" priority="LT">"რეკლამა"</string>
+    <string name="hiad_app_detail_version" priority="LT">"ვერსია %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s დაინსტალირდა"</string>
+    <string name="hiad_app_open_notification" priority="translator">"ინსტალაცია დასრულებულია. შეეხეთ გასახსნელად."</string>
+    <string name="hiad_app_permission" priority="LT">"ნებართვები"</string>
+    <string name="hiad_calender_add" priority="LT">"კარგი"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"მოვლენა უკვე არსებობს."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"დავამატოთ ეს მოვლენა თქვენს კალენდარში?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"მოვლენის დამატება შეუძლებელია."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"მოვლენა დაემატა."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"წავშალოთ ეს მოვლენა თქვენი კალენდრიდან?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"მოვლენის წაშლა შეუძლებელია."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"მოვლენა წაიშალა."</string>
+    <string name="hiad_calender_delete" priority="LT">"წაშლა"</string>
+    <string name="hiad_calender_description_new" priority="LT">"ეს გამოყენება იმ სარეკლამო აქტივობებისთვის კალენდრის შემხსენებლების გენერირებისა და მოვლენების შესაქმნელად, რომლებშიც მონაწილეობას გეგმავთ."</string>
+    <string name="hiad_calender_dialog" priority="LT">"შენიშვნა"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"ამ აპს სჭირდება კალენდრის ნებართვა კალენდარული მოვლენების შესაქმნელად. ამ ნებართვის გაცემა შეგიძლიათ პარამეტრებში."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"ამ აპს სჭირდება კალენდრის ნებართვა კალენდარული მოვლენების წასაშლელად. ამ ნებართვის გაცემა შეგიძლიათ პარამეტრებში."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"ეს გამოიყენება კალენდრის შემხსენებლების შესაქმნელად, რომ შეძლოთ დააყენოთ და მიიღოთ შემხსენებლები მოვლენებისთვის."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"საჭიროა ნებართვა"</string>
+    <string name="hiad_calender_set" priority="LT">"პარამეტრები"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"ეს გამოიყენება AR ინტერაქტიული სერვისებისთვის."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"რეკლამა დამალულია"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"არ მაინტერესებს"</string>
+    <string name="hiad_choices_hide" priority="LT">"რეკლამის დამალვა"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"რატომ ვნახე ეს რეკლამა?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"გამეორება"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"დავაინსტალიროთ ეს აპი?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"მობილური ქსელის გამოყენება მოიხმარს %1$s-ის რაოდენობის მონაცემებს. გავაგრძელოთ?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"დაკვრა გამოიყენებს მობილურ მონაცემებს. გავაგრძელოთ?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"გამოიყენება მობილური კავშირი. ყურება გამოიყენებს მობილური მონაცემების %1$s-ს."</string>
+    <string name="hiad_continue_download" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_continue_to_play" priority="LT">"გაგრძელება"</string>
+    <string name="hiad_copy_link" priority="LT">"ბმულის კოპირება"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"აპი"</string>
+    <string name="hiad_default_skip_text" priority="LT">"გამოტოვება"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"გამოტოვეთ %d-ში"</string>
+    <string name="hiad_detail" priority="LT">"დეტალები"</string>
+    <string name="hiad_detail_download_now" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_dialog_accept" priority="LT">"დაშვება"</string>
+    <string name="hiad_dialog_allow" priority="LT">"უფლების მიცემა"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"გაუქმება"</string>
+    <string name="hiad_dialog_close" priority="LT">"კარგი"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"გასაგებია"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"მივცეთ %1$s-ს %2$s-ის დაინსტალირების ნება?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"წყარო: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"დაშვება"</string>
+    <string name="hiad_dialog_open" priority="LT">"გახსნა"</string>
+    <string name="hiad_dialog_reject" priority="LT">"უარყოფა"</string>
+    <string name="hiad_dialog_title" priority="LT">"ჩამოიტვირთოს მობილური მონაცემების გამოყენებით?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"შენიშვნა"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"ჩამოვტვირთოთ მობილური მონაცემების გამოყენებით?"</string>
+    <string name="hiad_download_download" priority="LT">"ინსტალირება"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ჩამოტვირთვა (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"მიმდინარეობს ჩამოტვირთვა"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"შეცდომა მოხდა %1$s-ის ჩამოტვირთვის დროს."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"ფაილი დაზიანებულია. გთხოვთ, თავიდან ჩამოტვირთოთ."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"ფაილი არ არსებობს. გთხოვთ, კიდევ სცადოთ."</string>
+    <string name="hiad_download_install" priority="LT">"ინსტალაცია"</string>
+    <string name="hiad_download_installing" priority="LT">"ინსტალირება"</string>
+    <string name="hiad_download_no_space" priority="LT">"არასაკმარისი მეხსიერება. გაათავისუფლეთ სივრცე და კიდევ სცადეთ."</string>
+    <string name="hiad_download_open" priority="LT">"გახსნა"</string>
+    <string name="hiad_download_resume" priority="LT">"გაგრძელება"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"შეცდომა მოხდა %1$s-ის ჩამოტვირთვის დროს. ჩამოტვირთვა გადაიტვირთება."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"ამჟამად Wi-Fi-სთან არ გაქვთ კავშირი. ჩამოსატვირთად გამოიყენებთ %1$s-ის მობილურ მონაცემებს. მაინც ჩამოვტვირთოთ?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"ამჟამად WLAN-თან არ ხართ დაკავშირებული. ჩამოტვირთვა გამოიყენებს მობილური მონაცემების %1$s-ს. მაინც ჩამოვტვირთოთ?"</string>
+    <string name="hiad_go_to_settings" priority="LT">"პარამეტრები"</string>
+    <string name="hiad_install_completed" priority="LT">"შესრულებულია"</string>
+    <string name="hiad_installed_description" priority="translator">"ინსტალაცია წარმატებით განხორციელდა. შეეხეთ გასახსნელად."</string>
+    <string name="hiad_jump_desc" priority="translator">"ნახეთ დეტალები ან გადადით აპში"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"ამ გვერდს სურს %1$s-ის გახსნა."</string>
+    <string name="hiad_link_already_copied" priority="LT">"ბმული კოპირებულია."</string>
+    <string name="hiad_loading_tips" priority="LT">იტვირთება…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"ეს ჩამოტვირთვა გამოიყენებს მობილური მონაცემების %1$s-ს."</string>
+    <string name="hiad_net_error" priority="LT">ქსელის კავშირის შეცდომა. სცადეთ ხელახლა.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"ინტერნეტთან კავშირი არ არის. გთხოვთ დაუკავშირდეთ და სცადოთ ხელახლა."</string>
+    <string name="hiad_network_error" priority="LT">"ქსელის კავშირის შეცდომა."</string>
+    <string name="hiad_network_no_available" priority="LT">"არ არის ინტერნეტ კავშირი. გთხოვთ, შეამოწმეთ თქვენი ქსელის პარამეტრები."</string>
+    <string name="hiad_no_more_remind" priority="LT">"აღარ შემახსენო"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Wi-Fi კავშირი არ არის. ახლა ჩამოტვირთვა გამოიყენებს მობილურ მონაცემებს. ჩამოვტვირთოთ?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"WLAN კავშირი არ არის. ახლა ჩამოტვირთვა გამოიყენებს მობილურ მონაცემებს. ჩამოვტვირთოთ?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"ბრაუზერში გახსნა"</string>
+    <string name="hiad_page_load_failed" priority="LT">"გვერდის ჩატვირთვა შეუძლებელია. გთხოვთ, კიდევ სცადოთ."</string>
+    <string name="hiad_permission_camera" priority="LT">"ეს ფუნქცია მოითხოვს კამერის ნებართვას. გაეცით იგი პარამეტრებში."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s მოითხოვს შემდეგ ნებართვებს:"</string>
+    <string name="hiad_preorder_download" priority="LT">"წინასწარ შეკვეთა"</string>
+    <string name="hiad_prepare_download" priority="LT">"დაველოდოთ Wi-Fi-ს"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"ჩამოვტვირთოთ მობილური ქსელის მეშვეობით?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"დაველოდოთ WLAN-ს"</string>
+    <string name="hiad_privacy_policy" priority="LT">"კონფიდენციალურობა"</string>
+    <string name="hiad_refresh" priority="LT">"განახლება"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"%1$d მბ-ზე დიდი აპი"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"გაუქმება"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"დეველოპერი: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"ვერსია %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"გამოტოვება"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"ყურების გაგრძელება"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"დაასრულეთ ამ რეკლამის ყურება ჯილდოს მისაღებად."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"მდებარეობაზე დაფუძნებული რეკლამები"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"შეეხეთ, რომ გახსნათ ვებსაიტი/აპი"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"აპი იტვირთება."</string>
+    <string name="hiad_swipe_screen" priority="translator">"გადასმა ზემოთ"</string>
+    <string name="hiad_twist_screen" priority="translator">"შეარხიეთ ტელეფონი"</string>
+    <string name="hiad_whether_download" priority="LT">"ჩამოიტვირთოს ეს აპი?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"წინასწარ დატვირთული Wi-Fi-ის მეშვეობით"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"წინასწარ ჩატვირთული"</string>
+    <string name="icon_content_description">დიალოგის ხატულა</string>
+    <string name="item_view_role_description">ჩანართი</string>
+    <string name="material_clock_toggle_content_description">აირჩიეთ AM ან PM</string>
+    <string name="material_hour_selection">აირჩიეთ საათი</string>
+    <string name="material_hour_suffix">%1$s საათი</string>
+    <string name="material_minute_selection">აირჩიეთ წუთები</string>
+    <string name="material_minute_suffix">%1$s წუთი</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">დროის შეყვანისთვის საათის რეჟიმზე გადართვა.</string>
+    <string name="material_timepicker_hour">საათი</string>
+    <string name="material_timepicker_minute">წუთი</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">აირჩიეთ დრო</string>
+    <string name="material_timepicker_text_input_mode_description">დროის შეყვანისთვის ტექსტის შეყვანის რეჟიმზე გადართვა.</string>
+    <string name="mtrl_badge_numberless_content_description">ახალი შეტყობინება</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s-ის ამოშლა</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d-ზე მეტი ახალი შეტყობინება</string>
+    <string name="mtrl_picker_a11y_next_month">შემდეგ თვეზე გადასვლა</string>
+    <string name="mtrl_picker_a11y_prev_month">წინა თვეზე გადასვლა</string>
+    <string name="mtrl_picker_announce_current_selection">ამჟამინდელი არჩევანი: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">აირჩიეთ თარიღი</string>
+    <string name="mtrl_picker_date_header_unselected">არჩეული თარიღი</string>
+    <string name="mtrl_picker_day_of_week_column_header">დღეების სვეტი: %1$s</string>
+    <string name="mtrl_picker_invalid_format">არასწორი ფორმატი.</string>
+    <string name="mtrl_picker_invalid_format_example">მაგალითი: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s-ის გამოყენება</string>
+    <string name="mtrl_picker_invalid_range">დიაპაზონი არასწორია.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s წელზე ნავიგაცია</string>
+    <string name="mtrl_picker_out_of_range">დიაპაზონს მიღმა: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">დაწყების თარიღი - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - დასრულების თარიღი</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">აირჩიეთ დიაპაზონი</string>
+    <string name="mtrl_picker_range_header_unselected">დაწყების თარიღი - დასრულების თარიღი</string>
+    <string name="mtrl_picker_save">შენახვა</string>
+    <string name="mtrl_picker_text_input_date_hint">თარიღი</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">დასრულების თარიღი</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">დაწყების თარიღი</string>
+    <string name="mtrl_picker_text_input_day_abbr">დ</string>
+    <string name="mtrl_picker_text_input_month_abbr">წთ</string>
+    <string name="mtrl_picker_text_input_year_abbr">წ</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">კალენდარში შეყვანის რეჟიმზე გადართვა</string>
+    <string name="mtrl_picker_toggle_to_day_selection">შეეხეთ დღის არჩევაზე გადასართავად</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">ტექსტის შეყვანის რეჟიმზე გადართვა</string>
+    <string name="mtrl_picker_toggle_to_year_selection">შეეხეთ წლის არჩევაზე გადასართავად</string>
+    <string name="no_browser_tips" priority="LT">"ჯერ დააინსტალირეთ ბრაუზერის აპი."</string>
+    <string name="opendevice_ad_info" priority="LT">"რეკლამის ინფორმაცია"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"დებულება რეკლამებისა და კონფიდენციალურობის შესახებ"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"რეკლამის ყველა განმთავსებელი"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"გაუქმება"</string>
+    <string name="opendevice_bt_reset" priority="LT">"აღდგენა"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"ახალი Ad-ID შემთხვევითად მიენიჭება."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Ad-ID-ს აღდგენა"</string>
+    <string name="opendevice_here" priority="LT">"აქ"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"რეკლამები და კონფიდენციალურობა"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"რეკლამები"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"შეგიძლიათ გააუქმოთ იმ ინდივიდუალური რეკლამების მიღება, რომლებიც იყენებს თქვენს Ad-ID-ს. გაუქმების შემთხვევაში ისევ მიიღებთ რეკლამებს, მაგრამ შესაძლოა ისინი თქვენთვის ნაკლებად საინტერესო იყოს. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="translator">"ვრცლად მონაცემთა გამოყენებისა და თქვენი უფლებების შესახებ"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Ad-ID სტატისტიკის შეგროვების გამორთვა"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"ჩვენი სერვისების გასაუმჯობესებლად შევაგროვებთ ინფორმაციას ამ პარამეტრებში თქვენ მიერ ეკრანზე განხორციელებული ქმედებებისა და იმ აპების შესახებ, რომლებიც იყენებს თქვენს Ad-ID-ს. ჩვენ მიერ ამ მონაცემების დამუშავების შესახებ მეტი ინფორმაციისთვის შეეხეთ %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"ჩვენი სერვისების გასაუმჯობესებლად შევაგროვებთ ინფორმაციას ამ პარამეტრებში თქვენ მიერ ეკრანზე განხორციელებული ქმედებებისა და იმ აპების შესახებ, რომლებიც იყენებს თქვენს Ad-ID-ს."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"დამატებითი ინფორმაცია"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"თქვენი Ad-ID (იგივე OAID) არის მოწყობილობის დროებითი იდენტიფიკატორი, რომელიც გამოიყენება თქვენთვის ინდივიდუალური რეკლამების მოსაწოდებლად."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Ad-ID-ს აღდგენა"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"შეგიძლიათ გააუქმოთ იმ პერსონალიზებული რეკლამების მიღება, რომლებიც იყენებს თქვენს Ad-ID-ს. გაუქმების შემთხვევაში, ისევ მიიღებთ რეკლამებს, მაგრამ შესაძლოა ისინი თქვენთვის ნაკლებად შესაფერისი იყოს."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"შეგიძლიათ უარი თქვათ პერსონალიზებული რეკლამების მიღებაზე, რომლებიც თქვენს Ad-ID-ს იყენებენ. თუ უარს იტყვით, მაინც მიიღებთ რეკლამებს, მაგრამ ისინი შესაძლოა ნაკლებად რელევანტური იყოს თქვენთვის."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"თქვენი Ad-ID"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"თქვენი Ad-ID (იგივე OAID) არის დროებითი მოწყობილობის იდენტიფიკატორი, რომელიც გამოიყენება თქვენთვის პერსონალიზებული რეკლამების მოსაწოდებლად. დამატებითი ინფორმაციისთვის შეეხეთ %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"ინდივიდუალური რეკლამების გამორთვა"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"ვრცლად"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"ჭკვიანი რეკომენდაციები"</string>
+    <string name="opendevice_network_no_available" priority="LT">"ინტერნეტთან კავშირი არ არის"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"ინდივიდუალური სარეკლამო სერვისები გირჩევთ შიგთავსს, რომელმაც შესაძლოა დაგაინტერესოთ. თქვენი კონფიდენციალურობა ყოველთვის დაცული იქნება. დეტალური ინფორმაციისთვის იხილეთ %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"ინდივიდუალური სარეკლამო სერვისები გირჩევთ შიგთავსს, რომელმაც შესაძლოა დაგაინტერესოთ. თქვენი კონფიდენციალურობა ყოველთვის დაცული იქნება. დამატებითი ინფორმაციისთვის იხილეთ შემდეგი:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"HUAWEI რეკლამების პლატფორმა უზრუნველყოფს სარეკლამო სერვისებს Huawei Mobile Services-ისა და მესამე მხარის პროგრამებისთვის. თუ პერსონალიზებული რეკლამები ჩართულია, შესაძლოა მოხდეს თქვენი პერსონალური მონაცემების გამოყენება თქვენთვის უფრო საინტერესო და სასარგებლო რეკლამების მოსაწოდებლად. თქვენი მონაცემების გამოყენებისა და თქვენი უფლებების შესახებ დამატებითი ინფორმაციისთვის, იხილეთ %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"HUAWEI რეკლამების პლატფორმა უზრუნველყოფს სარეკლამო სერვისებს Huawei Mobile Services-ისა და მესამე მხარის პროგრამებისთვის. თუ პერსონალიზებული რეკლამები ჩართულია, თქვენი პერსონალური მონაცემები შეიძლება გამოყენებული იქნეს თქვენთვის უფრო რელევანტური და სასარგებლო რეკლამების უზრუნველსაყოფად. დამატებითი ინფორმაციისთვის თქვენი მონაცემების გამოყენების და თქვენი უფლებების შესახებ იხილეთ შემდეგი:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"ეს ფუნქცია იყენებს ფედერაციული სწავლების ტექნოლოგიას ისეთი პროდუქტებისა და სერვისების რეკომენდებისთვის, რომლებიც შესაძლოა მოგეწონოთ."</string>
+    <string name="opendevice_setting_network" priority="LT">"ქსელის პარამეტრები"</string>
+    <string name="opendevice_title_oaid" priority="LT">"მოწყობილობის იდენტიფიკატორი"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"OAID-ს შესახებ"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"დებულება Ad-ID სტატისტიკური ანალიზის შესახებ"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"რეკლამის ინფორმაცია"</string>
+    <string name="password_toggle_content_description">პაროლის ჩვენება</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ძიება"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

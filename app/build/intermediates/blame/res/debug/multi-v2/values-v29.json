@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\huawei\\MathGame\\source\\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\\MathUp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v29\\values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmad.naeem\\.gradle\\caches\\transforms-2\\files-2.1\\8a1422bad554f34767e565696bdca3d9\\jetified-ads-core-3.4.49.301\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,234",
+                        "endLines": "4,5",
+                        "endColumns": "12,122",
+                        "endOffsets": "229,352"
+                    }
+                }
+            ]
+        }
+    ]
+}

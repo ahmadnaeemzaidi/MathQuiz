@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"سيُغلق مربع الحوار هذا تلقائيًا في غضون ثانية واحدة."</item>
+        <item priority="translator" quantity="zero">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثوانٍ."</item>
+        <item priority="translator" quantity="two">"سيُغلق مربع الحوار هذا تلقائيًا في غضون ثانيتين."</item>
+        <item priority="translator" quantity="few">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثوانٍ."</item>
+        <item priority="translator" quantity="many">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثانية."</item>
+        <item priority="translator" quantity="other">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثانية."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"يمكن إغلاق الإعلان بعد ثانية"</item>
+        <item priority="translator" quantity="zero">"يمكن إغلاق الإعلان بعد %d ثوانٍ"</item>
+        <item priority="LT" quantity="two">"يمكن إغلاق الإعلان بعد ثانيتين"</item>
+        <item priority="LT" quantity="few">"يمكن إغلاق الإعلان بعد %d ثوانٍ"</item>
+        <item priority="translator" quantity="many">"يمكن إغلاق الإعلان بعد %d ثانية"</item>
+        <item priority="translator" quantity="other">"يمكن إغلاق الإعلان بعد %d ثانية"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="translator" quantity="one">"تذكر الاختيار لمدة يوم واحد"</item>
+        <item priority="translator" quantity="zero">"تذكر الاختيار لمدة %1$s أيام"</item>
+        <item priority="translator" quantity="two">"تذكر الاختيار لمدة يومين"</item>
+        <item priority="translator" quantity="few">"تذكر الاختيار لمدة %1$s أيام"</item>
+        <item priority="translator" quantity="many">"تذكر الاختيار لمدة %1$s يومًا"</item>
+        <item priority="translator" quantity="other">"تذكر الاختيار لمدة %1$s يوم"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="LT" quantity="one">"استلم المكافأة بعد ثانية واحدة"</item>
+        <item priority="translator" quantity="zero">"استلم المكافأة بعد %d ثوانٍ"</item>
+        <item priority="LT" quantity="two">"استلم المكافأة بعد ثانيتين"</item>
+        <item priority="LT" quantity="few">"استلم المكافأة بعد %d ثوانٍ"</item>
+        <item priority="translator" quantity="many">"استلم المكافأة بعد %d ثانية"</item>
+        <item priority="translator" quantity="other">"استلم المكافأة بعد %d ثانية"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"شاهد لمدة ثانية واحدة للحصول على مكافأة."</item>
+        <item priority="translator" quantity="zero">"شاهد لمدة %d ثوانٍ للحصول على مكافأة."</item>
+        <item priority="LT" quantity="two">"شاهد لمدة ثانيتين للحصول على مكافأة."</item>
+        <item priority="LT" quantity="few">"شاهد لمدة %d ثوانٍ للحصول على مكافأة."</item>
+        <item priority="translator" quantity="many">"شاهد لمدة %d ثانية للحصول على مكافأة."</item>
+        <item priority="translator" quantity="other">"شاهد لمدة %d ثانية للحصول على مكافأة."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"ثانية واحدة"</item>
+        <item priority="translator" quantity="zero">"%1$d ثوانٍ"</item>
+        <item priority="LT" quantity="two">"ثانيتان"</item>
+        <item priority="LT" quantity="few">"%1$d ثوانٍ"</item>
+        <item priority="translator" quantity="many">"%1$d ثانية"</item>
+        <item priority="translator" quantity="other">"%1$d ثانية"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="hiad_ad_label" priority="translator">"إعلان"</string>
+    <string name="hiad_ad_label_new" priority="LT">"إعلان"</string>
+    <string name="hiad_app_detail_version" priority="LT">"الإصدار \u202a%1$s\u202c"</string>
+    <string name="hiad_app_installed" priority="LT">"تم تثبيت تطبيق \"%1$s\""</string>
+    <string name="hiad_app_open_notification" priority="translator">"اكتمل التثبيت. انقر هنا لفتحه."</string>
+    <string name="hiad_app_permission" priority="LT">"الأذونات"</string>
+    <string name="hiad_calender_add" priority="LT">"موافق"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"الحدث موجود بالفعل"</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"هل تريد إضافة هذا الحدث إلى تقويمك؟"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"تتعذر إضافة حدث"</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"تمت إضافة الحدث"</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"هل تريد حذف هذا الحدث من تقويمك؟"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"يتعذر حذف الحدث"</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"تم حذف الحدث"</string>
+    <string name="hiad_calender_delete" priority="LT">"حذف"</string>
+    <string name="hiad_calender_description_new" priority="LT">"يُستخدم هذا الإذن لإنشاء تذكيرات التقويم أو إنشاء أحداث للأنشطة الترويجية التي تخطط للمشاركة فيها."</string>
+    <string name="hiad_calender_dialog" priority="LT">"تنويه"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"يحتاج هذا التطبيق منحه إذن الوصول إلى التقويم ليتمكن من إنشاء الأحداث على التقويم. يمكنك منحه هذا الإذن من الإعدادات."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"يحتاج هذا التطبيق منحه إذن الوصول إلى التقويم لحذف الأحداث من التقويم. يمكنك منحه هذا الإذن من الإعدادات."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"يُستخدم هذا الإذن لإنشاء تذكيرات على التقويم حتى تتمكن من تعيين وتلقي تذكيرات للأحداث."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"إذن مطلوب"</string>
+    <string name="hiad_calender_set" priority="LT">"الإعدادات"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"يُستخدم هذا الإذن لأجل الخدمات المتعلقة بالتفاعل مع الواقع المعزز."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"الإعلان مخفي"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"غير مهتم"</string>
+    <string name="hiad_choices_hide" priority="LT">"إخفاء الإعلان"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"ما سبب ظهور هذا الإعلان؟"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"إعادة المحاولة"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"هل تريد تثبيت هذا التطبيق؟"</string>
+    <string name="hiad_consume_data_to_play_video" priority="translator">"استخدام بيانات الجوال سيؤدي إلى استهلاك %1$s من البيانات. هل تريد المتابعة؟"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"سيتم استخدام بيانات الجوال لتشغيل هذا الفيديو. هل ترغب في المتابعة؟"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"أنت الآن تستخدم شبكة بيانات الجوال، ومتابعة مشاهدة هذا المحتوى الآن سيؤدي إلى استهلاك %1$s من بيانات الجوال."</string>
+    <string name="hiad_continue_download" priority="LT">"تنزيل"</string>
+    <string name="hiad_continue_download_new" priority="LT">"تنزيل"</string>
+    <string name="hiad_continue_to_play" priority="LT">"متابعة"</string>
+    <string name="hiad_copy_link" priority="LT">"نسخ الرابط"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s م.ب"</string>
+    <string name="hiad_default_app_name" priority="translator">"اسم التطبيق:"</string>
+    <string name="hiad_default_skip_text" priority="translator">"تخطي"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"تخطي %d"</string>
+    <string name="hiad_detail" priority="LT">"التفاصيل"</string>
+    <string name="hiad_detail_download_now" priority="LT">"تنزيل"</string>
+    <string name="hiad_dialog_accept" priority="LT">"سماح"</string>
+    <string name="hiad_dialog_allow" priority="LT">"سماح"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"إلغاء"</string>
+    <string name="hiad_dialog_close" priority="LT">"حسنًا"</string>
+    <string name="hiad_dialog_continue" priority="LT">"تنزيل"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"حسنًا"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"هل تسمح أن يقوم \"%1$s\" بتثبيت تطبيق \"%2$s\"؟"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"المصدر: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"سماح"</string>
+    <string name="hiad_dialog_open" priority="LT">"فتح"</string>
+    <string name="hiad_dialog_reject" priority="LT">"رفض"</string>
+    <string name="hiad_dialog_title" priority="LT">"تنبيه"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"تنويه"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"هل حقًا تريد استخدام بيانات الجوال للتنزيل؟"</string>
+    <string name="hiad_download_download" priority="LT">"تثبيت"</string>
+    <string name="hiad_download_download_with_size" priority="translator">"تنزيل (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"قيد التنزيل"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"حدثت مشكلة أثناء تنزيل \"%1$s\""</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"الملف معطوب، يُرجى إعادة تنزيله"</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"الملف غير موجود، يُرجى إعادة المحاولة"</string>
+    <string name="hiad_download_install" priority="LT">"تثبيت"</string>
+    <string name="hiad_download_installing" priority="LT">"قيد التثبت"</string>
+    <string name="hiad_download_no_space" priority="LT">"مساحة التخزين غير كافية، يُرجى تفريغ بعض المساحة وإعادة المحاولة"</string>
+    <string name="hiad_download_open" priority="LT">"فتح"</string>
+    <string name="hiad_download_resume" priority="translator">"استئناف"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"حدثت مشكلة أثناء تنزيل \"%1$s\"، وسيتم إعادة بدء التنزيل"</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"جهازك غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى باستخدام بيانات الجوال سيؤدي إلى استهلاك %1$s. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="translator">"جهازك غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى باستخدام بيانات الجوال سيؤدي إلى استهلاك %1$s. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_go_to_settings" priority="LT">"الإعدادات"</string>
+    <string name="hiad_install_completed" priority="LT">"تم"</string>
+    <string name="hiad_installed_description" priority="LT">"تم التثبيت بنجاح. انقر هنا لفتحه."</string>
+    <string name="hiad_jump_desc" priority="translator">"عرض التفاصيل أو الانتقال إلى التطبيق."</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"ترغب هذه الصفحة في فتح \"%1$s\"."</string>
+    <string name="hiad_link_already_copied" priority="LT">"تم نسخ الرابط"</string>
+    <string name="hiad_loading_tips" priority="LT">"جارٍ التحميل…"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"سيستهلك هذا التنزيل حوالي %1$s من بيانات الجوال."</string>
+    <string name="hiad_net_error" priority="LT">مشكلة في الشبكة، يُرجى إعادة المحاولة</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"غير متصل بالإنترنت. اتصل بالإنترنت أولًا ثم أعد المحاولة."</string>
+    <string name="hiad_network_error" priority="LT">"مشكلة في اتصال الشبكة"</string>
+    <string name="hiad_network_no_available" priority="LT">"غير متصل بالإنترنت، يُرجى التحقق من إعدادات الشبكة لديك"</string>
+    <string name="hiad_no_more_remind" priority="LT">"عدم التذكير مرةً أخرى"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"الجهاز غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى الآن سيؤدي إلى استخدام بيانات الجوال. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"الجهاز غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى الآن سيؤدي إلى استخدام بيانات الجوال. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_open_in_browser" priority="LT">"فتح في المتصفح"</string>
+    <string name="hiad_page_load_failed" priority="LT">"تعذر تحميل الصفحة، يُرجى إعادة المحاولة"</string>
+    <string name="hiad_permission_camera" priority="LT">"هذه الميزة تحتاج إلى إذن الكاميرا. يمكنك منح هذا الإذن من الإعدادات."</string>
+    <string name="hiad_permission_dialog_title" priority="translator">"يطلب تطبيق \"%1$s\" الحصول على الأذونات التالية:"</string>
+    <string name="hiad_preorder_download" priority="LT">"حجز مسبق"</string>
+    <string name="hiad_prepare_download" priority="LT">"استخدام شبكة لاسلكية"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"هل تريد التنزيل باستخدام بيانات الجوال؟"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"استخدام شبكة لاسلكية"</string>
+    <string name="hiad_privacy_policy" priority="LT">"الخصوصية"</string>
+    <string name="hiad_refresh" priority="LT">"تحديث المحتوى"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"حجم التطبيق أكبر من %1$d ميغابايت"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"إلغاء"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"المطوّر: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"الإصدار \u202a%1$s\u202c"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"تخطي"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"استكمال المشاهدة"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"شاهد هذا الإعلان إلى نهايته لتحصل على مكافأة."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"الإعلانات المستندة إلى الموقع"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"انقر هنا لفتح موقع الويب/التطبيق"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"التطبيق قيد التنزيل"</string>
+    <string name="hiad_swipe_screen" priority="translator">"اسحب للأعلى"</string>
+    <string name="hiad_twist_screen" priority="translator">"رجّ الهاتف"</string>
+    <string name="hiad_whether_download" priority="LT">"هل تريد تنزيل هذا التطبيق؟"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"تم تحميله مُسبقًا عبر الشبكة اللاسلكية"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"تم التحميل مُسبقًا"</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="no_browser_tips" priority="LT">"مطلوب تثبيت متصفح أولًا"</string>
+    <string name="opendevice_ad_info" priority="LT">"معلومات الإعلان"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"البيان المتعلق بالإعلانات والخصوصية"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"جميع شركات الإعلان"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"إلغاء"</string>
+    <string name="opendevice_bt_reset" priority="LT">"إعادة تعيين"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"سيتم تعيين معرّف إعلانات جديد."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"إعادة تعيين معرّف الإعلانات"</string>
+    <string name="opendevice_here" priority="LT">"هنا"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"الإعلانات والخصوصية"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"الإعلانات"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"يمكنك اختيار عدم تلقي الإعلانات المخصصة التي تستخدم معرّف الإعلانات الخاص بك. وفي حال القيام بذلك، لن تتوقف الإعلانات تمامًا، ولكن ستتلقى إعلانات أقل مواءمة لاهتماماتك. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"التعرف على المزيد حول استخدام البيانات وحقوقك"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"إيقاف جمع إحصائيات معرّف الإعلانات"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"سنقوم بجمع معلومات الإجراءات التي تجريها على شاشة الإعدادات وحول التطبيقات التي تستخدم معرّف الإعلانات الخاص بك، وذلك بغرض تحسين خدماتنا. يمكنك النقر %1$s لمعرفة المزيد من المعلومات حول كيفية استخدامنا لهذه البيانات."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"سنقوم بجمع معلومات الإجراءات التي تجريها على شاشة الإعدادات وحول التطبيقات التي تستخدم معرّف الإعلانات الخاص بك، وذلك بغرض تحسين خدماتنا."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"معلومات إضافية"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"معرّف الإعلانات الخاص بك (يُعرف أيضًا بمعرّف OAID) عبارة عن معرّف مؤقت للجهاز يُستخدم من أجل تزويدك بالإعلانات المخصصة التي قد تناسبك اهتماماتك."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"إعادة تعيين معرّف الإعلانات"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"يمكنك اختيار عدم تلقي الإعلانات المخصصة التي تستخدم معرّف الإعلانات الخاص بك. وفي حال القيام بذلك، لن يتم إيقاف تلقي الإعلانات تمامًا، ولكن ستتلقى إعلانات أقل مواءمة لاهتماماتك."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"يمكنك اختيار عدم تلقي الإعلانات المخصصة التي تستخدم حساب الإعلانات الخاص بك. وفي حال القيام بذلك، لن يتم إيقاف تلقي الإعلانات تمامًا، ولكن ستتلقى إعلانات أقل مواءمة لاهتماماتك."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"معرّف الإعلانات الخاص بك"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"معرّف الإعلانات الخاص بك (يُعرف أيضًا بمعرّف OAID) عبارة عن معرّف مؤقت للجهاز يُستخدم من أجل تزويدك بالإعلانات التي قد تناسبك. يمكنك النقر %1$s لمعرفة المزيد من المعلومات حول ذلك."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"إيقاف الإعلانات المخصصة"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"معرفة المزيد"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"الاقتراحات الذكية"</string>
+    <string name="opendevice_network_no_available" priority="LT">"غير متصل بالإنترنت"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"خدمات الإعلانات المخصصة تقترح عليك المحتوى الذي قد يناسب اهتماماتك. علمًا بأن خصوصيتك محمية في كافة الأوقات. لمعرفة المزيد من التفاصيل، يُرجى الاطلاع على %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"خدمات الإعلانات المخصصة تقترح عليك المحتوى الذي قد يناسب اهتماماتك. علمًا بأن خصوصيتك محمية في كافة الأوقات. يمكنك الاطلاع على التالي لمعرفة المزيد من التفاصيل:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"تقدم منصة إعلانات هواوي خدمات إعلانية لخدمات هواوي للجوال ولتطبيقات الأطراف الخارجية. إذا شغَّلت ميزة الإعلانات المخصصة، فربما يتم استخدام بياناتك الشخصية لتزويدك بإعلانات مفيدة وأكثر صلةً بك وباهتماماتك. يُرجى الاطلاع على %1$s لمعرفة المزيد عن كيفية استخدام البيانات لتخصيص الإعلانات وعن حقوقك."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"تقدم منصة إعلانات هواوي الخدمات الإعلانية لخدمات هواوي للجوال ولتطبيقات الأطراف الخارجية. إذا شغَّلت ميزة الإعلانات المخصصة، فربما يتم استخدام بياناتك الشخصية لتزويدك بإعلانات مفيدة وأكثر صلةً بك وباهتماماتك. يُرجى الاطلاع على التالي لمعرفة المزيد عن كيفية استخدام بياناتك وعن حقوقك:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"تستخدم هذه الميزة تقنية التعليم الموحّد لاقتراح المنتجات والخدمات التي ربما تكون مهتمًا فيها."</string>
+    <string name="opendevice_setting_network" priority="LT">"إعدادات الشبكة"</string>
+    <string name="opendevice_title_oaid" priority="LT">"معرّف الجهاز"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"البيان المتعلق بمعرّف الإعلانات OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"البيان المتعلق بالتحليل الإحصائي لمعرّف الإعلانات"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"معلومات الإعلان"</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

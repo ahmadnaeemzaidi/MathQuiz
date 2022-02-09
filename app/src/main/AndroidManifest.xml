@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.techgeeks.notalone.number.huawei">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/AppTheme"
+        android:fullBackupContent="true">
+        <activity android:name="com.techgeeks.notalone.number.huawei.SplashActivity"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/YellowWindowBG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.techgeeks.notalone.number.huawei.MainActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.MenuActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.GradeActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.FlashMainMultiplyActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+       <activity android:name="com.techgeeks.notalone.number.huawei.FlashMainAdditionActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.FlashMainSubActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseMultiplyActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseAddActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseSubActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.Info" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.Practice" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+        <activity android:name="com.techgeeks.notalone.number.huawei.SelectMultiplicationPracticeActivity" android:screenOrientation="portrait" android:configChanges="orientation|keyboardHidden"/>
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Dirisha litajifunga ndani ya sekunde %1$s."</item>
+        <item priority="translator" quantity="other">"Dirisha litajifunga ndani ya sekunde %1$s."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"Tangazo linaweza kufungwa baada ya sek %d"</item>
+        <item priority="LT" quantity="other">"Tangazo linaweza kufungwa baada ya sek %d"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Kumbuka chaguo kwa siku %1$s"</item>
+        <item priority="Reviewed" quantity="other">"Kumbuka chaguo kwa siku %1$s"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="LT" quantity="one">"Vuna tunu baada ya sek %d"</item>
+        <item priority="LT" quantity="other">"Vuna tunu baada ya sek %d"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Tazama kwa sekunde %d ili kuvuna tunu."</item>
+        <item priority="LT" quantity="other">"Tazama kwa sekunde %d ili kuvuna tunu."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"Sekunde %1$d"</item>
+        <item priority="LT" quantity="other">"Sekunde %1$d"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">Arifa %d mpya</item>
+    <item quantity="other">Arifa %d mpya</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Nenda mwanzo"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Sogeza juu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Chaguo zaidi"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Nimemaliza"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Angalia zote"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chagua programu"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IMEZIMWA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IMEWASHWA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tafuta…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Futa hoja"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tafuta"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wasilisha hoja"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Kutafuta kwa kutamka"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Shiriki na"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Shiriki ukitumia <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Kunja"</string>
+    <string name="bottomsheet_action_expand_halfway">Panua nusu</string>
+    <string name="character_counter_content_description">Umeweka herufi %1$d kati ya %2$d</string>
+    <string name="character_counter_overflowed_content_description">Umepitisha idadi ya juu ya herufi %1$d kati ya %2$d</string>
+    <string name="clear_text_end_icon_content_description">Futa maandishi</string>
+    <string name="error_icon_content_description">Hitilafu</string>
+    <string name="exposed_dropdown_menu_content_description">Onyesha menyu kunjuzi</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Tangazo"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Toleo la %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s imesakinishwa"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Usakinishaji umekamilika. Gusa ili kufungua."</string>
+    <string name="hiad_app_permission" priority="LT">"Vibali"</string>
+    <string name="hiad_calender_add" priority="LT">"SAWA"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"Tukio tayari lipo."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Ongeza tukio hili kwenye kalenda yako?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Haikuweza kuongeza tukio."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Tukio limeongezwa."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Futa tukio hili kutoka kwenye kalenda yako?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Haikuweza kufuta tukio."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Tukio limefutwa."</string>
+    <string name="hiad_calender_delete" priority="LT">"Futa"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Hii inatumiwa ili kuzalisha makumbusho ya kalenda au kuunda matukio ya shughuli za kukuza mauzo unazopanga kushiriki."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Dokezo"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Programu hii inahitaji kibali cha Kalenda ili kuunda matukio ya Kalenda. Unaweza kutoa kibali hiki ndani ya Mipangilio."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Programu hii inahitaji kibali cha Kalenda ili kufuta matukio ya Kalenda. Unaweza kutoa kibali hiki ndani ya Mipangilio."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Hii inatumiwa ili kuunda makumbusho ya Kalenda ili uweze kuweka na kupokea makumbusho ya matukio."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Kibali kinahitajika"</string>
+    <string name="hiad_calender_set" priority="LT">"Mipangilio"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Hii inatumiwa kwenye huduma ingiliani za AR."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Tangazo limefichwa"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Hainivutii"</string>
+    <string name="hiad_choices_hide" priority="translator">"Ficha tangazo"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Kwa nini niliona tangazo hili?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Jaribu tena"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Sakinisha programu hii?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="translator">"Kutumia mtandao wa simu kutatumia %1$s data ya. Ungependa kuendelea?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Kucheza kutatumia data ya simu. Ungependa kuendelea?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Inatumia muunganisho wa simu. Kutazama kutatumia %1$s za data ya simu."</string>
+    <string name="hiad_continue_download" priority="LT">"Pakua"</string>
+    <string name="hiad_continue_download_new" priority="LT">"PAKUA"</string>
+    <string name="hiad_continue_to_play" priority="translator">"ENDELEA"</string>
+    <string name="hiad_copy_link" priority="LT">"Nakili kiungo"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"MB %1$s"</string>
+    <string name="hiad_default_app_name" priority="LT">"Programu"</string>
+    <string name="hiad_default_skip_text" priority="translator">"Ruka"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Ruka ndani ya %d"</string>
+    <string name="hiad_detail" priority="translator">"Maelezo"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Pakua"</string>
+    <string name="hiad_dialog_accept" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_allow" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"GHAIRI"</string>
+    <string name="hiad_dialog_close" priority="LT">"Sawa"</string>
+    <string name="hiad_dialog_continue" priority="LT">"PAKUA"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"NIMEELEWA"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Ruhusu %1$s isakinishe %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Chanzo: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_open" priority="LT">"FUNGUA"</string>
+    <string name="hiad_dialog_reject" priority="LT">"NYIMA"</string>
+    <string name="hiad_dialog_title" priority="LT">"Ungependa kupakua ukitumia data ya simu?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Dokezo"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Pakua kwa kutumia data ya simu?"</string>
+    <string name="hiad_download_download" priority="LT">"SAKINISHA"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"PAKUA (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Inapakua"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Hitilafu imetokea wakati wa kupakua %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Faili imeharibika. Tafadhali pakua tena."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Faili haipo. Tafadhali jaribu tena."</string>
+    <string name="hiad_download_install" priority="LT">"SAKINISHA"</string>
+    <string name="hiad_download_installing" priority="LT">"Inasakinisha"</string>
+    <string name="hiad_download_no_space" priority="LT">"Hifadhi haitoshi. Ongeza nafasi na ujaribu tena."</string>
+    <string name="hiad_download_open" priority="LT">"FUNGUA"</string>
+    <string name="hiad_download_resume" priority="LT">"ENDELEA"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Hitilafu imetokea wakati wa kupakua %1$s. Upakuaji utaanza upya."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Kwa sasa hujaunganishwa kwenye Wi-Fi. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kwa sasa hujaunganishwa kwenye WLAN. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
+    <string name="hiad_go_to_settings" priority="translator">"Mipangilio"</string>
+    <string name="hiad_install_completed" priority="LT">"Imefanyika"</string>
+    <string name="hiad_installed_description" priority="LT">"Usakinishaji umefaulu. Gusa kufungua."</string>
+    <string name="hiad_jump_desc" priority="translator">"Tazama maelezo au nenda kwenye programu"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Ukurasa huu unataka kufungua %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Kiungo kimenakiliwa."</string>
+    <string name="hiad_loading_tips" priority="LT">Inapakia…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Upakuaji huu utatumia %1$s za data ya simu."</string>
+    <string name="hiad_net_error" priority="LT">Hitilafu ya muunganisho wa mtandao. Tafadhali jaribu tena.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Hakuna muunganisho wa Intaneti. Tafadhali unganisha kisha jaribu tena."</string>
+    <string name="hiad_network_error" priority="translator">"Hitilafu kwenye muunganisho wa mtandao."</string>
+    <string name="hiad_network_no_available" priority="LT">"Hamna muunganisho wa mtandao. Tafadhali kagua mipangilio ya mtandao wako."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Usinikumbushe tena"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Hakuna muunganisho wa Wi-Fi. Kupakua sasa kutatumia data yako ya simu. Pakua?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Hakuna muunganisho wa WLAN. Kupakua sasa kutatumia data yako ya simu. Pakua?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Fungua kwenye kivinjari"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Imeshindwa kupakia ukurasa. Tafadhali jaribu tena."</string>
+    <string name="hiad_permission_camera" priority="LT">"Kipengele hiki kinahitaji kibali cha Kamera. Kitoe ndani ya Mipangilio."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s inahitaji ruhusa zifuatazo:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Agiza mapema"</string>
+    <string name="hiad_prepare_download" priority="LT">"Ingojee Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Pakua kupitia mtandao wa simu?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Ingojee WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Faragha"</string>
+    <string name="hiad_refresh" priority="LT">"Onyesha upya"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Programu ni kubwa kuliko MB %1$d"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Ghairi"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Msanidi Programu: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Toleo la %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Ruka"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Endelea kutazama"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Maliza kutazama tangazo hili ili kupata tuzo."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Matangazo Yanayotegemea Eneo"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Gusa ili kufungua tovuti/programu"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"Programu inapakuliwa."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Telezesha juu"</string>
+    <string name="hiad_twist_screen" priority="translator">"Tikisa simu"</string>
+    <string name="hiad_whether_download" priority="LT">"Pakua programu hii?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Imepakiwa awali kupitia Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Imepakiwa awali"</string>
+    <string name="icon_content_description">Aikoni ya Kidirisha</string>
+    <string name="item_view_role_description">Kichupo</string>
+    <string name="material_clock_toggle_content_description">Chagua AM au PM</string>
+    <string name="material_hour_selection">Chagua saa</string>
+    <string name="material_hour_suffix">Saa %1$s kamili</string>
+    <string name="material_minute_selection">Chagua dakika</string>
+    <string name="material_minute_suffix">Dakika %1$s</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Badilisha umbo liwe la saa ya mishale wakati wa kuweka muda.</string>
+    <string name="material_timepicker_hour">Saa</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Chagua wakati</string>
+    <string name="material_timepicker_text_input_mode_description">Badilisha iwe katika hali ya maandishi wakati wa kuweka muda.</string>
+    <string name="mtrl_badge_numberless_content_description">Arifa mpya</string>
+    <string name="mtrl_chip_close_icon_content_description">Ondoa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Zaidi ya arifa %1$d mpya</string>
+    <string name="mtrl_picker_a11y_next_month">Nenda kwenye mwezi unaofuata</string>
+    <string name="mtrl_picker_a11y_prev_month">Rudi kwenye mwezi uliotangulia</string>
+    <string name="mtrl_picker_announce_current_selection">Uteuzi wa sasa: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chagua Tarehe</string>
+    <string name="mtrl_picker_date_header_unselected">Tarehe uliyochagua</string>
+    <string name="mtrl_picker_day_of_week_column_header">Safu wima ya siku: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Muundo si sahihi</string>
+    <string name="mtrl_picker_invalid_format_example">Mfano: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tumia: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Kipindi si sahihi.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Sogeza kwenye mwaka wa %1$s</string>
+    <string name="mtrl_picker_out_of_range">Nje ya kipindi: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tarehe ya kuanza – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tarehe ya mwisho</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chagua Kipindi cha Tarehe</string>
+    <string name="mtrl_picker_range_header_unselected">Tarehe ya kuanza – Tarehe ya mwisho</string>
+    <string name="mtrl_picker_save">Hifadhi</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarehe</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tarehe ya mwisho</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tarehe ya kuanza</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Tumia programu ya kuingiza data kwenye kalenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Gusa ili uende kwenye sehemu ya kuchagua siku</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Tumia programu ya kuingiza data ya maandishi</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Gusa ili uende kwenye sehemu ya kuchagua mwaka</string>
+    <string name="no_browser_tips" priority="LT">"Kwanza, sakinisha programu ya kivinjari."</string>
+    <string name="opendevice_ad_info" priority="LT">"Maelezo ya tangazo"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Taarifa Kuhusu Matangazo na Faragha"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Watangazaji wote"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"GHAIRI"</string>
+    <string name="opendevice_bt_reset" priority="LT">"WEKA UPYA"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Kitambulisho kipya cha Tangazo kitateuliwa bila mpango."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Weka upya Kitambulisho cha Tangazo"</string>
+    <string name="opendevice_here" priority="LT">"hapa"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Matangazo na faragha"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Matangazo"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Unaweza kuchagua kutoka ili usipokee matangazo yaliyobinafsishwa yanayotumia Kitambulisho chako cha Tangazo. Ukichagua kutoka, bado utapokea matangazo, lakini huenda yakawa hayakuhusu sana. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Jifunze zaidi kuhusu matumizi ya data na kuhusu haki zako"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Lemaza ukusanyaji wa takwimu za Kitambulisho cha Tangazo"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Tutakusanya maelezo kuhusu matendo yako kwenye skrini ndani ya mipangilio hii na maelezo kuhusu programu zinazotumia Kitambulisho chako cha Tangazo ili kuboresha huduma zetu. Ili kupata maelezo zaidi kuhusu jinsi tunavyokusanya data hii, gusa %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Tutakusanya maelezo kuhusu matendo yako kwenye skrini ndani ya mipangilio hii na kuhusu programu zinazotumia Kitambulisho chako cha Tangazo ili kuboresha huduma zetu."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Maelezo zaidi"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"Kitambulisho chako cha Tangazo (ambacho pia kinajulikana kama OAID) ni kitambuaji kifaa cha muda kinachotumiwa kukupatia matangazo yaliyobinafsishwa."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Weka upya Kitambulisho cha Tangazo"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Unaweza kuchagua kutoka ili usipokee matangazo yaliyobinafsishwa yanayotumia Kitambulisho chako cha Tangazo. Ukichagua kutoka, bado utapokea matangazo, lakini huenda yakawa hayakuhusu sana."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Unaweza kuchagua kutoka usipokee matangazo yaliyobinafsishwa yanayotumia Kitambulisho chako cha Tangazo. Ukichagua kutoka, bado utapokea matangazo, lakini huenda yakawa hayakuhusu sana."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"Kitambulisho chako cha Tangazo"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"Kitambulisho chako cha Tangazo (ambacho pia kinajulikana kama OAID) ni kitambuaji kifaa cha muda kinachotumiwa kukupatia matangazo yaliyobinafsishwa. Ili kupata maelezo zaidi, gusa %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Lemaza matangazo yaliyobinafsishwa"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Jifunze zaidi"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Mapendekezo Maizi"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Hakuna muunganisho wa Intaneti"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Huduma zilizobinafsishwa za utangazaji zinapendekeza maudhui yanayoweza kukuvutia. Faragha yako italindwa daima. Ili kupata maelezo zaidi, tafadhali tazama %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Huduma zilizobinafsishwa za utangazaji zinapendekeza maudhui yanayoweza kukuvutia. Faragha yako italindwa kwenye nyakati zote. Ili kupata maelezo zaidi, tafadhali tazama yafuatayo:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"Jukwaa la Matangazo ya HUAWEI linatoa huduma za matangazo kwa Huawei Mobile Services na programu za watu wengine. Ikiwa matangazo yaliyobinafsishwa yamewezeshwa, data yako ya kibinafsi inaweza kutumiwa ili kukupatia matangazo yanayokuhusu na yanayokunufaisha zaidi. Ili kujifunza kuhusu jinsi data inavyotumiwa, na kuhusu haki zako, tafadhali rejelea %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"Jukwaa la Matangazo ya HUAWEI linatoa huduma za utangazaji kwa Huawei Mobile Services na programu za watu wengine. Ikiwa matangazo yaliyobinafsishwa yamewezeshwa, data yako ya kibinafsi huenda ikatumiwa ili kukupatia matangazo muhimu na husika zaidi. Ili kujifunza zaidi kuhusu jinsi data yako inavyotumiwa na kuhusu haki zako, tafadhali rejelea yafuatayo:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Kipengele hiki hutumia teknolojia ya mafunzo shirikishi ili kupendekeza bidhaa na huduma ambazo huenda utapenda."</string>
+    <string name="opendevice_setting_network" priority="LT">"Mipangilio ya mtandao"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Kitambuaji kifaa"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Kuhusu OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Taarifa Kuhusu Uchambuzi wa Kitakwimu wa Kitambulisho cha Tangazo"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Maelezo ya tangazo"</string>
+    <string name="password_toggle_content_description">Onyesha nenosiri</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tafuta"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

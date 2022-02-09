@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="other">"Jendela akan ditutup dalam %1$s detik."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="other">"Iklan dapat ditutup setelah %d dtk"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="other">"Ingat pilihan ini selama %1$s hari"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="LT" quantity="other">"Peroleh hadiah setelah %d dtk"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="other">"Tonton selama %d detik untuk memperoleh hadiah."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="other">"%1$d detik"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notifikasi baru</item>
+    <item quantity="other">%d notifikasi baru</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Tunjukkan jalan ke rumah"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Kembali ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spasi"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Telusuri kueri"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bagikan dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="bottomsheet_action_expand_halfway">Luaskan setengah</string>
+    <string name="character_counter_content_description">Karakter yang dimasukkan %1$d dari %2$d</string>
+    <string name="character_counter_overflowed_content_description">Melebihi batas karakter %1$d dari %2$d</string>
+    <string name="clear_text_end_icon_content_description">Menghapus teks</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Tampilkan menu dropdown</string>
+    <string name="hiad_ad_label" priority="translator">"IKLAN"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Iklan"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Versi %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s telah dipasang"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Instalasi selesai. Sentuh untuk membuka."</string>
+    <string name="hiad_app_permission" priority="LT">"Izin"</string>
+    <string name="hiad_calender_add" priority="LT">"OK"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"Acara ini sudah ada."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Tambahkan acara ini ke kalender Anda?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Tidak dapat menambahkan acara."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Acara ditambahkan."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Hapus acara ini dari kalender Anda?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Tidak dapat menghapus acara."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Acara dihapus."</string>
+    <string name="hiad_calender_delete" priority="LT">"Hapus"</string>
+    <string name="hiad_calender_description_new" priority="LT">"Ini digunakan untuk menghasilkan pengingat kalender atau membuat acara untuk aktivitas promosi yang hendak Anda ikuti."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Catatan"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Aplikasi ini memerlukan izin Kalender untuk membuat Acara kalender. Anda dapat memberikan izin ini di Pengaturan."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Aplikasi ini memerlukan izin Kalender untuk menghapus Acara kalender. Anda dapat memberikan izin ini di Pengaturan."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"Ini digunakan untuk membuat pengingat Kalender sehingga Anda dapat menetapkan dan menerima pengingat untuk acara."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Izin diminta"</string>
+    <string name="hiad_calender_set" priority="LT">"Pengaturan"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"Ini digunakan untuk layanan interaktif AR."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Iklan disembunyikan"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Tidak tertarik"</string>
+    <string name="hiad_choices_hide" priority="translator">"Sembunyikan iklan"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Mengapa saya melihat iklan ini?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Coba lagi"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Pasang aplikasi ini?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Menggunakan jaringan seluler akan mengonsumsi %1$s data. Lanjutkan?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Pemutaran akan menggunakan data seluler. Tetap lakukan?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Menggunakan koneksi seluler. Menonton akan menggunakan data seluler sebesar %1$s."</string>
+    <string name="hiad_continue_download" priority="LT">"Unduh"</string>
+    <string name="hiad_continue_download_new" priority="LT">"UNDUH"</string>
+    <string name="hiad_continue_to_play" priority="LT">"LAKUKAN"</string>
+    <string name="hiad_copy_link" priority="LT">"Salin tautan"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"aplikasi"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Lewati"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Lewati dlm %d"</string>
+    <string name="hiad_detail" priority="LT">"Perincian"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Unduh"</string>
+    <string name="hiad_dialog_accept" priority="LT">"IZINKAN"</string>
+    <string name="hiad_dialog_allow" priority="LT">"IZINKAN"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"BATAL"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"UNDUH"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"MENGERTI"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Izinkan %1$s untuk memasang %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Sumber: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"IZINKAN"</string>
+    <string name="hiad_dialog_open" priority="LT">"BUKA"</string>
+    <string name="hiad_dialog_reject" priority="LT">"TOLAK"</string>
+    <string name="hiad_dialog_title" priority="LT">"Unduh menggunakan data seluler?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Catatan"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Unduh menggunakan data seluler?"</string>
+    <string name="hiad_download_download" priority="LT">"PASANG"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"UNDUH (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Mengunduh"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Kesalahan terjadi saat mengunduh %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"File rusak. Harap unduh lagi."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"File tidak ada. Harap coba lagi."</string>
+    <string name="hiad_download_install" priority="LT">"PASANG"</string>
+    <string name="hiad_download_installing" priority="LT">"Memasang"</string>
+    <string name="hiad_download_no_space" priority="LT">"Penyimpanan tidak cukup. Bebaskan sebagian ruang penyimpanan dan coba lagi."</string>
+    <string name="hiad_download_open" priority="LT">"BUKA"</string>
+    <string name="hiad_download_resume" priority="LT">"LANJUT"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Kesalahan terjadi saat mengunduh %1$s. Pengunduhan akan dimulai ulang."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Anda sedang tidak terhubung ke Wi-Fi. Mengunduh sekarang akan menggunakan data seluler sebesar %1$s. Tetap unduh?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Anda sedang tidak terhubung ke WLAN. Mengunduh sekarang akan menggunakan data seluler sebesar %1$s. Tetap unduh?"</string>
+    <string name="hiad_go_to_settings" priority="translator">"Pengaturan"</string>
+    <string name="hiad_install_completed" priority="LT">"Selesai"</string>
+    <string name="hiad_installed_description" priority="translator">"Pemasangan berhasil. Sentuh untuk membuka."</string>
+    <string name="hiad_jump_desc" priority="translator">"Lihat perincian atau buka aplikasi"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Halaman ini ingin membuka %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Tautan disalin."</string>
+    <string name="hiad_loading_tips" priority="LT">Memuat…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Pengunduhan ini akan menggunakan %1$s data seluler."</string>
+    <string name="hiad_net_error" priority="LT">Kesalahan koneksi jaringan. Coba lagi.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Koneksi Internet tidak ada. Hubungkan dan coba lagi."</string>
+    <string name="hiad_network_error" priority="LT">"Kesalahan pada koneksi jaringan."</string>
+    <string name="hiad_network_no_available" priority="LT">"Tidak ada koneksi Internet. Harap periksa pengaturan jaringan Anda."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Jangan ingatkan saya lagi"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Tidak ada koneksi Wi-Fi. Mengunduh sekarang akan menggunakan data seluler Anda. Unduh?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Tidak ada koneksi WLAN. Mengunduh sekarang akan menggunakan data seluler Anda. Unduh?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Buka di browser"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Tidak dapat memuat halaman. Harap coba lagi."</string>
+    <string name="hiad_permission_camera" priority="LT">"Fitur ini perlu izin Kamera. Berikan izin tersebut di Pengaturan."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s perlu izin berikut:"</string>
+    <string name="hiad_preorder_download" priority="LT">"Prapesan"</string>
+    <string name="hiad_prepare_download" priority="LT">"Tunggu Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Unduh melalui jaringan seluler?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Tunggu WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Privasi"</string>
+    <string name="hiad_refresh" priority="LT">"Segarkan"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Aplikasi lebih besar dari %1$d MB"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Batal"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Pengembang: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Versi %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Lewati"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Tetap tonton"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Tonton iklan ini hingga selesai untuk mendapatkan hadiah."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"Iklan berbasis lokasi"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Sentuh untuk membuka situs web/aplikasi"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"Aplikasi sedang diunduh."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Gesek ke atas"</string>
+    <string name="hiad_twist_screen" priority="translator">"Goyang ponsel"</string>
+    <string name="hiad_whether_download" priority="LT">"Unduh aplikasi ini?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Dipramuat melalui Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Dipramuat"</string>
+    <string name="icon_content_description">Ikon Dialog</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="material_clock_toggle_content_description">Pilih AM atau PM</string>
+    <string name="material_hour_selection">Pilih jam</string>
+    <string name="material_hour_suffix">Pukul %1$s</string>
+    <string name="material_minute_selection">Pilih menit</string>
+    <string name="material_minute_suffix">%1$s menit</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Beralih ke mode jam untuk masukan waktu.</string>
+    <string name="material_timepicker_hour">Jam</string>
+    <string name="material_timepicker_minute">Menit</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Pilih waktu</string>
+    <string name="material_timepicker_text_input_mode_description">Beralih ke mode masukan teks untuk masukan waktu.</string>
+    <string name="mtrl_badge_numberless_content_description">Notifikasi baru</string>
+    <string name="mtrl_chip_close_icon_content_description">Menghapus %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Lebih dari %1$d notifikasi baru</string>
+    <string name="mtrl_picker_a11y_next_month">Ubah ke bulan berikutnya</string>
+    <string name="mtrl_picker_a11y_prev_month">Ubah ke bulan sebelumnya</string>
+    <string name="mtrl_picker_announce_current_selection">Pilihan saat ini: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pilih Tanggal</string>
+    <string name="mtrl_picker_date_header_unselected">Tanggal yang dipilih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom hari: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format tidak valid.</string>
+    <string name="mtrl_picker_invalid_format_example">Contoh: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gunakan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Rentang tidak valid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Buka tahun %1$s</string>
+    <string name="mtrl_picker_out_of_range">Di luar rentang: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tanggal mulai – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tanggal akhir</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Pilih Rentang</string>
+    <string name="mtrl_picker_range_header_unselected">Tanggal mulai – Tanggal akhir</string>
+    <string name="mtrl_picker_save">Simpan</string>
+    <string name="mtrl_picker_text_input_date_hint">Tanggal</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tanggal akhir</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tanggal mulai</string>
+    <string name="mtrl_picker_text_input_day_abbr">h</string>
+    <string name="mtrl_picker_text_input_month_abbr">b</string>
+    <string name="mtrl_picker_text_input_year_abbr">t</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih ke mode masukan kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Ketuk untuk beralih ke memilih hari</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Beralih ke mode masukan teks</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Ketuk untuk beralih ke memilih tahun</string>
+    <string name="no_browser_tips" priority="LT">"Pasang aplikasi browser dahulu."</string>
+    <string name="opendevice_ad_info" priority="LT">"Informasi iklan"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Pernyataan Tentang Iklan dan Privasi"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Semua iklan"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"BATAL"</string>
+    <string name="opendevice_bt_reset" priority="LT">"ATUR ULANG"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Ad-ID baru akan ditetapkan secara acak."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Atur ulang Ad-ID"</string>
+    <string name="opendevice_here" priority="LT">"di sini"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Iklan dan privasi"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Iklan"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Anda dapat memilih untuk berhenti menerima iklan unik yang menggunakan ID Iklan Anda. Jika Anda memilih untuk berhenti, Anda akan tetap menerima iklan, tapi iklan yang diterima mungkin tidak relevan bagi Anda. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Pelajari lebih lanjut tentang penggunaan data dan hak Anda"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Nonaktifkan statistik ID-Iklan"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Kami akan mengumpulkan informasi tentang tindakan di layar Anda pada pengaturan ini dan tentang aplikasi yang menggunakan ID Iklan Anda agar dapat meningkatkan layanan kami. Untuk informasi selengkapnya mengenai cara kami menggunakan data ini, sentuh %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Kami akan mengumpulkan informasi tentang tindakan di layar Anda pada pengaturan ini dan tentang aplikasi yang menggunakan ID Iklan Anda agar dapat meningkatkan layanan kami."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Informasi selengkapnya"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"ID Iklan Anda (juga dikenal sebagai OAID) adalah pengidentifikasi perangkat sementara yang digunakan untuk menyediakan iklan unik bagi Anda."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Atur ulang Ad-ID"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Anda dapat memilih untuk menolak menerima iklan yang dipersonalisasi sesuai dengan ID Iklan Anda. Jika Anda memilih untuk menolak, Anda akan tetap menerima iklan, tetapi iklan tersebut mungkin kurang relevan untuk Anda."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Anda dapat menolak menerima iklan yang dipersonalisasi yang menggunakan ID Iklan Anda. Jika Anda menolak, Anda masih akan menerima iklan, tetapi mungkin kurang relevan bagi Anda."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"ID Iklan Anda"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"ID Iklan Anda (juga dikenal sebagai OAID) adalah pengidentifikasi perangkat sementara yang digunakan untuk menyediakan iklan yang dipersonalisasi bagi Anda. Untuk informasi lainnya, sentuh %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Nonaktifkan iklan yang dipersonalkan"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Pelajari selengkapnya"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Rekomendasi Pintar"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Tidak ada koneksi internet"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Layanan iklan yang dipersonalkan merekomendasikan konten yang mungkin menarik bagi Anda. Privasi Anda akan selalu dilindungi. Untuk perincian selengkapnya, lihat %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Layanan iklan yang dipersonalisasi merekomendasikan konten yang mungkin menarik bagi Anda. Privasi Anda akan dilindungi sepanjang waktu. Untuk informasi lainnya, lihat hal berikut:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"Platform HUAWEI Iklan menyediakan layanan pengiklanan untuk Huawei Mobile Services dan aplikasi pihak ketiga. Jika iklan yang dipersonalisasi diaktifkan, data pribadi Anda dapat digunakan untuk memberi Anda iklan yang lebih relevan dan berguna. Untuk mempelajari selengkapnya tentang bagaimana data Anda digunakan dan tentang hak Anda, lihat %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"Platform HUAWEI Iklan menyediakan layanan pengiklanan untuk Huawei Mobile Services dan aplikasi pihak ketiga. Jika iklan yang dipersonalisasi diaktifkan, data pribadi Anda dapat digunakan untuk memberi Anda iklan yang lebih relevan dan berguna. Untuk mempelajari selengkapnya tentang bagaimana data Anda digunakan dan tentang hak Anda, lihat hal berikut:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Fitur ini menggunakan teknologi federated learning untuk merekomendasikan produk dan layanan yang mungkin Anda sukai."</string>
+    <string name="opendevice_setting_network" priority="LT">"Pengaturan jaringan"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Pengidentifikasi perangkat"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Tentang OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Pernyataan Tentang Analisis Statistik ID Iklan"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Informasi iklan"</string>
+    <string name="password_toggle_content_description">Tampilkan sandi</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Telusuri"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

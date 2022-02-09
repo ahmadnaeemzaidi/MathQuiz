@@ -1,0 +1,850 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.techgeeks.notalone.number.huawei"
+4    android:versionCode="2"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:5:5-79
+11-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:6:5-67
+12-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:7:5-66
+13-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:7:22-63
+14    <uses-permission android:name="android.permission.BLUETOOTH" />
+14-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:13:5-68
+14-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:13:22-65
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:14:5-65
+15-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:14:22-62
+16    <uses-permission android:name="android.permission.READ_CALENDAR" />
+16-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:15:5-72
+16-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:15:22-69
+17    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+17-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:16:5-73
+17-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:16:22-70
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:19:5-76
+18-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:19:22-73
+19    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+19-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:20:5-83
+19-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:20:22-80
+20    <uses-permission android:name="com.huawei.permission.sec.MDM.v2" />
+20-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:21:5-72
+20-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:21:22-69
+21    <uses-permission android:name="android.permission.GET_TASKS" />
+21-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:22:5-68
+21-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:22:22-65
+22    <uses-permission android:name="android.permission.REAL_GET_TASKS" />
+22-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:23:5-73
+22-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:23:22-70
+23    <uses-permission android:name="com.huawei.permission.sec.ACCESS_UDID" />
+23-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:24:5-77
+23-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:24:22-74
+24    <uses-permission android:name="com.huawei.permission.app.DOWNLOAD" />
+24-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:25:5-74
+24-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:25:22-71
+25    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+25-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:26:5-77
+25-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:26:22-74
+26    <uses-permission android:name="com.android.permission.GET_INSTALLED_APPS" />
+26-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:27:5-81
+26-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:27:22-78
+27    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+27-->[com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:12:5-75
+27-->[com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:12:22-72
+28
+29    <application
+29-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:8:5-42:19
+30        android:name="com.techgeeks.notalone.number.huawei.MyApplication"
+30-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:9:9-38
+31        android:allowBackup="true"
+31-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:10:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.3.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:fullBackupContent="true"
+34-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:17:9-41
+35        android:icon="@mipmap/ic_launcher"
+35-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:11:9-43
+36        android:label="@string/app_name"
+36-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:12:9-41
+37        android:roundIcon="@mipmap/ic_launcher"
+37-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:13:9-48
+38        android:supportsRtl="true"
+38-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:14:9-35
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme"
+40-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:16:9-40
+41        android:usesCleartextTraffic="true" >
+41-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:15:9-44
+42        <activity
+42-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:18:9-27:20
+43            android:name="com.techgeeks.notalone.number.huawei.SplashActivity"
+43-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:18:19-85
+44            android:configChanges="orientation|keyboardHidden"
+44-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:20:13-63
+45            android:screenOrientation="portrait"
+45-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:19:13-49
+46            android:theme="@style/YellowWindowBG" >
+46-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:21:13-50
+47            <intent-filter>
+47-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:22:13-26:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:23:17-69
+48-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:23:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:25:17-77
+50-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:25:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:9-173
+54            android:name="com.techgeeks.notalone.number.huawei.MainActivity"
+54-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:19-83
+55            android:configChanges="orientation|keyboardHidden"
+55-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:121-171
+56            android:screenOrientation="portrait" />
+56-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:84-120
+57        <activity
+57-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:9-173
+58            android:name="com.techgeeks.notalone.number.huawei.MenuActivity"
+58-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:19-83
+59            android:configChanges="orientation|keyboardHidden"
+59-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:121-171
+60            android:screenOrientation="portrait" />
+60-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:84-120
+61        <activity
+61-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:9-174
+62            android:name="com.techgeeks.notalone.number.huawei.GradeActivity"
+62-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:19-84
+63            android:configChanges="orientation|keyboardHidden"
+63-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:122-172
+64            android:screenOrientation="portrait" />
+64-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:85-121
+65        <activity
+65-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:9-186
+66            android:name="com.techgeeks.notalone.number.huawei.FlashMainMultiplyActivity"
+66-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:19-96
+67            android:configChanges="orientation|keyboardHidden"
+67-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:134-184
+68            android:screenOrientation="portrait" />
+68-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:97-133
+69        <activity
+69-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:8-185
+70            android:name="com.techgeeks.notalone.number.huawei.FlashMainAdditionActivity"
+70-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:18-95
+71            android:configChanges="orientation|keyboardHidden"
+71-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:133-183
+72            android:screenOrientation="portrait" />
+72-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:96-132
+73        <activity
+73-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:9-181
+74            android:name="com.techgeeks.notalone.number.huawei.FlashMainSubActivity"
+74-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:19-91
+75            android:configChanges="orientation|keyboardHidden"
+75-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:129-179
+76            android:screenOrientation="portrait" />
+76-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:92-128
+77        <activity
+77-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:9-188
+78            android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseMultiplyActivity"
+78-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:19-98
+79            android:configChanges="orientation|keyboardHidden"
+79-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:136-186
+80            android:screenOrientation="portrait" />
+80-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:99-135
+81        <activity
+81-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:9-183
+82            android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseAddActivity"
+82-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:19-93
+83            android:configChanges="orientation|keyboardHidden"
+83-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:131-181
+84            android:screenOrientation="portrait" />
+84-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:94-130
+85        <activity
+85-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:9-183
+86            android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseSubActivity"
+86-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:19-93
+87            android:configChanges="orientation|keyboardHidden"
+87-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:131-181
+88            android:screenOrientation="portrait" />
+88-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:94-130
+89        <activity
+89-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:9-165
+90            android:name="com.techgeeks.notalone.number.huawei.Info"
+90-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:19-75
+91            android:configChanges="orientation|keyboardHidden"
+91-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:113-163
+92            android:screenOrientation="portrait" />
+92-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:76-112
+93        <activity
+93-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:9-169
+94            android:name="com.techgeeks.notalone.number.huawei.Practice"
+94-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:19-79
+95            android:configChanges="orientation|keyboardHidden"
+95-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:117-167
+96            android:screenOrientation="portrait" />
+96-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:80-116
+97        <activity
+97-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:9-197
+98            android:name="com.techgeeks.notalone.number.huawei.SelectMultiplicationPracticeActivity"
+98-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:19-107
+99            android:configChanges="orientation|keyboardHidden"
+99-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:145-195
+100            android:screenOrientation="portrait" />
+100-->D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:108-144
+101
+102        <uses-library
+102-->[com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:10:9-12:40
+103            android:name="org.apache.http.legacy"
+103-->[com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:11:13-50
+104            android:required="false" />
+104-->[com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:12:13-37
+105
+106        <meta-data
+106-->[com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:13:9-15:52
+107            android:name="com.huawei.hms.client.service.name:ads-lite"
+107-->[com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:14:13-71
+108            android:value="ads-lite:13.4.49.301" />
+108-->[com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:15:13-49
+109        <meta-data
+109-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:30:9-32:35
+110            android:name="hw.theme_type"
+110-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:31:13-41
+111            android:value="273" />
+111-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:32:13-32
+112        <meta-data
+112-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:33:9-35:72
+113            android:name="permission.reason.android.permission-group.CALENDAR"
+113-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:34:13-79
+114            android:resource="@string/hiad_calender_description_new" />
+114-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:35:13-69
+115
+116        <provider
+116-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:41:9-45:50
+117            android:name="com.huawei.openalliance.ad.ppskit.provider.PPSInstallFileProvider"
+117-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:42:13-93
+118            android:authorities="com.techgeeks.notalone.number.huawei.hiad.fileprovider"
+118-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:43:13-69
+119            android:exported="false"
+119-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:44:13-37
+120            android:grantUriPermissions="true" />
+120-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:45:13-47
+121        <provider
+121-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:46:9-49:40
+122            android:name="com.huawei.openalliance.ad.ppskit.provider.InnerApiProvider"
+122-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:47:13-87
+123            android:authorities="com.techgeeks.notalone.number.huawei.pps.innerapiprovider"
+123-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:48:13-72
+124            android:exported="false" />
+124-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:49:13-37
+125
+126        <service
+126-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:51:9-57:19
+127            android:name="com.huawei.android.hms.ppskit.PpsCoreService"
+127-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:52:13-72
+128            android:exported="false" >
+128-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:53:13-37
+129            <intent-filter>
+129-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:54:13-56:29
+130                <action android:name="com.huawei.android.hms.ppskit.PPS_API_SERVICE" />
+130-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:55:17-88
+130-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:55:25-85
+131            </intent-filter>
+132        </service>
+133
+134        <activity
+134-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:59:9-68:20
+135            android:name="com.huawei.openalliance.ad.ppskit.activity.InstallActivity"
+135-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:60:13-86
+136            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+136-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:61:13-134
+137            android:excludeFromRecents="true"
+137-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:62:13-46
+138            android:exported="false"
+138-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:63:13-37
+139            android:theme="@android:style/Theme.Light.NoTitleBar" >
+139-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:64:13-66
+140            <meta-data
+140-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+141                android:name="hwc-theme"
+141-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+142                android:value="androidhwext:style/Theme.Emui.Light.NoTitleBar" />
+142-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+143        </activity>
+144        <activity
+144-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:69:9-78:20
+145            android:name="com.huawei.openalliance.ad.ppskit.activity.HMSSDKInstallActivity"
+145-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:70:13-92
+146            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+146-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:71:13-134
+147            android:excludeFromRecents="true"
+147-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:72:13-46
+148            android:exported="false"
+148-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:73:13-37
+149            android:theme="@android:style/Theme.Light.NoTitleBar" >
+149-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:74:13-66
+150            <meta-data
+150-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+151                android:name="hwc-theme"
+151-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+152                android:value="androidhwext:style/Theme.Emui.Light.NoTitleBar" />
+152-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+153        </activity>
+154        <activity
+154-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:79:9-94:20
+155            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSActivity"
+155-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:80:13-82
+156            android:configChanges="screenLayout|screenSize|smallestScreenSize|orientation|keyboardHidden"
+156-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:81:13-106
+157            android:exported="false"
+157-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:82:13-37
+158            android:label=" "
+158-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:83:13-30
+159            android:screenOrientation="portrait" >
+159-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:84:13-49
+160            <intent-filter>
+160-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:85:13-89:29
+161                <action android:name="com.huawei.hms.pps.action.PPS_DETAIL" />
+161-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:86:17-79
+161-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:86:25-76
+162
+163                <category android:name="android.intent.category.DEFAULT" />
+163-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+163-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+164            </intent-filter>
+165
+166            <meta-data
+166-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+167                android:name="hwc-theme"
+167-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+168                android:value="androidhwext:style/Theme.Emui" />
+168-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+169        </activity>
+170        <activity
+170-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:95:9-104:20
+171            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSActivity"
+171-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:96:13-87
+172            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+172-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:97:13-134
+173            android:exported="false"
+173-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:98:13-37
+174            android:label=" "
+174-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:99:13-30
+175            android:screenOrientation="portrait" >
+175-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:100:13-49
+176            <meta-data
+176-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+177                android:name="hwc-theme"
+177-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+178                android:value="androidhwext:style/Theme.Emui" />
+178-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+179        </activity>
+180        <activity
+180-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:105:9-114:20
+181            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSArActivity"
+181-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:106:13-89
+182            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+182-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:107:13-134
+183            android:exported="false"
+183-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:108:13-37
+184            android:label=" "
+184-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:109:13-30
+185            android:screenOrientation="portrait" >
+185-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:110:13-49
+186            <meta-data
+186-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+187                android:name="hwc-theme"
+187-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+188                android:value="androidhwext:style/Theme.Emui" />
+188-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+189        </activity>
+190        <activity
+190-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:115:9-133:20
+191            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSRewardActivity"
+191-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:116:13-88
+192            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation|uiMode"
+192-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:117:13-141
+193            android:exported="false"
+193-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:118:13-37
+194            android:screenOrientation="behind"
+194-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:119:13-47
+195            android:theme="@style/HiAdThemeNoActionBarFullScreen" >
+195-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:120:13-66
+196            <intent-filter>
+196-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:121:13-125:29
+197                <action android:name="com.huawei.hms.pps.action.PPS_REWARD" />
+197-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:122:17-79
+197-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:122:25-76
+198
+199                <category android:name="android.intent.category.DEFAULT" />
+199-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+199-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+200            </intent-filter>
+201
+202            <meta-data
+202-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+203                android:name="hwc-theme"
+203-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+204                android:value="androidhwext:style/Theme.Emui.NoActionBar.Fullscreen" />
+204-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+205            <meta-data
+205-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:130:13-132:41
+206                android:name="android.notch_support"
+206-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:131:17-53
+207                android:value="false" />
+207-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:132:17-38
+208        </activity>
+209        <activity
+209-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:134:9-145:20
+210            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSRewardActivity"
+210-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:135:13-93
+211            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+211-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:136:13-134
+212            android:exported="false"
+212-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:137:13-37
+213            android:theme="@style/HiAdThemeNoActionBarFullScreen" >
+213-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:138:13-66
+214            <meta-data
+214-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+215                android:name="hwc-theme"
+215-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+216                android:value="androidhwext:style/Theme.Emui.NoActionBar.Fullscreen" />
+216-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+217            <meta-data
+217-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:130:13-132:41
+218                android:name="android.notch_support"
+218-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:131:17-53
+219                android:value="false" />
+219-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:132:17-38
+220        </activity>
+221        <activity
+221-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:146:9-158:20
+222            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSInterstitialAdActivity"
+222-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:147:13-101
+223            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize"
+223-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:148:13-122
+224            android:exported="false"
+224-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:149:13-37
+225            android:screenOrientation="sensor"
+225-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:150:13-47
+226            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+226-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:151:13-83
+227            <meta-data
+227-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+228                android:name="hwc-theme"
+228-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+229                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar.Fullscreen" />
+229-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+230            <meta-data
+230-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:130:13-132:41
+231                android:name="android.notch_support"
+231-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:131:17-53
+232                android:value="false" />
+232-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:132:17-38
+233        </activity>
+234        <activity
+234-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:159:9-177:20
+235            android:name="com.huawei.openalliance.ad.ppskit.activity.InterstitialAdActivity"
+235-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:160:13-93
+236            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize"
+236-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:161:13-122
+237            android:exported="false"
+237-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:162:13-37
+238            android:screenOrientation="sensor"
+238-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:163:13-47
+239            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+239-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:164:13-83
+240            <intent-filter>
+240-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:165:13-169:29
+241                <action android:name="com.huawei.hms.pps.action.PPS_INTERSTITIAL" />
+241-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:166:17-85
+241-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:166:25-82
+242
+243                <category android:name="android.intent.category.DEFAULT" />
+243-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+243-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+244            </intent-filter>
+245
+246            <meta-data
+246-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+247                android:name="hwc-theme"
+247-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+248                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar.Fullscreen" />
+248-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+249            <meta-data
+249-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:130:13-132:41
+250                android:name="android.notch_support"
+250-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:131:17-53
+251                android:value="false" />
+251-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:132:17-38
+252        </activity>
+253        <activity
+253-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:178:9-186:20
+254            android:name="com.huawei.openalliance.ad.ppskit.activity.AgProtocolActivity"
+254-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:179:13-89
+255            android:configChanges="orientation|screenSize"
+255-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:180:13-59
+256            android:exported="false"
+256-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:181:13-37
+257            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+257-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:182:13-72
+258            <meta-data
+258-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+259                android:name="hwc-theme"
+259-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+260                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+260-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+261        </activity>
+262        <activity
+262-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:187:9-202:20
+263            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSArActivity"
+263-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:188:13-84
+264            android:configChanges="orientation|keyboardHidden|screenSize"
+264-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:189:13-74
+265            android:exported="false"
+265-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:190:13-37
+266            android:screenOrientation="portrait"
+266-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:191:13-49
+267            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+267-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:192:13-71
+268            <intent-filter>
+268-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:193:13-197:29
+269                <action android:name="com.huawei.hms.pps.action.PPS_AR" />
+269-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:194:17-75
+269-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:194:25-72
+270
+271                <category android:name="android.intent.category.DEFAULT" />
+271-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+271-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+272            </intent-filter>
+273
+274            <meta-data
+274-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+275                android:name="hwc-theme"
+275-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+276                android:value="androidhwext:style/Theme.Emui.NoActionBar.Fullscreen" />
+276-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+277        </activity>
+278        <activity
+278-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:203:9-223:20
+279            android:name="com.huawei.opendevice.open.OAIDSettingActivity"
+279-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:204:13-74
+280            android:configChanges="orientation|screenSize|keyboardHidden|screenLayout|smallestScreenSize"
+280-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:205:13-106
+281            android:exported="true"
+281-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:206:13-36
+282            android:label=""
+282-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:207:13-29
+283            android:theme="@android:style/Theme.DeviceDefault" >
+283-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:208:13-63
+284            <intent-filter>
+284-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:209:13-218:29
+285                <action android:name="android.intent.action.VIEW" />
+285-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:17-69
+285-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:25-66
+286
+287                <category android:name="android.intent.category.DEFAULT" />
+287-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+287-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+288                <category android:name="android.intent.category.BROWSABLE" />
+288-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:17-78
+288-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:27-75
+289
+290                <data
+290-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:215:17-217:53
+291                    android:host="com.techgeeks.notalone.number.huawei"
+291-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:216:21-52
+292                    android:scheme="hwppsprivacy" />
+292-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:217:21-50
+293            </intent-filter>
+294
+295            <meta-data
+295-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+296                android:name="hwc-theme"
+296-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+297                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+297-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+298        </activity>
+299        <activity
+299-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:224:9-244:20
+300            android:name="com.huawei.opendevice.open.PrivacyActivity"
+300-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:225:13-70
+301            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+301-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:226:13-106
+302            android:exported="true"
+302-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:227:13-36
+303            android:label=""
+303-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:228:13-29
+304            android:theme="@android:style/Theme.DeviceDefault" >
+304-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:229:13-63
+305            <intent-filter>
+305-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:230:13-239:29
+306                <action android:name="android.intent.action.VIEW" />
+306-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:17-69
+306-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:25-66
+307
+308                <category android:name="android.intent.category.DEFAULT" />
+308-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+308-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+309                <category android:name="android.intent.category.BROWSABLE" />
+309-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:17-78
+309-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:27-75
+310
+311                <data
+311-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:215:17-217:53
+312                    android:host="com.techgeeks.notalone.number.huawei"
+312-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:216:21-52
+313                    android:scheme="hwppsprivacydetail" />
+313-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:217:21-50
+314            </intent-filter>
+315
+316            <meta-data
+316-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+317                android:name="hwc-theme"
+317-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+318                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+318-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+319        </activity>
+320        <activity
+320-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:245:9-265:20
+321            android:name="com.huawei.opendevice.open.WhyThisAdStatementActivity"
+321-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:246:13-81
+322            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+322-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:247:13-106
+323            android:exported="true"
+323-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:248:13-36
+324            android:label=""
+324-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:249:13-29
+325            android:theme="@android:style/Theme.DeviceDefault" >
+325-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:250:13-63
+326            <intent-filter>
+326-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:251:13-260:29
+327                <action android:name="android.intent.action.VIEW" />
+327-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:17-69
+327-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:25-66
+328
+329                <category android:name="android.intent.category.DEFAULT" />
+329-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+329-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+330                <category android:name="android.intent.category.BROWSABLE" />
+330-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:17-78
+330-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:27-75
+331
+332                <data
+332-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:215:17-217:53
+333                    android:host="com.techgeeks.notalone.number.huawei"
+333-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:216:21-52
+334                    android:scheme="hwppsprivacyadinfo" />
+334-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:217:21-50
+335            </intent-filter>
+336
+337            <meta-data
+337-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+338                android:name="hwc-theme"
+338-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+339                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+339-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+340        </activity>
+341        <activity
+341-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:266:9-275:20
+342            android:name="com.huawei.opendevice.open.SimplePrivacyActivity"
+342-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:267:13-76
+343            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+343-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:268:13-106
+344            android:exported="false"
+344-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:269:13-37
+345            android:label=""
+345-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:270:13-29
+346            android:theme="@android:style/Theme.DeviceDefault" >
+346-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:271:13-63
+347            <meta-data
+347-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+348                android:name="hwc-theme"
+348-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+349                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+349-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+350        </activity>
+351        <activity
+351-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:276:9-285:20
+352            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSFullScreenNotifyActivity"
+352-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:277:13-98
+353            android:configChanges="orientation|keyboardHidden|screenSize"
+353-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:278:13-74
+354            android:excludeFromRecents="true"
+354-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:279:13-46
+355            android:exported="false"
+355-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:280:13-37
+356            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+356-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:281:13-72
+357            <meta-data
+357-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+358                android:name="hwc-theme"
+358-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+359                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+359-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+360        </activity>
+361
+362        <meta-data
+362-->[com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:13:9-15:54
+363            android:name="com.huawei.hms.client.service.name:ads-banner"
+363-->[com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:14:13-73
+364            android:value="ads-banner:13.4.49.301" />
+364-->[com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:15:13-51
+365        <meta-data
+365-->[com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:13:9-15:56
+366            android:name="com.huawei.hms.client.service.name:ads-template"
+366-->[com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:14:13-75
+367            android:value="ads-template:13.4.49.301" />
+367-->[com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:15:13-53
+368        <meta-data
+368-->[com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:13:9-15:54
+369            android:name="com.huawei.hms.client.service.name:ads-native"
+369-->[com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:14:13-73
+370            android:value="ads-native:13.4.49.301" />
+370-->[com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:15:13-51
+371        <meta-data
+371-->[com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:13:9-15:60
+372            android:name="com.huawei.hms.client.service.name:ads-interstitial"
+372-->[com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:14:13-79
+373            android:value="ads-interstitial:13.4.49.301" />
+373-->[com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:15:13-57
+374        <meta-data
+374-->[com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:13:9-15:54
+375            android:name="com.huawei.hms.client.service.name:ads-reward"
+375-->[com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:14:13-73
+376            android:value="ads-reward:13.4.49.301" />
+376-->[com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:15:13-51
+377        <meta-data
+377-->[com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:13:9-15:52
+378            android:name="com.huawei.hms.client.service.name:ads-lang"
+378-->[com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:14:13-71
+379            android:value="ads-lang:13.4.49.301" />
+379-->[com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:15:13-49
+380        <meta-data
+380-->[com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:15:9-17:54
+381            android:name="com.huawei.hms.client.service.name:ads-splash"
+381-->[com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:16:13-73
+382            android:value="ads-splash:13.4.49.301" />
+382-->[com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:17:13-51
+383        <meta-data
+383-->[com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:13:9-15:56
+384            android:name="com.huawei.hms.client.service.name:ads-instream"
+384-->[com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:14:13-75
+385            android:value="ads-instream:13.4.49.301" />
+385-->[com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:15:13-53
+386        <meta-data
+386-->[com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:13:9-15:55
+387            android:name="com.huawei.hms.client.service.name:ads-jsbridge"
+387-->[com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:14:13-75
+388            android:value="ads-jsbridge:3.4.49.301" />
+388-->[com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:15:13-52
+389        <meta-data
+389-->[com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:16:9-18:33
+390            android:name="com.huawei.hms.min_api_level:pps-phone:adsbrainkit"
+390-->[com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:17:13-78
+391            android:value="1" />
+391-->[com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:18:13-30
+392        <meta-data
+392-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:17:9-19:52
+393            android:name="com.huawei.hms.client.service.name:ads-base"
+393-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:18:13-71
+394            android:value="ads-base:13.4.49.301" />
+394-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:19:13-49
+395
+396        <activity
+396-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:21:9-39:20
+397            android:name="com.huawei.openalliance.ad.activity.PPSLauncherActivity"
+397-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:22:13-83
+398            android:exported="true"
+398-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:23:13-36
+399            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+399-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:24:13-72
+400            <intent-filter>
+400-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:25:13-34:29
+401                <action android:name="android.intent.action.VIEW" />
+401-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:17-69
+401-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:25-66
+402
+403                <category android:name="android.intent.category.DEFAULT" />
+403-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+403-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+404                <category android:name="android.intent.category.BROWSABLE" />
+404-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:17-78
+404-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:27-75
+405
+406                <data
+406-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:215:17-217:53
+407                    android:host="com.techgeeks.notalone.number.huawei"
+407-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:216:21-52
+408                    android:scheme="hwpps" />
+408-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:217:21-50
+409            </intent-filter>
+410
+411            <meta-data
+411-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+412                android:name="hwc-theme"
+412-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+413                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+413-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+414        </activity>
+415        <activity
+415-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:40:9-47:20
+416            android:name="com.huawei.openalliance.ad.activity.PPSBridgeActivity"
+416-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:41:13-81
+417            android:exported="false"
+417-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:42:13-37
+418            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+418-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:43:13-72
+419            <meta-data
+419-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+420                android:name="hwc-theme"
+420-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+421                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+421-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+422        </activity>
+423        <activity
+423-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:48:9-55:20
+424            android:name="com.huawei.openalliance.ad.activity.PPSNotificationActivity"
+424-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:49:13-87
+425            android:exported="false"
+425-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:50:13-37
+426            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+426-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:51:13-72
+427            <meta-data
+427-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+428                android:name="hwc-theme"
+428-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+429                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+429-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+430        </activity>
+431        <activity
+431-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:56:9-64:20
+432            android:name="com.huawei.openalliance.ad.activity.AgProtocolActivity"
+432-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:57:13-82
+433            android:configChanges="orientation|screenSize"
+433-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:58:13-59
+434            android:exported="false"
+434-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:59:13-37
+435            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+435-->[com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:60:13-72
+436            <meta-data
+436-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+437                android:name="hwc-theme"
+437-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+438                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+438-->[com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+439        </activity>
+440    </application>
+441
+442</manifest>

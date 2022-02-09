@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Logs tiks aizvērts pēc %1$s sekundes."</item>
+        <item priority="translator" quantity="zero">"Logs tiks aizvērts pēc %1$s sekundēm."</item>
+        <item priority="translator" quantity="other">"Logs tiks aizvērts pēc %1$s sekundēm."</item>
+    </plurals>
+    <plurals name="hiad_interstitial_time_countdown">
+        <item priority="LT" quantity="one">"Reklāmu varēs aizvērt pēc %d s"</item>
+        <item priority="translator" quantity="zero">"Reklāmu varēs aizvērt pēc %d s"</item>
+        <item priority="LT" quantity="other">"Reklāmu varēs aizvērt pēc %d s"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="translator" quantity="one">"Atcerēties izvēli %1$s dienu"</item>
+        <item priority="translator" quantity="zero">"Atcerēties izvēli %1$s dienas"</item>
+        <item priority="translator" quantity="other">"Atcerēties izvēli %1$s dienas"</item>
+    </plurals>
+    <plurals name="hiad_reward_before_rw_time_countdown">
+        <item priority="LT" quantity="one">"Nopelniet balvu pēc %d s"</item>
+        <item priority="translator" quantity="zero">"Nopelniet balvu pēc %d s"</item>
+        <item priority="LT" quantity="other">"Nopelniet balvu pēc %d s"</item>
+    </plurals>
+    <plurals name="hiad_reward_close_dialog_message">
+        <item priority="LT" quantity="one">"Skatieties %d sekundi, lai nopelnītu balvu."</item>
+        <item priority="translator" quantity="zero">"Skatieties %d sekundes, lai nopelnītu balvu."</item>
+        <item priority="LT" quantity="other">"Skatieties %d sekundes, lai nopelnītu balvu."</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="translator" quantity="zero">"%1$d s"</item>
+        <item priority="LT" quantity="other">"%1$d s"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d jaunu paziņojumu</item>
+    <item quantity="one">%d jauns paziņojums</item>
+    <item quantity="other">%d jauni paziņojumi</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pārvietoties uz augšu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Citas opcijas"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZSLĒGT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IESLĒGT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alternēšanas taustiņš +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Vadīšanas taustiņš +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"dzēšanas taustiņš"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"ievadīšanas taustiņš"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcijas taustiņš +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta taustiņš +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Pārslēgšanas taustiņš +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"atstarpes taustiņš"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Simbolu taustiņš +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Poga Izvēlne +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Meklēt ar balsi"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kopīgot ar lietojumprogrammu <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="bottomsheet_action_expand_halfway">Izvērst līdz pusei</string>
+    <string name="character_counter_content_description">Ievadītās rakstzīmes: %1$d no %2$d</string>
+    <string name="character_counter_overflowed_content_description">Pārsniegts rakstzīmju skaita ierobežojums (%1$d no %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Notīrīt tekstu</string>
+    <string name="error_icon_content_description">Kļūda</string>
+    <string name="exposed_dropdown_menu_content_description">Rādīt nolaižamo izvēlni</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklāma"</string>
+    <string name="hiad_app_detail_version" priority="LT">"Versija %1$s"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s ir instalēts"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Instalēšana pabeigta. Pieskarieties, lai atvērtu."</string>
+    <string name="hiad_app_permission" priority="LT">"Atļaujas"</string>
+    <string name="hiad_calender_add" priority="LT">"Labi"</string>
+    <string name="hiad_calender_already_appoint" priority="LT">"Notikums jau pastāv."</string>
+    <string name="hiad_calender_appoint_dialog_message" priority="LT">"Vai pievienot šo notikumu kalendāram?"</string>
+    <string name="hiad_calender_appoint_failed" priority="LT">"Nevar pievienot notikumu."</string>
+    <string name="hiad_calender_appoint_success" priority="LT">"Notikums pievienots."</string>
+    <string name="hiad_calender_cancel_dialog_message" priority="LT">"Vai dzēst šo notikumu no kalendāra?"</string>
+    <string name="hiad_calender_cancel_failed" priority="LT">"Nevar dzēst notikumu."</string>
+    <string name="hiad_calender_cancel_success" priority="LT">"Notikums dzēsts."</string>
+    <string name="hiad_calender_delete" priority="LT">"Dzēst"</string>
+    <string name="hiad_calender_description_new" priority="LT">"To izmanto, lai ģenerētu kalendāra atgādinājumus vai izveidotu notikumus reklāmu pasākumiem, kuros plānojat piedalīties."</string>
+    <string name="hiad_calender_dialog" priority="LT">"Piezīme"</string>
+    <string name="hiad_calender_permission_appoint_message" priority="LT">"Šai lietotnei ir nepieciešama atļauja Kalendārs, lai izveidotu kalendāra notikumus. Šo atļauju varat piešķirt lietotnē Iestatījumi."</string>
+    <string name="hiad_calender_permission_cancel_message" priority="LT">"Šai lietotnei ir nepieciešama atļauja Kalendārs, lai dzēstu kalendāra notikumus. Šo atļauju varat piešķirt lietotnē Iestatījumi."</string>
+    <string name="hiad_calender_permission_description" priority="LT">"To izmanto atgādinājumu izveidei lietotnē Kalendārs, lai jūs varētu iestatīt un saņemt atgādinājumus par notikumiem."</string>
+    <string name="hiad_calender_permission_dialog" priority="LT">"Nepieciešama atļauja"</string>
+    <string name="hiad_calender_set" priority="LT">"Iestatījumi"</string>
+    <string name="hiad_camera_permission_description" priority="LT">"To izmanto AR interaktīvajiem pakalpojumiem."</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Reklāma paslēpta"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Neinteresē"</string>
+    <string name="hiad_choices_hide" priority="translator">"Paslēpt reklāmu"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Kāpēc man tiek rādīta šī reklāma?"</string>
+    <string name="hiad_click_to_try_again" priority="LT">"Mēģināt vēlreiz"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Vai instalēt šo lietotni?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Lietojot mobilo tīklu, tiks patērēti %1$s datu. Vai turpināt?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Atskaņošanas laikā tiks izmantoti mobilie dati. Vai turpināt?"</string>
+    <string name="hiad_consuming_data_to_play_video" priority="LT">"Tiek izmantots mobilais savienojums. Skatoties tiks izlietoti %1$s mobilo datu."</string>
+    <string name="hiad_continue_download" priority="LT">"Lejupielādēt"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LEJUPIELĀDĒT"</string>
+    <string name="hiad_continue_to_play" priority="LT">"TURPINĀT"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopēt saiti"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Lietotne"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Izlaist"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Izlaist pēc %d"</string>
+    <string name="hiad_detail" priority="LT">"Detalizēti"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Lejupielādēt"</string>
+    <string name="hiad_dialog_accept" priority="LT">"ATĻAUT"</string>
+    <string name="hiad_dialog_allow" priority="LT">"ATĻAUT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ATCELT"</string>
+    <string name="hiad_dialog_close" priority="LT">"Labi"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LEJUPIELĀDĒT"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"SAPRATU"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Vai atļaut lietotnei %1$s instalēt lietotni %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Avots: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"ATĻAUT"</string>
+    <string name="hiad_dialog_open" priority="LT">"ATVĒRT"</string>
+    <string name="hiad_dialog_reject" priority="LT">"LIEGT"</string>
+    <string name="hiad_dialog_title" priority="LT">"Vai lejupielādēt, izmantojot mobilos datus?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Piezīme"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Vai lejupielādēt, izmantojot mobilos datus?"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALĒT"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"LEJUPIELĀDE (%1$s)"</string>
+    <string name="hiad_download_downloading" priority="LT">"Notiek lejupielāde"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Radās kļūda, lejupielādējot %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fails bojāts. Lejupielādējiet vēlreiz."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Fails nepastāv. Mēģiniet vēlreiz."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALĒT"</string>
+    <string name="hiad_download_installing" priority="LT">"Notiek instalēšana"</string>
+    <string name="hiad_download_no_space" priority="LT">"Nepietiek krātuves vietas. Atbrīvojiet vietu un mēģiniet vēlreiz."</string>
+    <string name="hiad_download_open" priority="LT">"ATVĒRT"</string>
+    <string name="hiad_download_resume" priority="LT">"TURPINĀT"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Radās kļūda, lejupielādējot %1$s. Lejupielāde tiks sākta vēlreiz."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Pašreiz nav izveidots savienojums ar Wi-Fi. Lejupielādējot tagad, tiks izmantoti %1$s mobilo datu. Vai tomēr lejupielādēt?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Pašreiz nav izveidots savienojums ar WLAN. Lejupielādējot tagad, tiks izmantoti %1$s mobilo datu. Vai tomēr lejupielādēt?"</string>
+    <string name="hiad_go_to_settings" priority="LT">"Iestatījumi"</string>
+    <string name="hiad_install_completed" priority="LT">"Gatavs"</string>
+    <string name="hiad_installed_description" priority="translator">"Instalēšana sekmīgi pabeigta. Pieskarieties, lai atvērtu."</string>
+    <string name="hiad_jump_desc" priority="translator">"Skatīt detalizētu informāciju vai pāriet uz lietotni"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Šī lapa vēlas atvērt %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Saite nokopēta."</string>
+    <string name="hiad_loading_tips" priority="LT">Notiek ielāde…</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Šīs lejupielādes procesā tiks patērēti %1$s mobilo datu."</string>
+    <string name="hiad_net_error" priority="LT">Tīkla savienojuma kļūda. Mēģiniet vēlreiz.</string>
+    <string name="hiad_network_disconnect_to_try" priority="LT">"Nav interneta savienojuma. Lūdzu, izveidojiet savienojumu un mēģiniet vēlreiz."</string>
+    <string name="hiad_network_error" priority="LT">"Tīkla savienojuma kļūda."</string>
+    <string name="hiad_network_no_available" priority="LT">"Nav interneta savienojuma. Pārbaudiet tīkla iestatījumus."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Vairs neatgādināt"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Nav Wi-Fi savienojuma. Lejupielādējot tūlīt, tiks lietoti mobilie dati. Vai lejupielādēt?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Nav WLAN savienojuma. Lejupielādējot tūlīt, tiks lietoti mobilie dati. Vai lejupielādēt?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Atvērt pārlūkā"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Nevar ielādēt lapu. Mēģiniet vēlreiz."</string>
+    <string name="hiad_permission_camera" priority="LT">"Šai funkcijai ir nepieciešama atļauja Kamera. Piešķiriet to sadaļā Iestatījumi."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s nepieciešamas tālāk norādītās atļaujas."</string>
+    <string name="hiad_preorder_download" priority="LT">"Iepriekšpasūtīt"</string>
+    <string name="hiad_prepare_download" priority="LT">"Gaidīt Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Vai lejupielādēt, izmantojot mobilo tīklu?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Gaidīt WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Konfidencialitāte"</string>
+    <string name="hiad_refresh" priority="LT">"Atsvaidzināt"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Lietotne, lielāka par %1$d MB"</string>
+    <string name="hiad_reward_abort_download" priority="LT">"Atcelt"</string>
+    <string name="hiad_reward_app_developer" priority="LT">"Izstrādātājs: %1$s"</string>
+    <string name="hiad_reward_app_version" priority="LT">"Versija %1$s"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Izlaist"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Turpināt skatīties"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Noskatieties šo reklāmu, lai nopelnītu balvu."</string>
+    <string name="hiad_setting_location_based_ad_new" priority="LT">"No atrašanās vietas atkarīgas reklāmas"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Pieskarieties, lai atvērtu vietni/lietotni"</string>
+    <string name="hiad_start_ownload_failed_downloading" priority="LT">"Notiek lietotnes lejupielāde."</string>
+    <string name="hiad_swipe_screen" priority="translator">"Pavelciet uz augšu"</string>
+    <string name="hiad_twist_screen" priority="translator">"Pakratiet tālruni"</string>
+    <string name="hiad_whether_download" priority="LT">"Vai lejupielādēt šo lietotni?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Iepriekš ielādēts, izmantojot Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Iepriekš ielādēta"</string>
+    <string name="icon_content_description">Dialoglodziņa ikona</string>
+    <string name="item_view_role_description">Cilne</string>
+    <string name="material_clock_toggle_content_description">Atlasiet “AM” (priekšpusdienā) vai “PM” (pēcpusdienā).</string>
+    <string name="material_hour_selection">Atlasiet stundu</string>
+    <string name="material_hour_suffix">plkst. %1$s</string>
+    <string name="material_minute_selection">Atlasiet minūtes.</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Lai ievadītu laiku, ieslēdziet pulksteņa režīmu.</string>
+    <string name="material_timepicker_hour">Stunda</string>
+    <string name="material_timepicker_minute">Minūte</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Laika atlasīšana</string>
+    <string name="material_timepicker_text_input_mode_description">Lai ievadītu laiku, ieslēdziet teksta ievades režīmu.</string>
+    <string name="mtrl_badge_numberless_content_description">Jauns paziņojums</string>
+    <string name="mtrl_chip_close_icon_content_description">Noņemt: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Vairāk nekā %1$d jauni paziņojumi</string>
+    <string name="mtrl_picker_a11y_next_month">Pāriet uz nākamo mēnesi</string>
+    <string name="mtrl_picker_a11y_prev_month">Pāriet uz iepriekšējo mēnesi</string>
+    <string name="mtrl_picker_announce_current_selection">Pašreizējā atlase: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Atlasiet datumu</string>
+    <string name="mtrl_picker_date_header_unselected">Atlasītais datums</string>
+    <string name="mtrl_picker_day_of_week_column_header">Dienu sleja: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nederīgs formāts.</string>
+    <string name="mtrl_picker_invalid_format_example">Piemērs: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Izmantojiet: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nederīgs diapazons.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pāriet uz šo gadu: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Ārpus diapazona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Sākuma datums–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–beigu datums</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Atlasiet diapazonu</string>
+    <string name="mtrl_picker_range_header_unselected">Sākuma datums–beigu datums</string>
+    <string name="mtrl_picker_save">Saglabāt</string>
+    <string name="mtrl_picker_text_input_date_hint">Datums</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Beigu datums</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Sākuma datums</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Pārslēgties uz kalendāra ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pieskarties, lai pārslēgtos uz dienas atlasīšanu</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Pārslēgties uz teksta ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pieskarties, lai pārslēgtos uz gada atlasīšanu</string>
+    <string name="no_browser_tips" priority="LT">"Vispirms instalējiet pārlūka lietotni."</string>
+    <string name="opendevice_ad_info" priority="LT">"Reklāmu informācija"</string>
+    <string name="opendevice_ad_privacy_statement" priority="LT">"Paziņojums par reklāmām un konfidencialitāti"</string>
+    <string name="opendevice_all_advertisers" priority="LT">"Visi reklāmdevēji"</string>
+    <string name="opendevice_bt_cancel" priority="LT">"ATCELT"</string>
+    <string name="opendevice_bt_reset" priority="LT">"ATIESTATĪT"</string>
+    <string name="opendevice_dlg_msg_ad_reset" priority="LT">"Tiks piešķirts jauns reklāmas ID pēc nejaušas izvēles principa."</string>
+    <string name="opendevice_dlg_title_reset_ad" priority="LT">"Atiestatīt reklāmas ID"</string>
+    <string name="opendevice_here" priority="LT">"šeit"</string>
+    <string name="opendevice_hw_ad_service" priority="LT">"Reklāmas un konfidencialitāte"</string>
+    <string name="opendevice_hw_ad_service_new" priority="LT">"Reklāmas"</string>
+    <string name="opendevice_item_ad_reset_desc" priority="LT">"Varat atteikties no personalizētu reklāmu saņemšanas, kurās tiek izmantots jūsu reklāmas ID. Ja atteiksieties, joprojām saņemsiet reklāmas, bet tās var būt mazāk atbilstošas jūsu interesēm. %1$s"</string>
+    <string name="opendevice_item_collection_ad_desc_more_info" priority="LT">"Uzziniet vairāk par datu izmantošanu un savām tiesībām"</string>
+    <string name="opendevice_item_disable_collection_ad" priority="LT">"Atspējot Ad-ID statistikas vākšanu"</string>
+    <string name="opendevice_item_disable_collection_ad_desc" priority="LT">"Mēs vāksim informāciju par jūsu ekrānā veiktajām darbībām šajā vidē un par lietotnēm, kurās tiek izmantots jūsu Ad-ID, lai uzlabotu savus pakalpojumus. Lai saņemtu plašāku informāciju par to, kā mēs lietojam šos datus, pieskarieties %1$s."</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new" priority="LT">"Mēs vāksim informāciju par jūsu ekrānā veiktajām darbībām šajā vidē un par lietotnēm, kurās tiek izmantots jūsu Ad-ID, lai uzlabotu savus pakalpojumus."</string>
+    <string name="opendevice_item_more_settings" priority="LT">"Papildinformācija"</string>
+    <string name="opendevice_item_oaid_desc" priority="LT">"Jūsu reklāmas ID (saukts arī par OAID) ir ierīces pagaidu identifikators, ko izmanto, lai sniegtu jums personalizētas reklāmas."</string>
+    <string name="opendevice_item_reset_ad" priority="LT">"Atiestatīt reklāmas ID"</string>
+    <string name="opendevice_item_reset_ad_des" priority="LT">"Jūs varat atteikties saņemt personalizētas reklāmas, kurās tiek izmantots jūsu Ad-ID. Ja atteiksieties, jūs joprojām saņemsiet reklāmas, bet tās varētu būt jums mazāk piemērotas."</string>
+    <string name="opendevice_item_reset_ad_des_new" priority="LT">"Jūs varat atteikties saņemt personalizētas reklāmas, kurās tiek izmantots jūsu Ad-ID. Ja atteiksieties, jūs joprojām saņemsiet reklāmas, bet tās varētu būt jums mazāk piemērotas."</string>
+    <string name="opendevice_item_your_oaid" priority="LT">"Jūsu Ad-ID"</string>
+    <string name="opendevice_item_your_oaid_desc" priority="LT">"Jūsu Ad-ID (to dēvē arī par OAID) ir pagaidu ierīces identifikators, kas tiek izmantots, lai jums nodrošinātu personalizētas reklāmas. Lai saņemtu plašāku informāciju, pieskarieties %1$s."</string>
+    <string name="opendevice_limit_ad_tracking" priority="LT">"Atspējot personalizētas reklāmas"</string>
+    <string name="opendevice_limit_ad_tracking_detail" priority="LT">"Uzzināt vairāk"</string>
+    <string name="opendevice_limit_recommend" priority="translator">"Viedie ieteikumi"</string>
+    <string name="opendevice_network_no_available" priority="LT">"Nav interneta savienojuma"</string>
+    <string name="opendevice_privacy_desc" priority="LT">"Personalizēti reklāmu pakalpojumi iesaka saturu, kas jūs varētu interesēt. Jūsu konfidencialitāte vienmēr tiks aizsargāta. Plašāku informāciju skatiet dokumentā %1$s."</string>
+    <string name="opendevice_privacy_desc_new" priority="LT">"Personalizētas reklamēšanas pakalpojumi iesaka saturu, kas varētu jūs interesēt. Jūsu konfidencialitāte vienmēr tiek aizsargāta. Plašāku informāciju skatiet šajā dokumentā:"</string>
+    <string name="opendevice_privacy_oversea_desc" priority="translator">"Platforma HUAWEI reklāmas nodrošina reklamēšanas pakalpojumus platformai Huawei Mobile Services un trešo pušu lietotnēm. Ja ir iespējotas personalizētas reklāmas, jūsu personas dati var tikt izmantoti, lai jums nodrošinātu atbilstošākas un noderīgākas reklāmas. Lai uzzinātu vairāk par to, kā tiek izmantoti jūsu dati, un par savām tiesībām, lūdzu, skatiet dokumentu %1$s."</string>
+    <string name="opendevice_privacy_oversea_desc_new" priority="LT">"Platforma HUAWEI reklāmas nodrošina reklamēšanas pakalpojumus platformai Huawei Mobile Services un trešo pušu lietotnēm. Ja ir iespējotas personalizētas reklāmas, jūsu personas dati var tikt izmantoti, lai jums nodrošinātu atbilstošākas un noderīgākas reklāmas. Lai uzzinātu vairāk par to, kā tiek izmantoti jūsu dati, un par savām tiesībām, lūdzu, skatiet šo dokumentu:"</string>
+    <string name="opendevice_recommend_desc" priority="translator">"Šī funkcija izmanto federatīvās mašīnmācīšanās tehnoloģiju, lai ieteiktu produktus un pakalpojumus, kas jums varētu patikt."</string>
+    <string name="opendevice_setting_network" priority="LT">"Tīkla iestatījumi"</string>
+    <string name="opendevice_title_oaid" priority="LT">"Ierīces identifikators"</string>
+    <string name="opendevice_title_oaid_statement" priority="LT">"Par OAID"</string>
+    <string name="opendevice_title_stattistics_statement" priority="LT">"Paziņojums par Ad-ID statistisko analīzi"</string>
+    <string name="opendevice_view_ad_info" priority="LT">"Reklāmu informācija"</string>
+    <string name="password_toggle_content_description">Rādīt paroli</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Meklēt"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

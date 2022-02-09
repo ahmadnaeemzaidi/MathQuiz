@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.techgeeks.notalone.number.huawei"
+    android:versionCode="2"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="com.huawei.permission.sec.MDM.v2" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.REAL_GET_TASKS" />
+    <uses-permission android:name="com.huawei.permission.sec.ACCESS_UDID" />
+    <uses-permission android:name="com.huawei.permission.app.DOWNLOAD" />
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+    <uses-permission android:name="com.android.permission.GET_INSTALLED_APPS" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+
+    <application
+        android:name="com.techgeeks.notalone.number.huawei.MyApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.SplashActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/YellowWindowBG" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.MenuActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.GradeActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.FlashMainMultiplyActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.FlashMainAdditionActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.FlashMainSubActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseMultiplyActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseAddActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.TrueOrFalseSubActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.Info"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.Practice"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.techgeeks.notalone.number.huawei.SelectMultiplicationPracticeActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-lite"
+            android:value="ads-lite:13.4.49.301" />
+        <meta-data
+            android:name="hw.theme_type"
+            android:value="273" />
+        <meta-data
+            android:name="permission.reason.android.permission-group.CALENDAR"
+            android:resource="@string/hiad_calender_description_new" />
+
+        <provider
+            android:name="com.huawei.openalliance.ad.ppskit.provider.PPSInstallFileProvider"
+            android:authorities="com.techgeeks.notalone.number.huawei.hiad.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" />
+        <provider
+            android:name="com.huawei.openalliance.ad.ppskit.provider.InnerApiProvider"
+            android:authorities="com.techgeeks.notalone.number.huawei.pps.innerapiprovider"
+            android:exported="false" />
+
+        <service
+            android:name="com.huawei.android.hms.ppskit.PpsCoreService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.huawei.android.hms.ppskit.PPS_API_SERVICE" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.InstallActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Light.NoTitleBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.HMSSDKInstallActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Light.NoTitleBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSActivity"
+            android:configChanges="screenLayout|screenSize|smallestScreenSize|orientation|keyboardHidden"
+            android:exported="false"
+            android:label=" "
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="com.huawei.hms.pps.action.PPS_DETAIL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+            android:exported="false"
+            android:label=" "
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSArActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+            android:exported="false"
+            android:label=" "
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSRewardActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation|uiMode"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:theme="@style/HiAdThemeNoActionBarFullScreen" >
+            <intent-filter>
+                <action android:name="com.huawei.hms.pps.action.PPS_REWARD" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.NoActionBar.Fullscreen" />
+            <meta-data
+                android:name="android.notch_support"
+                android:value="false" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSRewardActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|orientation"
+            android:exported="false"
+            android:theme="@style/HiAdThemeNoActionBarFullScreen" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.NoActionBar.Fullscreen" />
+            <meta-data
+                android:name="android.notch_support"
+                android:value="false" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.InnerPPSInterstitialAdActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:screenOrientation="sensor"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar.Fullscreen" />
+            <meta-data
+                android:name="android.notch_support"
+                android:value="false" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.InterstitialAdActivity"
+            android:configChanges="mcc|mnc|keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:screenOrientation="sensor"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="com.huawei.hms.pps.action.PPS_INTERSTITIAL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar.Fullscreen" />
+            <meta-data
+                android:name="android.notch_support"
+                android:value="false" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.AgProtocolActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSArActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="com.huawei.hms.pps.action.PPS_AR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.NoActionBar.Fullscreen" />
+        </activity>
+        <activity
+            android:name="com.huawei.opendevice.open.OAIDSettingActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|screenLayout|smallestScreenSize"
+            android:exported="true"
+            android:label=""
+            android:theme="@android:style/Theme.DeviceDefault" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="com.techgeeks.notalone.number.huawei"
+                    android:scheme="hwppsprivacy" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.opendevice.open.PrivacyActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:exported="true"
+            android:label=""
+            android:theme="@android:style/Theme.DeviceDefault" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="com.techgeeks.notalone.number.huawei"
+                    android:scheme="hwppsprivacydetail" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.opendevice.open.WhyThisAdStatementActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:exported="true"
+            android:label=""
+            android:theme="@android:style/Theme.DeviceDefault" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="com.techgeeks.notalone.number.huawei"
+                    android:scheme="hwppsprivacyadinfo" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.opendevice.open.SimplePrivacyActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:exported="false"
+            android:label=""
+            android:theme="@android:style/Theme.DeviceDefault" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.WithActionBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.ppskit.activity.PPSFullScreenNotifyActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+        </activity>
+
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-banner"
+            android:value="ads-banner:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-template"
+            android:value="ads-template:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-native"
+            android:value="ads-native:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-interstitial"
+            android:value="ads-interstitial:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-reward"
+            android:value="ads-reward:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-lang"
+            android:value="ads-lang:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-splash"
+            android:value="ads-splash:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-instream"
+            android:value="ads-instream:13.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-jsbridge"
+            android:value="ads-jsbridge:3.4.49.301" />
+        <meta-data
+            android:name="com.huawei.hms.min_api_level:pps-phone:adsbrainkit"
+            android:value="1" />
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-base"
+            android:value="ads-base:13.4.49.301" />
+
+        <activity
+            android:name="com.huawei.openalliance.ad.activity.PPSLauncherActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="com.techgeeks.notalone.number.huawei"
+                    android:scheme="hwpps" />
+            </intent-filter>
+
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.activity.PPSBridgeActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.activity.PPSNotificationActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+        </activity>
+        <activity
+            android:name="com.huawei.openalliance.ad.activity.AgProtocolActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+        </activity>
+    </application>
+
+</manifest>

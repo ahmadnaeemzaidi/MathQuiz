@@ -1,0 +1,870 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\a14105437c28665c85d041980d4b9c2a\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7d4e37d4db9265bf784ae5c0560f7505\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.florent37:tutoshowcase:1.0.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\c4b543935cf3c759b70910aef5ee985f\jetified-tutoshowcase-1.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.huawei.hms:ads:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\719126d1564a653a9c09d71fc84a0824\jetified-ads-3.4.49.301\AndroidManifest.xml:3:1-15:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f509f6d2f9c1ff170092c34a0922c9f9\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\dee56812972f65c48f33f011a0d23568\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\be0b3c7258e6da73a16db7ad25cbd1f2\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7dc61c4b32ac99602def06076ad469e8\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8c15fd988bc26238d3de2baef228f7dc\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\78ecae9c2f22493c6a91e24a1a2d4820\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7ced6c91ac482bc6e6ce9aa80fc65495\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.huawei.hms:network-grs:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\49c345ac732d8218f742f356d1e2a225\jetified-network-grs-4.0.20.302\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\054204406b27658dc74d8b19f547bed5\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\6e0bbf23856e3e10e3514a4e9cc95fa1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a5e36edf0bf6877cab03a462d62c58d\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\abfb1986835d7863ad588927944dd5ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\88958e78a03a39da36d379d2c8b6a4b0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faa46d3172606436a70f4954c4fe88af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:2:1-288:12
+MERGED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:3:1-20:12
+MERGED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:3:1-21:12
+MERGED from [com.huawei.hms:xrkitsdk:1.4.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2bd26f31cdb5c1c83ac038b3b4c77b0a\jetified-xrkitsdk-1.4.0.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.huawei.hms:network-framework-compat:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\132c40fe25cc1bbdbcb7a7624ce4713a\jetified-network-framework-compat-4.0.20.302\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:network-common:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\097523e33a671fc7ca1c557078b9ffd2\jetified-network-common-4.0.20.302\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:3:1-71:12
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:18:5-79
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:18:5-79
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:13:5-79
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:17:5-67
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:17:5-67
+MERGED from [com.huawei.hms:xrkitsdk:1.4.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2bd26f31cdb5c1c83ac038b3b4c77b0a\jetified-xrkitsdk-1.4.0.0\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.hms:xrkitsdk:1.4.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2bd26f31cdb5c1c83ac038b3b4c77b0a\jetified-xrkitsdk-1.4.0.0\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:8:5-42:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7d4e37d4db9265bf784ae5c0560f7505\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7d4e37d4db9265bf784ae5c0560f7505\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.huawei.hms:ads:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\719126d1564a653a9c09d71fc84a0824\jetified-ads-3.4.49.301\AndroidManifest.xml:12:5-13:19
+MERGED from [com.huawei.hms:ads:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\719126d1564a653a9c09d71fc84a0824\jetified-ads-3.4.49.301\AndroidManifest.xml:12:5-13:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:9:5-13:19
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:9:5-13:19
+MERGED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:29:5-286:19
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:29:5-286:19
+MERGED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:14:5-18:19
+MERGED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:14:5-18:19
+MERGED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:12:5-19:19
+MERGED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:12:5-19:19
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:16:5-69:19
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:16:5-69:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:13:9-48
+	android:icon
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:9:9-38
+activity#com.techgeeks.notalone.number.huawei.SplashActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:19:13-49
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:20:13-63
+	android:theme
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:18:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.techgeeks.notalone.number.huawei.MainActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:9-173
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:84-120
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:121-171
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:28:19-83
+activity#com.techgeeks.notalone.number.huawei.MenuActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:9-173
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:84-120
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:121-171
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:29:19-83
+activity#com.techgeeks.notalone.number.huawei.GradeActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:9-174
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:85-121
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:122-172
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:30:19-84
+activity#com.techgeeks.notalone.number.huawei.FlashMainMultiplyActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:9-186
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:97-133
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:134-184
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:31:19-96
+activity#com.techgeeks.notalone.number.huawei.FlashMainAdditionActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:8-185
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:96-132
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:133-183
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:32:18-95
+activity#com.techgeeks.notalone.number.huawei.FlashMainSubActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:9-181
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:92-128
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:129-179
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:33:19-91
+activity#com.techgeeks.notalone.number.huawei.TrueOrFalseMultiplyActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:9-188
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:99-135
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:136-186
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:34:19-98
+activity#com.techgeeks.notalone.number.huawei.TrueOrFalseAddActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:9-183
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:94-130
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:131-181
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:35:19-93
+activity#com.techgeeks.notalone.number.huawei.TrueOrFalseSubActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:9-183
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:94-130
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:131-181
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:36:19-93
+activity#com.techgeeks.notalone.number.huawei.Info
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:9-165
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:76-112
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:113-163
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:37:19-75
+activity#com.techgeeks.notalone.number.huawei.Practice
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:9-169
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:80-116
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:117-167
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:38:19-79
+activity#com.techgeeks.notalone.number.huawei.SelectMultiplicationPracticeActivity
+ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:9-197
+	android:screenOrientation
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:108-144
+	android:configChanges
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:145-195
+	android:name
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml:39:19-107
+uses-sdk
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\a14105437c28665c85d041980d4b9c2a\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\a14105437c28665c85d041980d4b9c2a\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7d4e37d4db9265bf784ae5c0560f7505\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7d4e37d4db9265bf784ae5c0560f7505\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.florent37:tutoshowcase:1.0.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\c4b543935cf3c759b70910aef5ee985f\jetified-tutoshowcase-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.florent37:tutoshowcase:1.0.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\c4b543935cf3c759b70910aef5ee985f\jetified-tutoshowcase-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.huawei.hms:ads:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\719126d1564a653a9c09d71fc84a0824\jetified-ads-3.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\719126d1564a653a9c09d71fc84a0824\jetified-ads-3.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f509f6d2f9c1ff170092c34a0922c9f9\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f509f6d2f9c1ff170092c34a0922c9f9\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\dee56812972f65c48f33f011a0d23568\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\dee56812972f65c48f33f011a0d23568\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\be0b3c7258e6da73a16db7ad25cbd1f2\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\be0b3c7258e6da73a16db7ad25cbd1f2\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7dc61c4b32ac99602def06076ad469e8\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7dc61c4b32ac99602def06076ad469e8\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8c15fd988bc26238d3de2baef228f7dc\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8c15fd988bc26238d3de2baef228f7dc\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\78ecae9c2f22493c6a91e24a1a2d4820\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\78ecae9c2f22493c6a91e24a1a2d4820\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7ced6c91ac482bc6e6ce9aa80fc65495\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\7ced6c91ac482bc6e6ce9aa80fc65495\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.huawei.hms:network-grs:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\49c345ac732d8218f742f356d1e2a225\jetified-network-grs-4.0.20.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-grs:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\49c345ac732d8218f742f356d1e2a225\jetified-network-grs-4.0.20.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:7:5-43
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\054204406b27658dc74d8b19f547bed5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\054204406b27658dc74d8b19f547bed5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\6e0bbf23856e3e10e3514a4e9cc95fa1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\6e0bbf23856e3e10e3514a4e9cc95fa1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a5e36edf0bf6877cab03a462d62c58d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a5e36edf0bf6877cab03a462d62c58d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\abfb1986835d7863ad588927944dd5ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\abfb1986835d7863ad588927944dd5ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\88958e78a03a39da36d379d2c8b6a4b0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\88958e78a03a39da36d379d2c8b6a4b0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faa46d3172606436a70f4954c4fe88af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faa46d3172606436a70f4954c4fe88af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:8:5-11:380
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:8:5-11:380
+MERGED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:xrkitsdk:1.4.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2bd26f31cdb5c1c83ac038b3b4c77b0a\jetified-xrkitsdk-1.4.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:xrkitsdk:1.4.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2bd26f31cdb5c1c83ac038b3b4c77b0a\jetified-xrkitsdk-1.4.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-framework-compat:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\132c40fe25cc1bbdbcb7a7624ce4713a\jetified-network-framework-compat-4.0.20.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-framework-compat:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\132c40fe25cc1bbdbcb7a7624ce4713a\jetified-network-framework-compat-4.0.20.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\097523e33a671fc7ca1c557078b9ffd2\jetified-network-common-4.0.20.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:4.0.20.302] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\097523e33a671fc7ca1c557078b9ffd2\jetified-network-common-4.0.20.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:11:9-377
+	android:targetSdkVersion
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\huawei\MathGame\source\codecanyon-32496616-math-up-practice-math-arithmetic-multiply-add-subtract\MathUp\app\src\main\AndroidManifest.xml
+uses-library#org.apache.http.legacy
+ADDED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:10:9-12:40
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:37:9-39:40
+MERGED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:37:9-39:40
+	android:required
+		ADDED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.huawei.android.hms:security-ssl:1.1.5.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\40c0743dbff338e211d02895ef42edb0\jetified-security-ssl-1.1.5.301\AndroidManifest.xml:11:13-50
+meta-data#com.huawei.hms.client.service.name:ads-lite
+ADDED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:13:9-15:52
+	android:value
+		ADDED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from [com.huawei.hms:ads-lite:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\3f57b8b5ea7dbfec8dc875b303e2fdce\jetified-ads-lite-13.4.49.301\AndroidManifest.xml:14:13-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:14:5-65
+MERGED from [com.huawei.hms:xrkitsdk:1.4.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2bd26f31cdb5c1c83ac038b3b4c77b0a\jetified-xrkitsdk-1.4.0.0\AndroidManifest.xml:11:5-65
+MERGED from [com.huawei.hms:xrkitsdk:1.4.0.0] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2bd26f31cdb5c1c83ac038b3b4c77b0a\jetified-xrkitsdk-1.4.0.0\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:14:22-62
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:16:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:19:5-76
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:14:5-76
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:20:5-83
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:20:22-80
+uses-permission#com.huawei.permission.sec.MDM.v2
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.REAL_GET_TASKS
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:23:22-70
+uses-permission#com.huawei.permission.sec.ACCESS_UDID
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:24:5-77
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:24:22-74
+uses-permission#com.huawei.permission.app.DOWNLOAD
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:25:22-71
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:26:22-74
+uses-permission#com.android.permission.GET_INSTALLED_APPS
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:27:22-78
+meta-data#hw.theme_type
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:30:9-32:35
+	android:value
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:32:13-32
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:31:13-41
+meta-data#permission.reason.android.permission-group.CALENDAR
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:33:9-35:72
+	android:resource
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:34:13-79
+provider#com.huawei.openalliance.ad.ppskit.provider.PPSInstallFileProvider
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:41:9-45:50
+	android:grantUriPermissions
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:45:13-47
+	android:authorities
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:43:13-69
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:42:13-93
+provider#com.huawei.openalliance.ad.ppskit.provider.InnerApiProvider
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:46:9-49:40
+	android:authorities
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:48:13-72
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:47:13-87
+service#com.huawei.android.hms.ppskit.PpsCoreService
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:52:13-72
+intent-filter#action:name:com.huawei.android.hms.ppskit.PPS_API_SERVICE
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:54:13-56:29
+action#com.huawei.android.hms.ppskit.PPS_API_SERVICE
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:55:17-88
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:55:25-85
+activity#com.huawei.openalliance.ad.ppskit.activity.InstallActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:59:9-68:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:62:13-46
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:63:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:61:13-134
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:64:13-66
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:60:13-86
+meta-data#hwc-theme
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:65:13-67:82
+	android:value
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:67:17-79
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:66:17-41
+activity#com.huawei.openalliance.ad.ppskit.activity.HMSSDKInstallActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:69:9-78:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:72:13-46
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:73:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:71:13-134
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:74:13-66
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:70:13-92
+activity#com.huawei.openalliance.ad.ppskit.activity.PPSActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:79:9-94:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:83:13-30
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:82:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:81:13-106
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:80:13-82
+intent-filter#action:name:com.huawei.hms.pps.action.PPS_DETAIL+category:name:android.intent.category.DEFAULT
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:85:13-89:29
+action#com.huawei.hms.pps.action.PPS_DETAIL
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:86:17-79
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:86:25-76
+category#android.intent.category.DEFAULT
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:17-76
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:88:27-73
+activity#com.huawei.openalliance.ad.ppskit.activity.InnerPPSActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:95:9-104:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:100:13-49
+	android:label
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:99:13-30
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:98:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:97:13-134
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:96:13-87
+activity#com.huawei.openalliance.ad.ppskit.activity.InnerPPSArActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:105:9-114:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:109:13-30
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:108:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:107:13-134
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:106:13-89
+activity#com.huawei.openalliance.ad.ppskit.activity.PPSRewardActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:115:9-133:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:119:13-47
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:118:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:117:13-141
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:120:13-66
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:116:13-88
+intent-filter#action:name:com.huawei.hms.pps.action.PPS_REWARD+category:name:android.intent.category.DEFAULT
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:121:13-125:29
+action#com.huawei.hms.pps.action.PPS_REWARD
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:122:17-79
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:122:25-76
+meta-data#android.notch_support
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:130:13-132:41
+	android:value
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:132:17-38
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:131:17-53
+activity#com.huawei.openalliance.ad.ppskit.activity.InnerPPSRewardActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:134:9-145:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:137:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:136:13-134
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:138:13-66
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:135:13-93
+activity#com.huawei.openalliance.ad.ppskit.activity.InnerPPSInterstitialAdActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:146:9-158:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:150:13-47
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:149:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:148:13-122
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:151:13-83
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:147:13-101
+activity#com.huawei.openalliance.ad.ppskit.activity.InterstitialAdActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:159:9-177:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:163:13-47
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:162:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:161:13-122
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:164:13-83
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:160:13-93
+intent-filter#action:name:com.huawei.hms.pps.action.PPS_INTERSTITIAL+category:name:android.intent.category.DEFAULT
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:165:13-169:29
+action#com.huawei.hms.pps.action.PPS_INTERSTITIAL
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:166:17-85
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:166:25-82
+activity#com.huawei.openalliance.ad.ppskit.activity.AgProtocolActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:178:9-186:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:181:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:180:13-59
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:182:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:179:13-89
+activity#com.huawei.openalliance.ad.ppskit.activity.PPSArActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:187:9-202:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:191:13-49
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:190:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:189:13-74
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:192:13-71
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:188:13-84
+intent-filter#action:name:com.huawei.hms.pps.action.PPS_AR+category:name:android.intent.category.DEFAULT
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:193:13-197:29
+action#com.huawei.hms.pps.action.PPS_AR
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:194:17-75
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:194:25-72
+activity#com.huawei.opendevice.open.OAIDSettingActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:203:9-223:20
+	android:label
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:207:13-29
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:206:13-36
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:205:13-106
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:208:13-63
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:204:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:${applicationId}+data:scheme:hwppsprivacy
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:209:13-218:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.techgeeks.notalone.number.huawei+data:scheme:hwppsprivacy
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:209:13-218:29
+action#android.intent.action.VIEW
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:17-69
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:210:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:17-78
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:213:27-75
+data
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:215:17-217:53
+	android:host
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:216:21-52
+	android:scheme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:217:21-50
+activity#com.huawei.opendevice.open.PrivacyActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:224:9-244:20
+	android:label
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:228:13-29
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:227:13-36
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:226:13-106
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:229:13-63
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:225:13-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:${applicationId}+data:scheme:hwppsprivacydetail
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:230:13-239:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.techgeeks.notalone.number.huawei+data:scheme:hwppsprivacydetail
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:230:13-239:29
+activity#com.huawei.opendevice.open.WhyThisAdStatementActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:245:9-265:20
+	android:label
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:249:13-29
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:248:13-36
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:247:13-106
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:250:13-63
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:246:13-81
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:${applicationId}+data:scheme:hwppsprivacyadinfo
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:251:13-260:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.techgeeks.notalone.number.huawei+data:scheme:hwppsprivacyadinfo
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:251:13-260:29
+activity#com.huawei.opendevice.open.SimplePrivacyActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:266:9-275:20
+	android:label
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:270:13-29
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:269:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:268:13-106
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:271:13-63
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:267:13-76
+activity#com.huawei.openalliance.ad.ppskit.activity.PPSFullScreenNotifyActivity
+ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:276:9-285:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:279:13-46
+	android:exported
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:280:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:278:13-74
+	android:theme
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:281:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-core:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8a1422bad554f34767e565696bdca3d9\jetified-ads-core-3.4.49.301\AndroidManifest.xml:277:13-98
+meta-data#com.huawei.hms.client.service.name:ads-banner
+ADDED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-banner:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f722634ae1a390c4d796fcb062ba42ca\jetified-ads-banner-13.4.49.301\AndroidManifest.xml:14:13-73
+meta-data#com.huawei.hms.client.service.name:ads-template
+ADDED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:13:9-15:56
+	android:value
+		ADDED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [com.huawei.hms:ads-template:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\8869826314574ef59fd406e2b648aab1\jetified-ads-template-13.4.49.301\AndroidManifest.xml:14:13-75
+meta-data#com.huawei.hms.client.service.name:ads-native
+ADDED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-native:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\0bfadef5ed0eb04888252f3394edf4bf\jetified-ads-native-13.4.49.301\AndroidManifest.xml:14:13-73
+meta-data#com.huawei.hms.client.service.name:ads-interstitial
+ADDED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:13:9-15:60
+	android:value
+		ADDED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:15:13-57
+	android:name
+		ADDED from [com.huawei.hms:ads-interstitial:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\d8ca25bd05b18ce0eba1467bfdc45f4d\jetified-ads-interstitial-13.4.49.301\AndroidManifest.xml:14:13-79
+meta-data#com.huawei.hms.client.service.name:ads-reward
+ADDED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-reward:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2af85dc3fce04ff4f1fbc0291dde57f8\jetified-ads-reward-13.4.49.301\AndroidManifest.xml:14:13-73
+meta-data#com.huawei.hms.client.service.name:ads-lang
+ADDED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:13:9-15:52
+	android:value
+		ADDED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from [com.huawei.hms:ads-lang:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\2384f00a70c11a8c04febb311b4a8fcd\jetified-ads-lang-13.4.49.301\AndroidManifest.xml:14:13-71
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:12:22-72
+meta-data#com.huawei.hms.client.service.name:ads-splash
+ADDED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:15:9-17:54
+	android:value
+		ADDED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:17:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-splash:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\58d9cdefad5df2276e03a16dba2c6ea6\jetified-ads-splash-13.4.49.301\AndroidManifest.xml:16:13-73
+meta-data#com.huawei.hms.client.service.name:ads-instream
+ADDED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:13:9-15:56
+	android:value
+		ADDED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [com.huawei.hms:ads-instream:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\19297a1f0262a802f9094ce9934bdcc6\jetified-ads-instream-13.4.49.301\AndroidManifest.xml:14:13-75
+meta-data#com.huawei.hms.client.service.name:ads-jsbridge
+ADDED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:13:9-15:55
+	android:value
+		ADDED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:14:13-75
+meta-data#com.huawei.hms.min_api_level:pps-phone:adsbrainkit
+ADDED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:16:9-18:33
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:66:9-68:33
+MERGED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:66:9-68:33
+	android:value
+		ADDED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:18:13-30
+	android:name
+		ADDED from [com.huawei.hms:ads-jsbridge:3.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\f38b97df8980fc67c0be671bb93707c7\jetified-ads-jsbridge-3.4.49.301\AndroidManifest.xml:17:13-78
+meta-data#com.huawei.hms.client.service.name:ads-base
+ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:17:9-19:52
+	android:value
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:18:13-71
+activity#com.huawei.openalliance.ad.activity.PPSLauncherActivity
+ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:21:9-39:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:24:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:22:13-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:${applicationId}+data:scheme:hwpps
+ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:25:13-34:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.techgeeks.notalone.number.huawei+data:scheme:hwpps
+ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:25:13-34:29
+activity#com.huawei.openalliance.ad.activity.PPSBridgeActivity
+ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:40:9-47:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:41:13-81
+activity#com.huawei.openalliance.ad.activity.PPSNotificationActivity
+ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:48:9-55:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:50:13-37
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:49:13-87
+activity#com.huawei.openalliance.ad.activity.AgProtocolActivity
+ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:56:9-64:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:59:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:58:13-59
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:60:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.49.301] C:\Users\ahmad.naeem\.gradle\caches\transforms-2\files-2.1\faef7ae3cdf131537ec0825b547e7a0c\jetified-ads-base-13.4.49.301\AndroidManifest.xml:57:13-82

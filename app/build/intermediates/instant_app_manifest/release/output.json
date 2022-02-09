@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.techgeeks.notalone.number.huawei",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 2,
+        "versionName": "1.0.1",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.techgeeks.notalone.number.huawei",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}
